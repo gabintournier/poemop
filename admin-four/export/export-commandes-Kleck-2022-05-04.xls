@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"JEAN";"Anthony";"54960";"MERCY-LE-BAS";"2 rue des écoles";"";"06.73.45.32.19";"06.07.50.37.94";"";"1555";"1575";"600";"600";"Ordinaire"
+"PHAMTAN";"Bernadette";"54150";"BRIEY";"21 rue emile gentil";"";"";"03.82.20.22.01";"";"1555";"1575";"650";"593";"Ordinaire"
+"GIRELLI";"Patrice";"55240";"ETON";"37 grande rue";"";"06.16.36.33.66";"03.29.85.43.38";"";"1555";"1575";"500";"500";"Supérieur"
+"DA SILVA PEREIRA";"Rui manuel";"54560";"ANDERNY";"22 rue de la gare";"";"03.82.22.38.04";"06.05.95.88.60";"";"1555";"1575";"500";"500";"Supérieur"
+"JACQUOT";"Daniel";"55600";"ECOUVIEZ";"8 b rue du fayel";"";"03.29.80.08.14";"06.80.66.99.32";"";"1555";"1575";"850";"850";"Ordinaire"
+"GOMEZ";"Jessie";"55400";"BOINVILLE-EN-WOEVRE";"4 place des etaraux";"";"06.82.05.76.69";"06.88.04.00.66";"";"1555";"1575";"500";"501";"Ordinaire"
+"GLOTTIN";"Romain";"54750";"TRIEUX";"8 rue de bourgogne";"";"";"06.62.90.30.08";"";"1555";"1575";"500";"0";"Supérieur"

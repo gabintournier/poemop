@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"GIRELLI";"Patrice";"55240";"ETON";"37 grande rue";"";"06.16.36.33.66";"03.29.85.43.38";"";"1220";"1230";"700";"700";"Supérieur"
+"COLON";"Michèle";"54150";"ANOUX";"2, lot lucien barbé  mance";"";"";"06.84.76.00.66";"";"1220";"1230";"800";"1100";"Supérieur"
+"HABERT";"Laurent";"54980";"BATILLY";"2lot la vigne";"";"";"06.51.84.53.72";"";"1220";"1230";"1500";"1500";"Ordinaire"
+"MOELO";"Gérald";"54400";"COSNES-ET-ROMAIN";"177 rue de lorraine";"";"06.79.66.54.12";"06.76.91.80.52";"";"1220";"1230";"1000";"1000";"Supérieur"
+"RIDREMONT";"Marie-claude";"55600";"ECOUVIEZ";"21 avenue victor hugo";"Le livreur peut-il me joindre au 06 49 35 89 37 pour me prévenir de son arrivée ? MERCI !";"06.49.35.89.37";"06.49.35.89.37";"";"1220";"1230";"1000";"1000";"Supérieur"
+"VAN DELFT";"Marc andré ";"54800";"VILLE-SUR-YRON";"2 la cour au pont";"";"06.35.24.42.76";"06.40.52.96.07";"";"1220";"1230";"500";"500";"Ordinaire"
+"DAUTEL";"Jean-charles";"54720";"CHENIERES";"16 rue de la croisette";"";"06.51.81.39.32";"06.51.81.39.32";"";"1220";"1230";"1000";"882";"Supérieur"
+"NOWAK";"Martine";"54750";"TRIEUX";"15 rue de savoie ";"";"07.81.01.10.08";"07.81.01.10.08";"";"1220";"1230";"1000";"1000";"Ordinaire"
+"MONGINOT";"Monginot";"54610";"CHENICOURT";"8 grande rue";"";"06.61.83.60.14";"06.61.83.60.14";"";"1220";"1230";"1000";"1000";"Ordinaire"
+"PREVOT";"Herve";"54620";"BOISMONT";"Moulin de charpont";"";"03.82.89.84.68";"06.87.56.97.26";"";"1220";"1230";"1000";"1000";"Ordinaire"

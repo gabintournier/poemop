@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DELANDRE;Patricia;4 chemin des aisances;55220;LEMMES;1000;1000;1010;O;;06.81.55.76.42;;
+RAGUET;Richard;07 grande rue;55500;GIVRAUVAL;1250;1000;1010;S;;06.70.81.65.67;03.29.76.29.10;
+SENEGACNIK;Lionel;2 rue de la crouée;55230;SPINCOURT;1500;1000;1010;S;;06.59.16.57.36;;
+THILLOU;bruno;2rue du plantin;55840;Thierville sur meuse;1500;1000;1010;S;;03.29.86.44.61;06.95.93.10.52;

@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"LEGATHE";"Legathe";"50180";"SAINT-GILLES";"1 hotel dalin";"";"02.33.55.13.03";"06.77.22.86.23";"";"1328";"1354";"500";"500";"Ordinaire"
+"FRESNEL";"Claire";"14610";"THAON";"9 rue du fresne";"";"06.63.33.30.76";"07.78.10.84.95";"";"1279";"1305";"1000";"1000";"Supérieur"
+"SCHNEIDER";"Marguerite  ";"50390";"NEHOU";"4 rue du gros chêne";"";"06.12.65.05.04";"";"";"1279";"1305";"1000";"1000";"Supérieur"
+"DE TREGLODE";"Laurence";"50250";"PRETOT-SAINTE-SUZANNE";"Chateau de sainte suzanne, 24 route des moulins";"";"06.83.30.94.79";"02.33.71.95.01";"";"1279";"1305";"1000";"1000";"Supérieur"
+"RONCEN";"Fabrice";"14112";"BIEVILLE-BEUVILLE";"8 rue de lympstone";"";"06.77.18.62.15";"";"";"1279";"1305";"1000";"1000";"Ordinaire"
+"BONNAUDIN";"François";"14610";"ANGUERNY";"4 rue du point du jour";"";"06.68.17.07.53";"06.68.17.07.53";"";"1328";"1354";"550";"600";"Supérieur"
+"CASTRONOVO";"Cendra";"14490";"BALLEROY";"51 rue du sapin";"";"06.14.77.08.21";"";"";"1328";"1354";"500";"500";"Ordinaire"
+"VALLEE ";"Jocelyne ";"61130";"DAME-MARIE";"L'espérance ";"";"06.81.63.88.42";"";"";"1279";"1305";"1200";"1087";"Supérieur"
+"MIRAMOND ";"Catherine";"61130";"LE GUE-DE-LA-CHAINE";"La heliere ";"Commande très urgente: Nous n'avons plus une goutte de fioul, notre chaudière est à l'arrêt";"02.33.83.96.17";"06.87.33.37.44";"";"1279";"1305";"1800";"2000";"Supérieur"
+"PAYSANT";"Virginie";"27160";"BRETEUIL SUR ITON";"66 avenue fernand prevost";"";"06.83.16.74.04";"";"";"1328";"1354";"500";"500";"Supérieur"

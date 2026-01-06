@@ -1,0 +1,4 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AUBERT;Bernard;5 rue des roseaux;04000;DIGNE-LES-BAINS;500;980;990;S;Petit camion chemin étroit ;06.75.09.68.53;06.75.09.68.53;
+GERVAIS ;Yves;680 avenue jean moulin ;04800;GREOUX-LES-BAINS;1600;980;990;O;;06.20.54.72.75;04.92.78.01.20;
+VAN DEN BRANDE;Jozef;Rue de l'hubac 50;04500;MONTAGNAC-MONTPEZAT;1000;980;990;O;;04.92.77.53.56;+32486439090;

@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CURE;François;16 rue de chambolle;21220;REULLE-VERGY;1000;1187;1212;S;;07.88.29.35.88;;
+GARCIA;Patricia;17 rue de dijon;21560;BRESSEY-SUR-TILLE;1000;1187;1212;S;;06.63.32.23.72;;
+GUILLEMIN;Carole;26, rue du docteur tassin;21200;BEAUNE;500;1187;1212;O;;06.66.28.62.82;06.66.28.62.82;
+THEUREL;Rachel;9 rue de bressey;21800;CHEVIGNY-SAINT-SAUVEUR;1500;1187;1212;S;;06.03.19.57.91;;
+DESJOURS;Lisa   ;15 rue du gué d'oiseau;21310;CHARMES;500;1187;1212;O;;06.81.90.97.69;;
+HILAIRE;Bernard;6 rue du moulin;21700;VILLEBICHOT;500;1187;1212;S;;06.32.89.92.18;;
+BLAISIUS;Patrick  ;4 rue du meix raillon;21350;VITTEAUX;1000;1187;1212;O;;06.75.32.49.82;06.75.32.49.82;
+LAVIE;Pierre  ;8 rue du mont chauvin;21410;MALAIN;1000;1187;1212;O;;03.80.23.66.49;06.78.92.74.23;
+BIRGLEN;Coralie;9 rue du camp d'aviation ;21230;ALLEREY;500;1187;1212;O;Payement en plusieurs fois ;06.87.31.49.02;;
+GODEFROID;Aldo;23 les prés hauts;21150;POUILLENAY;500;1187;1212;O;;03.80.96.82.71;;

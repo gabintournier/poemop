@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"DE ROQUEFEUIL";"Bertrand";"13540";"AIX-EN-PROVENCE";"580 avenue de la touloubre";"";"06.66.47.64.27";"";"";"1051";"1058";"3000";"Ordinaire"
+"AGENEAU";"Bertrand ";"13570";"BARBENTANE";"564 chemin d'arles";"";"06.83.84.02.26";"06.60.97.87.92";"";"1063";"1070";"1250";"Ordinaire"
+"VALLEE";"Stéphane";"13122";"VENTABREN";"8 rue du berry";"";"06.14.09.56.49";"06.66.59.14.15";"";"1063";"1070";"1000";"Ordinaire"
+"PANAROTTO";"Aline";"13190";"ALLAUCH";"32 impasse des alouettes";"";"06.66.26.71.42";"";"";"1051";"1058";"2000";"Ordinaire"

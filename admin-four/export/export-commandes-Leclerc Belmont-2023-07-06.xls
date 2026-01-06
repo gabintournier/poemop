@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"ROSE MARIE";"Loureiro";"67700";"GOTTENHOUSE";"2 rue du stade";"livraison après le 14 juillet merci";"06.21.33.15.36";"09.87.45.64.04";"";"1078";"1096";"500";"500";"Ordinaire"
+"STUSSI";"Damaris";"67130";"BELLEFOSSE";"101, rue principale";"Livraison impérative du 10 au 13 juillet.merci";"06.22.67.16.45";"06.22.67.16.45";"";"1078";"1096";"1000";"1000";"Ordinaire"
+"DEL";"Jean-denis";"67340";"WEITERSWILLER";"2,route de la petite pierre";"je suis absent pour plusieurs jours à partir du 14 juillet donc il faudrait que la livraison ait lieu avant";"06.02.27.69.65";"";"";"1078";"1096";"1000";"1000";"Ordinaire"
+"FREYDER";"Matthieu";"67340";"INGWILLER";"7 route de bouxwiller";"";"06.52.37.51.90";"";"";"1078";"1096";"500";"500";"Ordinaire"
+"BURGER";"Solange";"67340";"WEITERSWILLER";"6 rue des tilleuls";"Livraison possible le lundi 10/07, samedi 15/07, lundi 17/07 ou un autre lundi ou vendredi.";"03.88.03.58.78";"06.88.95.72.29";"";"1078";"1096";"1500";"924";"Ordinaire"
+"WEIDMANN";"Sylvie";"67430";"BUTTEN";"48 rue courte";"LIVRAISON SOUHAITEE à l'adresse suivante chez Isabelle RASPES
+47 rue Haute - 67430 BUTTEN";"06.88.18.14.11";"";"";"1078";"1096";"1000";"1000";"Ordinaire"

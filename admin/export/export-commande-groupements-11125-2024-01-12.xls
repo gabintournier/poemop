@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHRISTEL (TRUCK);Janine;27 rue du général de gaulle;10500;LESMONT;1000;1130;1130;O;;03.25.27.92.41;06.72.67.64.30;
+HOUGARDY;Jean-francois ;12 rue du gilliard;10330;CHAVANGES;500;1130;1130;S;;06.85.36.12.70;03.25.92.11.21;
+BILLET;Pascal;13,rue marcel dupont;10000;TROYES;500;1130;1130;S;livraison au plus tard le 23 janvier 12 h merci;06.74.20.08.41;06.52.12.97.02;
+FRANCOIS;Jerome;14 avenue pasteur;10160;AIX-EN-OTHE;500;1130;1130;S;;07.49.14.64.52;09.88.47.52.43;
+BARBIER;Daniel;25 rue carnot;10800;SAINT-JULIEN-LES-VILLAS;500;1130;1130;S;;06.09.85.39.55;06.09.85.39.55;
+BERTRAND ;Valérie ;12 rue du paradis ;10440;TORVILLIERS;1000;1130;1130;O;;06.76.47.81.56;;
+MENNERET;Monique;1 rue basse;10160;VULAINES;1000;1130;1130;O;;03.25.40.80.68;;
+LECONTE ;Estrella ;6 rue du calvaire ;10180;SAINT-LYE;550;1130;1130;S;;03.25.46.00.23;06.28.71.66.76;
+MAKSON;Catherine ;22 rue des heros de la résistance ;10180;SAINT-LYE;500;1130;1130;O;;06.81.65.59.05;;

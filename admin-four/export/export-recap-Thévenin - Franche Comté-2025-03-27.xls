@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"GIRARDET";"Fred ";"25620";"TARCENAY";"5 rue derriere le fourneau";"06.37.66.42.95";"06.80.82.21.21";"";"500";"500"
+"KUNTZ";"Christine";"25000";"BESANCON";"53 chemin des pres de vaux";"06.64.55.53.03";"06.95.01.69.59";"en arrivant pour livrer la cliente, celle-ci nous informe qu'elle n'a pas commandé de FIOUL et qu'elle ne souhaite donc pas être livrée";"1000";"0"
+"DEGIVE";"Emmanuel ";"25320";"MONTFERRAND-LE-CHATEAU";"4, rue du chenassard";"";"06.30.36.49.57";"";"1000";"1000"
+"EPENOY";"Christian  ";"25410";"POUILLEY-FRANCAIS";"2 rue de la fontaine";"03.81.82.07.64";"06.72.80.97.25";"";"1000";"999"
+"BUTHIAUX";"Alain";"25770";"SERRE-LES-SAPINS";"2 rue du tilleul";"06.52.05.62.70";"03.81.59.04.02";"";"1200";"1290"
+"MARECHAL";"Audrey";"25660";"SAONE";"5 rue louis pergaud";"";"06.33.83.76.87";"";"1000";"1000"
+"HUMBERT";"Philippe";"25000";"BESANCON";"5 rue robert demangel";"06.27.66.57.28";"06.08.41.07.13";"";"1500";"1500"
+"SIMON";"Gerard";"25320";"MONTFERRAND-LE-CHATEAU";"7 rue de la mairie";"";"06.87.97.68.97";"";"1000";"1001"
+"SIMMEN";"Patrick";"25620";"TARCENAY";"14 rue de la source";"";"07.66.72.87.23";"";"500";"500"

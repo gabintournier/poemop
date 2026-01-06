@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"MORQUE";"Bruno";"55250";"NUBECOURT";"2 rue du petit coin";"";"06.72.47.78.38";"";"1000";"1000"
+"RAGUET";"Richard";"55500";"GIVRAUVAL";"07, grande rue";"03.29.76.29.10";"06.70.81.65.67";"";"1500";"764"
+"SOUFFLET";"Virginie ";"55000";"BAR-LE-DUC";"15 et 17 rue montant prolongée ";"";"06.51.71.60.85";"";"1000";"998"
+"PARMENTIER";"Bernard ";"55100";"MARRE";"16 rue du parge ";"";"06.85.39.65.02";"Non livré car plusieurs points de livraison";"3000";"0"

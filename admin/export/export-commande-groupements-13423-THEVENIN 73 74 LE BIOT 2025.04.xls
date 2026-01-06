@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+COLIN;Jean;7 avenue de geneve;74200;THONON-LES-BAINS;600;600;1110;1130;O;;06.64.43.47.72;;
+LUGAND;Roger;7 ter chemin des vignes;74200;THONON-LES-BAINS;1000;0;1060;1080;O;;04.50.71.36.01;06.87.39.67.76;
+PUAUD;Stéphanie;2100 a avenue de thonon les fleysets;74200;ALLINGES;1500;1501;1060;1080;O;;06.12.89.44.45;;
+REYNAUD;Patrick;151 impasse de la pelluaz;74200;ARMOY;1500;1500;1060;1080;S;;06.34.70.81.55;;

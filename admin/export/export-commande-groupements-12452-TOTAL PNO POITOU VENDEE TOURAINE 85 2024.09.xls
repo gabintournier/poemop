@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BAUDRIT;Vincent;15 impasse de la brizardiere;85120;LA TARDIERE;1000;1080;1095;S;;06.09.59.15.76;;
+BONNET;Camille;La simonière;85200;BOURNEAU;500;1080;1095;O;;06.46.68.41.50;;
+BRISSEAU;Elsa;05 chemin de la fuie;85570;POUILLE;500;1080;1095;O;;06.59.82.86.51;;
+LENOIR;Régis;40 rte de mérité;85200;L'ORBRIE;500;1080;1095;S;;06.16.85.22.15;;
+MURAILLON;Jean-luc;4 rue de la garde;85200;SAINT-MICHEL-LE-CLOUCQ;500;1080;1095;O;;02.44.57.59.16;06.83.29.42.38;
+SARL;Artlaser;8r abbé giraudet ;85410;LA CAILLERE-SAINT-HILAIRE;550;1080;1095;O;petit camion;06.83.45.56.22;;
+STAMM;Isabelle;3 rue georges simenon;85700;SAINT-MESMIN;500;1080;1095;O;;06.41.94.14.42;;
+VATEL;Hervé et marie-cécile ;34 route d'auzay la roussière ;85200;CHAIX;2800;1080;1095;O; Il y aura 2 livraisons dans la même cour pour 2 maisons différentes: 1800 L pour eux et 1000 pour Mr et Mme Martel 34 bis rte d auzay 85200 Chaix ;06.33.24.25.68;;
+VUILLEMIN;Simon;140 rue saint-etienne des loges;85240;SAINT-HILAIRE-DES-LOGES;900;1080;1095;O;;06.11.44.61.78;;

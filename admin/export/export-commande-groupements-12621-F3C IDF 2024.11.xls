@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHERIF;Fetna;27 avenue gonzalve;94420;LE PLESSIS-TREVISE;1000;1056;1076;O;;06.14.58.20.26;01.45.76.64.93;
+COUTURIER;Bénédicte ;5 impasse du clos de la guérinière ;91390;MORSANG-SUR-ORGE;1000;1056;1076;O;;06.20.61.17.22;;
+GUIMIOT;Christine;2 allée michel berger;91700;SAINTE-GENEVIEVE-DES-BOIS;600;1110;1130;S;;01.69.04.88.40;06.77.30.92.34;
+LE DAIN;Hubert;13 rue lamartine;91400;ORSAY;1000;1056;1076;S;Je ne peux recevoir la livraison que le jeudi 21 novembre matin avant 10h ou les 22  25 et 26 novembre. Si ces dates ne sont pas possible à respecter veuillez annuler ma commande. ;06.78.47.60.14;;
+LECOCQ;Marine;7 bis chemin des prés;91140;VILLEJUST;1000;1056;1076;O;;06.20.48.10.58;06.20.04.79.06;
+LEROY;Hugues;102 rue musselburgh;94500;CHAMPIGNY-SUR-MARNE;500;1110;1130;O;;06.87.32.69.54;;
+MOREAU;Frederic;1 chemin des glands;91760;ITTEVILLE;1000;1056;1076;O;;06.35.96.99.26;01.69.90.91.79;
+PASQUELIN;Gilles;14 rue des perroquets;94350;VILLIERS-SUR-MARNE;1000;1056;1076;O;;07.88.88.13.15;;
+VINCOT;Yves;15 rue des defenseurs de verdun;94130;NOGENT-SUR-MARNE;1000;1056;1076;S;;01.48.71.01.82;06.80.41.48.98;

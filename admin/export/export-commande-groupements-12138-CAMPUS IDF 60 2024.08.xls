@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Date;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ALPHONSE;Michel;9 rue hubert mesnil;60200;COMPIEGNE;;2000;2001;1173;1193;O;Il faut un petit camion avec 60 mètres de tuyau. Le camion ne peut pas rentrer et doit se mettre devant le portail.;06.48.34.00.38;;
+CLEMENT;Laurent;34 avenue du bois brandin;60580;COYE-LA-FORET;;2000;2000;1173;1193;S;;06.88.46.46.56;;
+FOSSIER ;Corine;36 place du fort;60950;MONTAGNY-SAINTE-FELICITE;;1400;1401;1175;1195;S;;06.71.63.18.12;06.71.63.18.12;
+LEFEBVRE;Anne;13 rue de metz;60129;GLAIGNES;;1500;1500;1175;1195;S;;06.78.25.44.20;;
+MATHY;Christian;12b les hauts de fosseuse;60540;FOSSEUSE;;750;735;1225;1245;S;;06.03.24.89.86;;
+SCI AGATHE;Philippe;Saine fontaine - 33 rue de crèvecoeur;60130;BULLES;;2000;2001;1173;1193;O;;06.30.04.46.60;07.68.73.59.06;
+SIMOES ;Joao ;19 rue d'herivaux ;60560;ORRY-LA-VILLE;;1400;1265;1175;1195;O;;06.86.00.92.95;06.03.99.69.04;
+WALCART;Emeline;335 rue lefèvre lesueur;60320;BETHISY-SAINT-PIERRE;;1000;1001;1175;1195;O;;06.37.83.69.58;;

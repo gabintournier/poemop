@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"TUCKER";"Sylvie";"06530";"Cabris";"1036 avenue du docteur belletrud";"";"06.68.84.32.99";"04.93.60.52.80";"";"1208";"1238";"1000";"1101";"Ordinaire"
+"RIZZO";"Patrick";"06210";"MANDELIEU-LA-NAPOULE";"279 bd esterel parc";"";"";"06.43.76.53.79";"";"1188";"1218";"3000";"2249";"Ordinaire"
+"EUGENE";"Marc";"06800";"CAGNES-SUR-MER";"7 bis chemin du puits fleuri";"";"";"06.62.48.33.70";"";"1208";"1238";"1000";"1004";"Ordinaire"
+"HAMDAN";"Fadi";"06100";"NICE";"4 avenue delphine";"";"";"06.63.87.97.59";"";"1248";"1278";"800";"802";"Ordinaire"

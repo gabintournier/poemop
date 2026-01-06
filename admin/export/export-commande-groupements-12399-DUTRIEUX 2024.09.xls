@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+COLLARD;Romain;4 rue du docteur charrin;43140;SAINT-DIDIER-EN-VELAY;500;1079;1094;O;;06.24.55.29.66;;
+DI CALOGERO ;Fanny;32 rue du bois d avaize;42100;SAINT-ETIENNE;1000;1039;1054;O;;07.55.41.37.22;;
+FAURE;Emmanuel     ;2 impasse olympe de gouges;42530;SAINT-GENEST-LERPT;1000;1039;1054;O;Faire le plein de la cuve : quantité estimée 1000 à 1500L;06.51.41.23.01;;
+GALLONET;Jf;2 rue alphonse de lamartine;43330;PONT-SALOMON;1000;1039;1054;S;;06.18.61.68.52;;
+LABOURIER;Emile;3 rue des genets;42570;SAINT-HEAND;1000;1039;1054;S;;04.77.30.91.84;06.79.05.65.96;
+MALLET;Noel;420 rte de Bourg-Argental;42660;PLANFOY;1000;1039;1054;O;;04.77.51.41.37;06.71.43.69.69;
+Michalet;Jacques;3 rue Jules Rimet;42340;VEAUCHE;1000;1039;1054;O;;04.77.54.77.64;06.81.86.99.19;
+PERRIN;Bertrand;1220 route de chaussitre;42660;MARLHES;2000;1034;1049;O;;06.50.06.97.35;;
+ROUSSELLE;Aurelien;5 avenue jean bonnevialle ;43140;LA SEAUVE-SUR-SEMENE;1000;1039;1054;S;;06.21.74.21.47;;
+VILLETTE;Anne;22 chemin de la bessonniere;43140;SAINT-DIDIER-EN-VELAY;1500;1039;1054;O;;06.84.31.03.38;;

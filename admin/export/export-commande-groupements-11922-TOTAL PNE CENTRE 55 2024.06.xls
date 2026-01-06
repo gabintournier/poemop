@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+MORQUE;Bruno;2 rue du petit coin;55250;NUBECOURT;1000;1146;1162;O;;06.72.47.78.38;;
+PARMENTIER;Bernard ;16 rue du parge ;55100;MARRE;3000;1134;1150;S;;06.85.39.65.02;;
+RAGUET;Richard;07, grande rue;55500;GIVRAUVAL;1500;1146;1162;S;;06.70.81.65.67;03.29.76.29.10;
+SOUFFLET;Virginie ;15 et 17 rue montant prolongée ;55000;BAR-LE-DUC;1000;1146;1162;O;Merci de livrer de préférence le matin au 15 rue montant prolongée ;06.51.71.60.85;;

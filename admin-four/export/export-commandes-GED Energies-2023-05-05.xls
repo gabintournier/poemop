@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"PATIRAM";"Jean-nicolas ";"02840";"EPPES";"65 rue de coucy les eppes";"";"06.13.16.50.60";"";"";"1100";"1130";"1000";"1001";"Supérieur"
+"PIERRET";"Henri";"02870";"CREPY";"8 rue du lavier à vertefeuille";"";"06.30.55.42.97";"06.85.69.13.51";"";"1100";"1130";"1000";"1000";"Ordinaire"
+"TISON ";"Christelle";"02000";"MONS-EN-LAONNOIS";"2 rue de la vieille moncelle";"";"06.13.98.74.64";"03.23.23.01.88";"";"1130";"1160";"500";"500";"Ordinaire"

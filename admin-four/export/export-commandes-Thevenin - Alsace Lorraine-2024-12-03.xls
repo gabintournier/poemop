@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"JULLY";"Isabelle ";"68570";"SOULTZMATT";"3 rue du vignoble";"";"06.83.39.76.58";"03.89.47.08.30";"";"1073";"1093";"500";"Ordinaire"
+"LINCKER";"Frédéric";"68000";"COLMAR";"3 rue de la mittelharth";"";"";"06.31.54.87.47";"";"1023";"1043";"1000";"Ordinaire"
+"RICARDO";"Jose";"68000";"COLMAR";"51 rue de hunawihr";"";"";"06.84.39.66.08";"";"1023";"1043";"1000";"Ordinaire"
+"HECKY";"Frédéric";"68127";"SAINTE-CROIX-EN-PLAINE";"Du quai 6";"";"06.72.13.52.21";"03.89.20.94.98";"";"1073";"1093";"500";"Supérieur"
+"BERTHIER";"Jean-pierre ";"68370";"ORBEY";"45 rue ch.de gaulle";"";"06.27.05.72.47";"03.89.71.26.37";"";"1023";"1043";"1500";"Ordinaire"

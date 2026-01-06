@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BASTIEN; audrey ;169 rue des 3 et 7 rta;88290;SAULXURES-SUR-MOSELOTTE;1000;1000;1070;1090;S;;07.82.47.60.73;;
+CANONACO;Jean paul ;5 rue de la favee;88160;LE THILLOT;1000;1000;1070;1090;O;;06.11.33.21.97;;
+CHAUMY;Natalie;379 route de morbieux ;88290;SAULXURES-SUR-MOSELOTTE;1000;1000;1070;1090;O;;07.86.26.20.71;07.86.26.20.71;
+DUBOURG;Garry;51 route de lusine;88120;LE SYNDICAT;1000;0;1070;1090;O;;06.59.84.12.70;06.37.69.90.61;
+JOUAMI;Bernadette;24 route du brabant;88310;CORNIMONT;1000;1000;1070;1090;S;;06.08.13.19.48;06.40.70.28.64;
+LAURENT;Karine;5 rue du pont jean;88560;SAINT-MAURICE-SUR-MOSELLE;1500;1241;1070;1090;O;Bonjour commande urgente mais nous sommes absents la semaine prochaine (du 12 au 18/08) quantité environ 1500 L (faire le plein complet de la citerne) ;06.28.94.44.38;06.28.94.44.38;
+MARECO;Alexandre ;371 rue de la treille ;88550;POUXEUX;1500;1499;1070;1090;O;;06.25.85.06.92;06.11.43.55.65;
+MELDRAY;Patrick;299 rue du 3ie et7 ie rta;88290;SAULXURES-SUR-MOSELOTTE;1000;1000;1070;1090;O;;07.85.46.35.52;09.77.44.03.99;
+ZANDER GITE COEUR DES VOSGES ;Geoffroy;50 rue du daval;88310;CORNIMONT;1000;1000;1070;1090;O;;06.01.77.37.86;;

@@ -1,0 +1,8 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BERNARD;Marie-claire;35 route de touty;33370;POMPIGNAC;1000;990;990;S;La livraison doit se faire avec un petit camion.;06.84.46.21.51;06.35.93.61.48;
+BOURDOT;Agnes;40 chemin de caucetey;33880;SAINT-CAPRAIS-DE-BORDEAUX;1000;990;990;S;;07.50.99.34.54;06.76.82.27.66;
+GARCIA;Serge;24 route de sorbede;33450;Montussan;2000;980;980;O;;06.59.24.05.45;05.56.72.98.91;
+GOSSARD;William;624 impasse de bedoutch ;33690;GRIGNOLS;500;1000;1000;S;;06.50.81.76.19;;
+GRAZIANI ;Lise;6 route des resiniers ;33650;CABANAC-ET-VILLAGRAINS;1800;990;990;S;;06.07.18.96.44;06.13.46.46.92;
+SCHWEITZER;Denis;107rue jean moulin;33220;PINEUILH;1300;990;990;S;;06.72.39.71.03;06.01.91.88.77;
+TOURNARIE;Xavier;21 rue victor hugo;33230;COUTRAS;1700;990;990;O;;06.72.04.48.31;;

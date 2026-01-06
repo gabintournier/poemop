@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BROU;Laurent;10 rue du fort;60170;BAILLY;1000;1059;1087;O;;06.52.96.92.82;03.60.45.16.29;
+CHOQUART;Patrick;4 rue perdue;60490;HAINVILLERS;500;1100;1128;O;;06.14.93.44.71;;
+DESMARET;Claude;58 rue michel greuet;60850;SAINT-GERMER-DE-FLY;1000;1059;1087;S;je vous signale que ma cuve est à 53 mètres de la route.;06.37.38.52.87;;
+DUBOS;Angélina;6 rue de la mairie;60380;LACHAPELLE-SOUS-GERBEROY;1000;1059;1087;O;;06.23.33.57.17;;
+FENAILLON ;Jean-claude ;7 ter grande rue ;78980;SAINT-ILLIERS-LA-VILLE;500;1100;1128;O;souhaite un paiement en deux chèques;06.16.51.40.33;01.34.76.00.37;
+GOSSET;Amandine;09 rue de la ville;60360;CONTEVILLE;1500;1059;1087;O;;06.17.29.06.76;06.12.52.20.87;
+PIHAN;Samuel;78 rue de la gare;60390;AUNEUIL;1000;1059;1087;O;;06.63.74.95.53;06.09.24.03.37;
+ZINELABIDINE ;Mohsen;3 rue de l'eglise;60420;DOMPIERRE;800;1100;1128;S;;06.63.09.15.20;;

@@ -1,0 +1,17 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DUPAS;Jacques;200 rue du désert, 200 rue du désert;45560;SAINT-DENIS-EN-VAL;600;1200;1225;O;;07.68.68.81.94;;
+VINCOT;Eliane ;65 route de bouzy;45110;SAINT-MARTIN-D'ABBAT;2000;1182;1207;S;;06.80.41.48.98;01.48.71.01.82;
+DESFEUILLET;Christine ;961 route d'orléans;45160;SAINT-HILAIRE-SAINT-MESMIN;700;1200;1225;S;Nous souhaiterions pouvoir payer en deux fois;07.71.82.86.89;;
+COEUR ;Nadege ;4 rue bongibault bige;45500;SAINT-GONDON;700;1200;1225;S;;02.38.36.97.88;06.08.09.11.32;
+DOURADOU;Christine;1852 rue de l'hôtel dieu;45160;OLIVET;1000;1188;1213;O;;02.38.63.83.08;07.81.33.77.91;
+LABARTHE;Alain;10  petite rue;45300;COURCY-AUX-LOGES;1000;1188;1213;S;;06.08.21.39.85;06.08.21.39.85;
+EDELIN;Bruno;42, avenue levis mirepoix;45330;MALESHERBES;750;1200;1225;O;;06.85.56.58.74;;
+SOUBIRON;Alain;Le moulin de pierre  rue de chantegrille;45380;CHAINGY;1000;1188;1213;O;;06.63.74.50.45;;
+LAMOTHE - MALHO;Fabrice - nathalie;6 allée du château;45270;BELLEGARDE;1000;1188;1213;O;;06.73.45.54.50;;
+BOISNARD;Magali;362 rue rasles;45400;CHANTEAU;500;1200;1225;O;;06.11.47.06.87;;
+TESSIER LEBRUN;Carole;139 route de sigloy;45150;OUVROUER-LES-CHAMPS;1500;1188;1213;S;Est-ce possible d'être livré UNIQUEMENT l'après-midi à partir de 14 h 00 étant en soins le matin ?;06.21.83.51.45;06.21.83.51.45;
+LANNOI;Sylain;4 rue des rouloirs;45300;PITHIVIERS;2000;1182;1207;O;;06.51.97.97.39;;
+GATEAU;Jean-paul;Les bonnains;45700;CORTRAT;500;1200;1225;O;;06.98.38.27.27;06.60.32.76.00;
+FRINO;Victoria ;52 bis faubourg de paris ;45300;PITHIVIERS;500;1200;1225;O;;06.74.06.78.61;;
+PINGOT;André;11 rue de la barre;45380;CHAINGY;1000;1188;1213;S;livraison si possible vendredi après-midi ou entre 12 h et 14h vendredi ;02.38.80.64.18;06.88.83.08.01;
+THIBAULT;Olivier;2 allee du chateau;45270;BELLEGARDE;500;1200;1225;S;POUVEZ-VOUS LIVRER CE SAMEDI 10 FEVRIER SVP ? MERCI;01.46.57.18.45;06.89.31.91.42;

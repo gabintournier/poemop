@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"CRUZOL";"Clément";"68920";"WINTZENHEIM";"5, rue des lilas";"";"06.76.97.99.74";"06.76.97.99.74";"";"1158";"1178";"3000";"Ordinaire"
+"FREYTAG";"Raymond";"68250";"ROUFFACH";"4a rue du général de gaulle";"";"";"06.71.18.28.37";"";"1163";"1183";"2200";"Supérieur"
+"GAUS";"Virginie";"68370";"ORBEY";"1b rue charles de gaulle ";"petit camion car chemin d'accès a une voie";"";"06.47.36.55.48";"";"1168";"1188";"1200";"Ordinaire"
+"BUECHER ";"Nicolas";"68570";"OSENBACH";"8 rue longchamp ";"";"06.71.45.78.03";"06.36.09.43.06";"";"1218";"1238";"500";"Ordinaire"

@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHAUVET;Sandra;Koskammeg ;29590;SAINT-SEGAL;1000;1202;1222;O;;06.31.29.99.65;;
+GARAUD;Patrice ;4 talmené;56500;SAINT-ALLOUESTRE;1000;1202;1222;O;;06.45.38.39.46;;
+MENEZO;Jean luc ;51 avenue du porhoet;56800;TAUPONT;1000;1202;1222;O;;06.59.73.28.39;;
+CHESNIER;Alain;43 navalhars;29140;ROSPORDEN;1800;1202;1222;O;1000 l pour eux + 800 l pour Jean Pierre CLEMENT - 33 Navalhars - 29140 Rosporden 02.98.57.81.86 ;02.98.57.80.16;06.66.93.39.67;
+TARTESSE;Gérard;49 kerio;56400;PLUMERGAT;500;1202;1222;O;;06.37.08.66.06;02.97.57.71.52;
+ADELIN;Patrick;101 rue du lavoir;29410;GUICLAN;500;1202;1222;O;;06.35.92.25.48;06.63.60.65.08;
+HUON;Marie;Beg avel;29650;GUERLESQUIN;500;1202;1222;O;;06.23.08.30.85;;
+MARSEILLIER;Françoise;11 rue corentin le floc'h;29690;HUELGOAT;850;1202;1222;S;Je suis absente du 8 au 10 février inclus;02.98.99.90.17;06.75.27.96.92;
+ACCORINTI;Agnes;4 place kreisker;22480;SAINT-NICOLAS-DU-PELEM;500;1202;1222;O;;07.82.75.30.70;;
+LE LAN;Liliane;1 lieudit goaillou;29370;CORAY;500;1202;1222;O;;07.82.15.37.18;;

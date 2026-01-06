@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Autoriser ton IP (ajoute d'autres IP si besoin avec d'autres RewriteCond)
+# RewriteCond %{REMOTE_ADDR} ^83\.206\.189\.137$
+# RewriteRule ^ - [L]
+
+# Tous les autres → 404 (affiche la page 404 publique)
+# RewriteRule ^ /404.php [R=404,L]

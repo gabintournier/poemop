@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"VANEGUE";"Dominique";"08400";"LONGWE";"5 rue de l'église";"";"09.65.28.69.49";"07.80.47.71.26";"";"1240";"1260";"1000";"1000";"Supérieur"
+"JOURDAIN";"Thomas";"08300";"RETHEL";"25 rue du fort carre";"Pas disponible pour une livraison du 15 au 19 février.";"06.65.62.40.62";"06.32.22.25.32";"";"1240";"1260";"1000";"1000";"Supérieur"
+"YBERT";"Jean";"08400";"VOUZIERS";"11 rue du nan";"";"03.24.71.88.24";"06.86.21.94.20";"";"1240";"1260";"1000";"1101";"Supérieur"
+"JOUNIAUX";"Eric";"08400";"VOUZIERS";"13 rue du nan";"";"";"06.76.55.30.52";"";"1290";"1310";"500";"500";"Ordinaire"

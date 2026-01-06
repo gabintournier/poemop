@@ -1,0 +1,17 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ALIX;Nicole;23 rue du gaschard;86300;VALDIVIENNE;1000;1100;1120;S;;05.49.56.32.34;06.22.06.22.72;
+BARON;Benoit;Foulle;86200;LA ROCHE-RIGAULT;1000;1100;1120;S;;06.40.12.01.74;;
+BOILEAU;Guy;5 rue de la garonnerie;86170;VOUZAILLES;1500;1100;1120;O;;06.28.36.48.93;;
+BREZILLON;Eléna;Lieu-dit le poiron ;86300;VALDIVIENNE;600;1100;1120;O;;06.95.17.45.44;;
+DEPERNET;Sébastien ;10 le jeune balluc;86400;BLANZAY;500;1100;1120;O;;06.51.00.40.35;;
+DESOUCHES;Catherine;27 la davaillerie;86490;COLOMBIERS;500;1100;1120;S;Si possible livraison avant 7h30 Merci;07.50.22.82.39;06.16.02.06.52;
+DOTRES;Nathalie;Lieu-dit la chauffetrie;86200;MAULAY;500;1100;1120;O;;06.60.87.06.13;;
+GIRAUD;Bernard;50 rue de la vallée résidence du petit breuil;86000;POITIERS;850;1100;1120;S;Nous sommes absents jusqu'au 18 aout inclus. La livraison n'est donc réalisable qu'à partir du 19 aout 2024. Si Impossibilité merci de ne pas tenir compte de cette commande. ;06.07.82.84.04;;
+HAUTECOUVERTURE;Catherine;4 les rochelles ;86170;CHAMPIGNY-LE-SEC;500;1100;1120;S;;06.69.39.62.73;06.78.91.69.43;
+JALLAIS;Audrey;374 rue de la pallu ;86130;JAUNAY-CLAN;800;1100;1120;O;;06.95.18.86.37;;
+LARCHER ;Jean marie ;56 rte de poitiers ;86320;LUSSAC-LES-CHATEAUX;1000;1100;1120;O;;+0678131513;;
+MASSIE;Gerard;2 allée du verger de grimoire;86000;POITIERS;550;1100;1120;O;;06.63.11.97.34;06.63.11.97.34;
+QUIBLIER;Aliénor;4 avenue du moulin des dames;86300;CHAUVIGNY;500;1100;1120;O;;;;
+QUINTARD;Joel;10 route de béruges;86240;FONTAINE-LE-COMTE;1000;1100;1120;S;;05.49.57.26.77;06.17.86.43.80;
+RIBEIRINHO;Antonio;10 chemin du vergé;86100;CHATELLERAULT;500;1100;1120;O;;06.07.95.07.01;;
+TALLON;Jean-marie;51 route de poitiers;86170;CISSE;600;1100;1120;S;;06.19.98.89.36;05.49.44.00.60;

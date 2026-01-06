@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AYARD;Christine ;4 rue du trou;55600;CHAUVENCY-SAINT-HUBERT;1000;1184;1205;S;;06.28.50.39.27;;
+HECTOR;Sci;15 rue notre dame;55190;VOID-VACON;2000;1178;1199;O;;06.18.06.07.65;;
+MARTIN;Jean-paul;18 rue notre dame;55190;VOID-VACON;1700;1184;1205;O;;06.18.06.07.65;;
+MUZZOLINI;Géraldine;1 allée des mirabelliers;55000;BAR-LE-DUC;1200;1184;1205;S;;06.64.03.59.29;;
+ROUYER;Marie-noëlle;22 rue souplet;55000;MONTPLONNE;1100;1184;1205;S;Merci de prendre rendez-vous pour la livraison SVP, je ne suis pas toujours présente;06.33.89.52.99;06.73.46.74.99;

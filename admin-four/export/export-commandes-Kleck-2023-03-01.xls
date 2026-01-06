@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"PHILIPPE";"Michel";"57640";"BETTELAINVILLE";"2 rue de la gare";"";"06.51.77.49.48";"06.51.90.86.67";"";"1190";"1200";"1000";"1000";"Supérieur"
+"SCHMITT";"Julie  ";"57150";"creutzwald";"Impasse des pigeons 4";"";"";"06.88.64.03.17";"";"1190";"1200";"1000";"1001";"Ordinaire"
+"MAGALHAES";"Clarisse ";"57220";"EBLANGE";"19 rue des jardins ";"Livraison souhaitée avant le 7 mars ou après le 17 mars";"07.88.49.07.92";"";"";"1190";"1200";"1000";"1001";"Ordinaire"
+"WAGNER";"Marie thérèse";"57320";"WALDWEISTROFF";"7 rue du stade";"Petit camion";"07.85.92.76.95";"";"";"1190";"1200";"1000";"1000";"Ordinaire"
+"KONIECZNY";"Bertrand";"57150";"CREUTZWALD";"8 rue de saint-savin";"";"06.89.86.22.12";"06.89.86.22.12";"";"1190";"1200";"1000";"1000";"Ordinaire"

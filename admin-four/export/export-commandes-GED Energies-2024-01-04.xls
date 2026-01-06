@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BRAIBANT ";"Jocelyne";"08400";"LONGWE";"9 rue de l'église";"quantité approximative (faire le plein)";"";"06.08.03.62.97";"";"1220";"1250";"700";"700";"Ordinaire"
+"JOUNIAUX";"Megan";"08360";"CHATEAU-PORCIEN";"77 rue de la sommevue";"";"06.44.13.08.01";"06.28.54.35.54";"";"1220";"1250";"500";"501";"Ordinaire"
+"JACQUEMIN";"Maëlle";"08400";"SAVIGNY-SUR-AISNE";"12 rue berthelot";"";"06.15.14.15.10";"06.15.14.15.10";"";"1220";"1250";"500";"501";"Ordinaire"
+"CAUDRON";"Jacques";"08400";"VOUZIERS";"2 rue du nan";"";"03.24.71.87.86";"06.14.07.31.66";"";"1180";"1210";"1300";"1300";"Supérieur"

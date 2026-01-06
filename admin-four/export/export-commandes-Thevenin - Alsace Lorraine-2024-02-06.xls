@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"PARMENTELAT";"Christophe";"88400";"GERARDMER";"17 chemin des oiseaux";"";"07.67.43.06.55";"06.51.95.55.70";"";"1180";"1200";"1000";"Supérieur"
+"LAURENT";"Eric";"88700";"RAMBERVILLERS";"12 impasse des cristalleries";"";"07.67.91.50.17";"06.19.98.06.26";"";"1230";"1250";"600";"Ordinaire"
+"HOHMANN";"Denny";"88270";"CHARMOIS-L'ORGUEILLEUX";"27 basse chalumelle ";"";"06.46.80.72.73";"06.69.22.24.38";"";"1230";"1250";"800";"Ordinaire"
+"PIERREL";"Fabrice";"88530";"LE THOLY";"20 route du pré du four";"";"06.83.37.69.72";"06.83.37.69.72";"";"1180";"1200";"1000";"Supérieur"
+"DUVALTIER";"Jean-françois ";"88640";"BARBEY-SEROUX";"Au village";"";"";"06.13.95.60.66";"";"1230";"1250";"500";"Ordinaire"
+"BOUCHER";"Rene";"88340";"LE VAL-D'AJOL";"57b grande rue";"comme la dernière fois je paierai en trois fois merci d'avance";"07.70.02.35.62";"03.29.65.47.61";"";"1180";"1200";"1000";"Supérieur"
+"MOTAIS DE NARBONNE";"Marie";"88220";"XERTIGNY";"405 rue de l'église-rasey";"";"06.10.79.72.07";"03.29.39.20.26";"";"1180";"1200";"1000";"Ordinaire"
+"JOAN";"Fabien";"88230";"FRAIZE";"06 chemin de falcaupré";"Venir avec un petit camion, route étroite.";"";"06.38.31.73.69";"";"1230";"1250";"600";"Ordinaire"
+"DIDIER";"Patrick";"88640";"GRANGES-SUR-VOLOGNE";"3 rue du pré-genet";"";"";"06.43.32.60.89";"";"1180";"1200";"1300";"Ordinaire"

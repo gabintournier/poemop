@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DAPPELO;Bernard;3 impasse la ruette;39170;RAVILLOLES;1000;1099;1119;O;;03.84.42.16.64;06.71.88.04.90;
+LECOULTRE;Jacques;10 rue du vanneret;39460;FONCINE-LE-HAUT;3600;1079;1099;O;;06.32.84.48.08;;
+MENANDAIS;Sylvain;11 route des frasses;39400;MORBIER;1500;1099;1119;O;;06.19.78.55.40;;
+SADAOUI;Karim;4 rue de la die;39400;MOREZ;600;1119;1139;S;;06.30.09.67.69;06.35.12.64.71;
+SADAOUI;Mohand;8 chemin du jura;39400;MOREZ;1000;1099;1119;S;;06.51.85.14.11;07.81.26.40.57;

@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BORDAS";"Mariana";"90000";"BELFORT";"2 rue leon stéhlin";"Je souhaiterais être livrée avant le 3 août de préférence. ";"06.68.24.88.07";"06.63.06.07.22";"";"1055";"1075";"1100";"1176";"Ordinaire"
+"MEGHNOUDJI ";"Gisele ";"90000";"BELFORT";"4 rue hector berlioz ";"";"06.84.60.36.92";"06.23.56.81.15";"";"1055";"1075";"1000";"701";"Ordinaire"
+"GUTLEBEN";"Francois";"90340";"NOVILLARD";"4 rue des vergers";"";"06.82.18.72.99";"06.82.18.72.99";"";"1050";"1070";"2000";"2001";"Ordinaire"
+"MOREL";"Michael";"90110";"ROMAGNY-SOUS-ROUGEMONT";"5 rue des vosges";"";"06.61.03.82.23";"07.71.21.47.76";"";"1055";"1075";"1000";"978";"Ordinaire"
+"CHOLET";"Christian";"70400";"SAULNOT";"4 rue du château";"";"";"06.18.46.50.49";"";"1050";"1070";"2000";"1301";"Ordinaire"
+"BARETTI";"Kevin";"25350";"MANDEURE";"9 rue des essarts balangier ";"Je suis actuellement en congé dans le sud, si la livraison peut avoir lieu d'ici mon retour à la mi août je suis preneur car je suis en fond de cuve et le prochain rassemblement est en septembre.";"";"06.58.19.00.34";"";"1055";"1075";"1000";"0";"Supérieur"

@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ANDRE;Delphine;8 bis rue des lavaux;25300;PONTARLIER;1000;992;999;O;;03.81.46.68.18;06.08.12.31.16;
+BERNARD ;Alexandre ;12 rue des forges ;25370;JOUGNE;1000;992;999;S;;06.13.93.57.70;;
+JACQUET;Bernard;Combe-benoit;25650;VILLE-DU-PONT;1000;992;999;O;;06.71.91.38.56;;
+LEROUX;Gilles;14 rue des forges;25370;JOUGNE;1500;992;999;S;;06.01.79.17.16;;

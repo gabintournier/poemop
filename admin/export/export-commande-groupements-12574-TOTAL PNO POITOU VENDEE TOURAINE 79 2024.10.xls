@@ -1,0 +1,7 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHAIGNEAU;Catherine;08 rue du bas chemin l'hopiteau;79600;BOUSSAIS;1000;1070;1085;O;;06.31.09.85.61;;
+COURET;Amandine;1 chemin du bois aimon;79360;MARIGNY;600;1070;1085;O;;06.59.05.63.77;;
+GRIMAUD;Yves;4 le bas de buzay;79390;THENEZAY;500;1070;1085;S;;06.78.53.22.96;05.49.64.42.89;
+PILON;François;303 rue georges gaudicheau;79290;ARGENTON-L'EGLISE;1000;1070;1085;O;;06.07.95.03.78;;
+TAVARES;Luis;11 rue des justices;79000;NIORT;700;1070;1085;S;;06.28.04.45.61;06.28.04.45.61;
+VILLENEUVE;Michel;26 rue de la vigne du puits;79160;ARDIN;1000;1070;1085;S;;06.80.45.23.35;;

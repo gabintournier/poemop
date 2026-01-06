@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"AMIOT";"Pierre edouard";"49000";"ANGERS";"11 rue gericault ";"02.85.34.30.22";"06.87.96.18.16";"";"500";"501"
+"BLOT";"Violaine      ";"49190";"DENEE";"10 rue du port thinault";"";"06.73.73.31.89";"";"1000";"1000"
+"CHARUAULT";"Benjamin";"49120";"CHEMILLE";"4 ld le moulin neuf";"06.79.18.80.95";"";"";"1000";"1000"
+"PASGRIMAUD";"Joël";"49700";"AMBILLOU-CHATEAU";"33 route de doue";"";"06.15.39.33.92";"";"1000";"1000"
+"HUN";"Karl";"49320";"GREZILLE";"18 les clavières";"06.19.83.33.27";"06.81.02.32.89";"";"500";"500"
+"DURILI";"Estelle";"49330";"ETRICHE";"7 rue pont des boires";"06.76.52.15.22";"";"";"500";"280"
+"LEBASTARD-POIRIER ";"Sébastien ";"49390";"VERNANTES";"35 rue eugène livet ";"";"06.22.85.86.94";"";"500";"500"
+"GESNEAU-RIVIERE";"Raphael";"49140";"SEICHES-SUR-LE-LOIR";"1613 route de marcé, la rabeliere";"";"06.77.51.89.07";"";"1000";"1000"
+"SESTIER";"Sébastien";"49160";"SAINT-MARTIN-DE-LA-PLACE";"2 rue des vallerots";"06.89.12.67.28";"06.12.09.22.30";"";"1000";"1000"
+"FRONTINI";"Carelle";"49530";"LIRE";"5105 la prince";"06.74.23.44.89";"06.08.68.57.95";"";"1000";"1000"

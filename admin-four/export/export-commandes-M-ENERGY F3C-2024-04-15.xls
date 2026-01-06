@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"AZOUZ";"Kamel";"91460";"MARCOUSSIS";"17 chemin du Moulin";"commande urgente - souhaite livraison sur la fin de semaine ";"06.75.29.51.83";"01.69.63.73.29";"";"1240";"1260";"500";"0";"Ordinaire"
+"DAVANT";"Patrick";"94100";"SAINT MAUR DES FOSSES";"3 rue de la FERME";"";"07.81.51.32.57";"06.33.24.68.40";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"GONZALEZ";"Manuel";"91800";"BRUNOY";"2 ave des peupliers";"livraison urgente merci de livrer avant le 19/04/24";"06.08.23.65.92";"01.60.46.14.12";"";"1180";"1200";"1000";"1000";"Supérieur"
+"KLEINOWSKI";"Christine";"91600";"SAVIGNY-SUR-ORGE";"87 bis rue des rossays (sonnette au 2 allée cristofaro)";"";"";"06.61.81.77.73";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"SZTURYCZ";"Yves";"91570";"BIEVRES";"20 allée des marronniers, 20";"";"";"06.01.77.73.56";"";"1170";"1190";"2000";"2000";"Ordinaire"
+"RAYNAL";"Jérôme";"91160";"CHAMPLAN";"31 rue mancelle";"";"06.32.64.30.56";"06.32.64.30.56";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"MARQUESUZAA";"Perrine";"94400";"VITRY-SUR-SEINE";"17 impasse paul armangot ";"";"";"06.79.98.53.75";"";"1180";"1200";"1200";"1200";"Ordinaire"
+"RIGOUX";"Ginette";"91320";"WISSOUS";"Voie de rennes face cimetière de morangis ";"";"";"06.78.55.91.56";"";"1240";"1260";"900";"900";"Supérieur"

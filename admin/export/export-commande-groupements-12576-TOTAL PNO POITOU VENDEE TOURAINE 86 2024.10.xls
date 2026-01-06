@@ -1,0 +1,8 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BARBOT;Jean-jacques;14 rue d anjou;86170;AVANTON;800;1070;1085;S;;05.49.56.61.23;06.58.21.98.55;
+BARREAULT;Regis;12 rue de la tour;86530;NAINTRE;1000;1070;1085;S;;06.83.12.34.88;09.53.85.08.57;
+BOIS;Sabine;7 rue du lac;86190;QUINCAY;500;1070;1085;S;;06.32.22.18.31;07.77.00.68.09;
+BRUNET;Didier;10 rue des roches;86490;BEAUMONT;1100;1070;1085;S;;06.73.37.59.25;06.15.92.80.57;
+EDORH;Adolphe;34 grand rue;86320;PERSAC;500;1070;1085;O;;06.51.46.64.58;09.79.69.53.05;
+MAILLET;Mathieu;24 rue de chypre;86600;LUSIGNAN;1500;1070;1085;S;;06.82.24.35.22;;
+TETON;Olivier;127 fontmorant;86250;LA CHAPELLE-BATON;500;1070;1085;O;Livraison possible à partir du  5 novembre.Merci.;06.74.28.11.72;06.74.28.11.72;

@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"DEBRY";"Laurent";"88460";"CHENIMENIL";"10 rue de la ratte";"";"06.18.49.99.26";"06.18.49.99.26";"";"1178";"1198";"500";"Ordinaire"
+"PELLETIER";"Jean claude";"88340";"LE VAL-D'AJOL";"9route de rapaumont";"";"07.57.63.63.42";"03.29.31.40.25";"";"1128";"1148";"1000";"Ordinaire"
+"TIRVAUDEY";"Sylvie";"88000";"LONGCHAMP";"41 rue de la prairie";"";"";"06.08.56.56.02";"";"1178";"1198";"500";"Supérieur"
+"VIARD";"Françoise     (andré dcd.)";"88460";"TENDON";"12, chemin de la poirie";"";"06.27.54.60.53";"03.29.66.33.89";"";"1128";"1148";"1000";"Supérieur"
+"WILMOUTH";"Aurore";"88700";"RAMBERVILLERS";"30 rue du vieux chemin de bru";"";"";"06.65.90.22.73";"";"1128";"1148";"1000";"Ordinaire"
+"EICHE";"Jeanne";"88230";"FRAIZE";"27 rue des adelins";"";"";"06.71.38.80.36";"";"1128";"1148";"1000";"Ordinaire"
+"SAUVEGET";"Nadege";"88390";"GIRANCOURT";"2550 rue de xertigny ";"";"";"06.63.44.72.75";"";"1128";"1148";"1000";"Ordinaire"
+"PIERREL ";"Corinne ";"88220";"XERTIGNY";"2 chemin de la lamproie ";"";"06.88.35.66.64";"06.81.45.89.15";"";"1178";"1198";"500";"Ordinaire"
+"JOFFROY";"Christelle";"88270";"BOUZEMONT";"9 grande rue";"";"";"06.40.41.32.98";"";"1128";"1148";"1000";"Ordinaire"
+"PIERROT";"Virginie";"88270";"BAINVILLE-AUX-SAULES";"165 rue du grand ménil";"";"06.78.35.35.06";"06.82.49.39.17";"";"1178";"1198";"900";"Ordinaire"

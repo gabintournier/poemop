@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"BEAUDEUX ";"Christian ";"55230";"SENON";"1 place eugène antoine ";"06.47.65.43.31";"03.29.85.98.66";"";"500";"1"
+"Alves";"Michel";"55000";"Silmont";"7grande rue";"";"03.29.78.10.47";"";"500";"500"
+"MONY";"Romain";"55160";"FRESNES-EN-WOEVRE";"5 bis rue des eparges";"";"06.12.57.03.04";"";"500";"500"
+"DE SOUSA";"Marilyne";"55400";"SAINT-JEAN-LES-BUZY";"10 rue herbeumoulin ";"07.82.31.64.21";"06.82.83.49.98";"";"500";"501"
+"GAUTIER";"Gilles ";"55240";"BOULIGNY";"10 rue du haut d'orieux ";"";"06.77.79.23.81";"";"1000";"999"
+"LETHUILLIER";"Jean-jacques";"55250";"REMBERCOURT-SOMMAISNE";"3 rue des écoles";"";"06.31.15.23.21";"";"500";"500"
+"GAUTIER";"Gilles";"55240";"BOULIGNY";"10 rue du haut d'orieux";"03.29.85.45.47";"06.42.21.87.95";"UNE SEULE LIVRAISON POUR CE CLIENT";"1000";"0"

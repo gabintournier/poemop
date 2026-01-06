@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"SORDOILLET";"Dominique";"25620";"TARCENAY";"La vieille baraque";"";"06.89.51.67.49";"03.81.51.02.69";"";"1106";"1126";"500";"500";"Ordinaire"
+"MOUREY";"Christine";"25290";"EPEUGNEY";"2 chemin du tacot";"";"";"06.32.18.57.38";"";"1086";"1106";"1000";"1127";"Ordinaire"
+"SCHIRRER";"Pierre";"25320";"Grandfontaine";"4 chemin de velesmes";"";"06.52.68.24.09";"03.63.18.66.97";"";"1086";"1106";"1500";"1501";"Ordinaire"
+"VIENNET";"Emmanuel";"25170";"CHAUCENNE";"9 rue saint jean";"";"07.78.41.38.24";"06.71.64.93.23";"";"1086";"1106";"1000";"1000";"Supérieur"
+"DAVID";"Christian";"25870";"PALISE";"21 chemin des combes";"";"";"06.78.94.35.81";"";"1106";"1126";"600";"0";"Ordinaire"
+"STUCKLE ";"Carole ";"25870";"AUXON-DESSOUS";"9 rue de la  libération ";"";"06.86.67.42.58";"06.81.26.68.34";"";"1086";"1106";"1000";"1000";"Ordinaire"
+"NICOLAS";"Thierry";"25320";"MONTFERRAND-LE-CHATEAU";"6 lot cademene";"";"";"06.47.27.06.42";"";"1106";"1126";"600";"600";"Supérieur"
+"FAIVRE COURTOT";"Brigitte";"25660";"MONTFAUCON";"6 chemin des paturages";"";"06.89.32.32.49";"03.81.81.80.94";"";"1086";"1106";"1600";"1412";"Ordinaire"
+"SIMON";"Gerard";"25320";"MONTFERRAND-LE-CHATEAU";"7 rue de la mairie";"";"";"06.87.97.68.97";"";"1086";"1106";"1400";"1399";"Ordinaire"
+"DELOFFRE";"Yves";"25440";"CHOUZELOT";"2 rue charles prillard";"";"";"06.63.64.37.04";"";"1106";"1126";"800";"800";"Ordinaire"

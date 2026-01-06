@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"LAURENT";"Anne";"88540";"BUSSANG";"1 rue de larcenaire";"absente semaine 30";"06.84.51.73.53";"06.84.51.73.53";"";"1130";"1150";"500";"Ordinaire"
+"BILOT";"Jean luc";"88360";"RUPT-SUR-MOSELLE";"6 chemin des prés de goutte ";"";"";"06.81.20.26.89";"";"1130";"1150";"800";"Ordinaire"
+"BASTIEN";" audrey ";"88290";"SAULXURES-SUR-MOSELOTTE";"169 rue des 3 et 7 rta";"";"";"07.82.47.60.73";"";"1090";"1110";"1000";"Supérieur"
+"FEBVAY ";"Marcel";"88160";"FRESSE-SUR-MOSELLE";"6 chemin de l'allegrerie";"";"";"07.69.26.22.82";"";"1090";"1110";"1000";"Ordinaire"
+"BELLO";"Julien";"88120";"LE SYNDICAT";"6bis traverse de la prêle";"";"06.72.15.50.84";"";"";"1090";"1110";"1000";"Ordinaire"
+"PINOT";"Erick";"88360";"RUPT-SUR-MOSELLE";"6 rue des barrieres ";"";"06.17.35.12.24";"06.82.22.88.86";"";"1090";"1110";"1000";"Ordinaire"

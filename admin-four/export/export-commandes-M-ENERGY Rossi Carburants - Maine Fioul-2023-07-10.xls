@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"JOHANNET";"Isabelle";"41500";"COUR-SUR-LOIRE";"23 rue des montreuils";"";"06.83.03.39.81";"06.83.03.39.81";"";"1074";"1099";"2000";"979";"Ordinaire"
+"VERDELET";"Margaux";"41190";"MOLINEUF";"7 rue du docteur jean mornet";"Cette commande est pour M. et Mme DESSAY, domiciliés au 1 chemin des Renardières, 41190 MOLINEUF. 
+Ils bénéficient d'un chèque énergie de 100€ de l'Etat, en cours de validité. Ils souhaitent l'utiliser pour régler une partie. Est ce possible ?";"06.79.37.26.70";"";"non livré";"1080";"1105";"1000";"0";"Supérieur"
+"GRIBONVALD";"Julien";"41600";"LAMOTTE-BEUVRON";"78 rue ernest gaugiran";"";"";"06.89.23.51.44";"";"1080";"1105";"1400";"1400";"Supérieur"
+"ASSERIN";"Ludovic";"41310";"LANCE";"7 la saugrenière";"";"";"06.74.79.86.65";"";"1074";"1099";"2000";"2000";"Supérieur"
+"FAYDEAU";"Michèle";"41400";"SAINT-JULIEN-DE-CHEDON";"11 rue de la mairie";"";"02.54.32.89.57";"06.61.57.29.04";"";"1092";"1117";"500";"210";"Supérieur"
+"NYS";"Roland";"41240";"VILLERMAIN";"5 jouy";"";"06.28.42.00.67";"02.54.82.54.95";"";"1080";"1105";"1000";"1000";"Ordinaire"

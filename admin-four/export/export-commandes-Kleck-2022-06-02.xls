@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"ZAID";"Salime";"54260";"TELLANCOURT";"18 rue du général de gaulle tellancourt ";"";"";"07.62.78.85.56";"";"1529";"1544";"1500";"1500";"Ordinaire"
+"SOLA";"Annick";"55230";"SENON";"2 ruelle de l'étang";"";"";"07.81.05.89.07";"";"1529";"1544";"500";"0";"Ordinaire"
+"PEGEOT";"Nicole";"55600";"ECOUVIEZ";"20 avenue victor hugo";"";"";"06.18.56.67.11";"";"1529";"1544";"1000";"667";"Ordinaire"

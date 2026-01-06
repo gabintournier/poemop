@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+JACOB;Yves ;37 avenue du béguinage ;59910;BONDUES;1000;1215;1235;S;;06.65.15.15.56;;
+VAUTHEROT ;Anthony ;8 résidence saint martin ;59990;SEBOURG;750;1215;1235;O;Commande urgente, rue en impasse.;06.81.40.75.23;;
+DUDOT;Veronique   ;14 rue raymond poincaré;59136;WAVRIN;1000;1215;1235;O;;06.73.34.33.66;03.20.58.48.30;
+LEGROS;Sébastien    ;105 rue de brillon;59870;TILLOY-LEZ-MARCHIENNES;1000;1215;1235;O;;06.75.75.23.76;;
+LESNE;Delphine;15 rue d'avesnes le sec;59198;HASPRES;500;1215;1235;O;;06.21.16.08.04;;

@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"DIDIER";"Michel ";"70300";"LUXEUIL-LES-BAINS";"12 rue des 4 fils doumer";"06.87.33.71.44";"06.18.56.10.97";"";"500";"500"
+"LAVISSE";"Patrick";"25660";"SAONE";"12 rue des tilleuls";"";"06.88.61.94.53";"";"500";"500"
+"RICHARD";"Sebastien  ";"25140";"CHARQUEMONT";"14 rue du chalet";"06.16.03.63.35";"06.16.03.63.35";"";"600";"600"
+"BARDEY";"Sabine";"70500";"JUSSEY";"4 rue de la gare";"";"06.88.24.35.05";"";"1000";"944"
+"SAINTOT";"Guy";"70000";"MAILLEY-ET-CHAZELOT";"3 rue de chevaney";"";"06.80.13.79.06";"";"500";"500"
+"LE BRETTON";"Jean-marie";"70000";"VELLE-LE-CHATEL";"5 rue gustave courbet";"03.84.78.88.46";"06.74.90.80.97";"";"1000";"1000"
+"RICHE";"Bernadette";"90100";"DELLE";"7,grande rue";"03.84.36.12.02";"06.70.32.25.26";"";"1000";"1000"
+"BERNARD";"Jean luc";"25110";"DAMMARTIN-LES-TEMPLIERS";"3lotissement de cha toillon ";"";"07.50.86.36.15";"";"1000";"1000"
+"MICHAUD ";"Jonathan ";"39460";"FONCINE-LE-HAUT";"7 les bramards ";"06.70.27.49.54";"06.75.99.48.99";"";"1000";"1000"
+"LUGARA";"Christian ";"25490";"FESCHES-LE-CHATEL";"18 rue du 8 mai";"";"07.88.72.12.69";"";"2500";"2500"

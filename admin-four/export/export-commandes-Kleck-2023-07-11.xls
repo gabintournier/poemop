@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"LOUIS";"Nicolas ";"54750";"TRIEUX";"141 rue marc raty";"";"06.75.24.21.03";"";"";"1135";"1165";"650";"651";"Ordinaire"
+"DELPHINE";"Slusarczyk";"54640";"TUCQUEGNIEUX";"13 rue de forte";"";"";"07.44.87.74.23";"";"1135";"1165";"600";"600";"Ordinaire"
+"JEAN";"Anthony";"54960";"MERCY-LE-BAS";"2 rue des écoles";"";"06.73.45.32.19";"06.07.50.37.94";"";"1135";"1165";"700";"700";"Ordinaire"
+"PETRINI ";"Nicolas ";"54620";"BASLIEUX";"39 grand rue ";"";"06.49.73.68.92";"07.71.79.49.78";"";"1125";"1145";"1000";"1001";"Ordinaire"
+"LUCAS";"Matthieu   ";"54260";"VIVIERS-SUR-CHIERS";"20 rue du gai coteau";"disponible uniquement les lundis matin pour livraison.";"";"06.30.21.11.75";"";"1135";"1165";"500";"500";"Supérieur"
+"PONCIN";"David";"54470";"LIMEY-REMENAUVILLE";"15 grande rue";"";"";"06.38.45.89.47";"";"1135";"1165";"500";"501";"Ordinaire"

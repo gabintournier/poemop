@@ -1,0 +1,12 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"PYRONNET";"Francis";"38500";"VOIRON";"15 rue des castors";"";"06.42.45.44.80";"";"";"1420";"1450";"1300";"1300";"Ordinaire"
+"GUILLAUBEY";"Jérôme ";"38960";"SAINT-ETIENNE-DE-CROSSEY";"2 sentier de martorey";"";"06.72.48.19.55";"06.72.48.19.55";"";"1420";"1450";"1200";"1200";"Ordinaire"
+"FIORESE";"Rene";"38140";"RENAGE";"205route de rives";"";"06.46.30.66.60";"";"";"1420";"1450";"1200";"1200";"Ordinaire"
+"GASSER";"Lisa";"38710";"LAVARS";"98 route du mont aiguille";"";"06.88.52.05.71";"06.88.52.05.71";"";"1420";"1450";"1000";"1000";"Ordinaire"
+"RIVIERE";"Patrick";"38690";"LONGECHENAL";"272 rue de la voie ferrée";"";"";"06.47.81.53.70";"";"1420";"1450";"1200";"1200";"Ordinaire"
+"LANGLOIS";"Claude";"38620";"MONTFERRAT";"2346 route de bilieu";"";"06.45.64.86.80";"04.76.06.90.68";"";"1420";"1450";"1500";"1500";"Ordinaire"
+"DEBACKER";"Martin";"38380";"SAINT-PIERRE-DE-CHARTREUSE";"1318 route des hameaux ";"";"07.61.01.88.72";"07.61.01.88.72";"";"1410";"1440";"2000";"2000";"Supérieur"
+"FIEUX";"Jean";"38380";"SAINT-CHRISTOPHE-SUR-GUIERS";"80 chemin du mollard";"";"";"06.50.52.95.13";"";"1460";"1550";"500";"500";"Ordinaire"
+"JANEYRIAT";"Robert";"38440";"SAINT-JEAN-DE-BOURNAY";"218 impasse des biesses";"";"06.81.61.80.44";"06.14.02.64.27";"";"1460";"1550";"500";"500";"Ordinaire"
+"CANIN";"Gilbert";"38440";"ARTAS";"160 sentier de la prairie";"";"06.22.43.80.41";"04.74.58.76.57";"";"1420";"1450";"1000";"1000";"Ordinaire"
+"DU BESSET";"Emmanuel";"38140";"RENAGE";"205 route de rives";"";"06.09.94.43.32";"06.09.73.34.70";"";"1420";"1450";"1000";"1000";"Supérieur"

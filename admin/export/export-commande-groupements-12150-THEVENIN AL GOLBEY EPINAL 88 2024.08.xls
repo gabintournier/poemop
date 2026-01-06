@@ -1,0 +1,16 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ADOUR;Kader;4 Rue morthomme;88000;EPINAL;1000;1000;1070;1090;O;;06.14.24.41.80;;
+ALTENHOVEN;Jean-françois;1 le faubourg;88240;GRUEY-LES-SURANCE;1400;1400;1070;1090;O;;06.66.37.31.40;03.29.66.08.75;
+ANDRE;Bertrand;24 chemin du grand mont;88600;GRANDVILLERS;1500;1501;1070;1090;O;;06.75.67.04.85;06.75.67.04.85;
+BONZANS;Clement;26 rue du val;88170;REMOVILLE;1000;1000;1070;1090;S;;07.85.82.38.49;06.25.74.10.83;
+BOURGES;Guy;199 rue st lambert;88300;ATTIGNEVILLE;1000;1000;1070;1090;O;;07.80.07.44.09;;
+CATTEY;Nicolas;1185 rue de la poirie ;88200;DOMMARTIN-LES-REMIREMONT;1000;1000;1070;1090;S;Commande non urgente. Cuve enterrée accessible facilement devant la maison. Absent du vendredi 9 août à 16h30 jusqu'au mardi 13 août 20h00. Au delà de ces dates livraison possible à n'importe quel moment de la journée;07.71.16.45.52;;
+DORIDANT;Jean pierre;47 route du cd 417;88530;LA FORGE;1000;1000;1070;1090;S;Livraison impérative avant le 10 août Pour cause de départ en vacances.;07.88.15.43.10;07.88.15.43.10;
+DUPONT;Arnaud;30 rue du vieux chemin du brû;88700;RAMBERVILLERS;1000;1001;1070;1090;O;;06.08.71.94.83;;
+GEORGE;Roger;280 rue de la roche;88600;FAYS;2000;2000;1065;1085;O;;06.11.72.46.51;;
+GREGORAT;Claudio;185 chemin de malançon;88470;NOMPATELIZE;1000;999;1070;1090;S;;03.29.58.41.51;06.77.77.39.06;
+LIEBGOTT;François;264 route de bourmont;88470;NOMPATELIZE;500;500;1120;1140;S;;06.77.83.43.07;;
+MOUGIN;Catherine;4 lotissement le tétras;88530;LE THOLY;500;500;1120;1140;S;;06.78.73.40.74;03.29.61.88.82;
+ROEHRIG;Blandine   ;18 impasse des cencieux;88200;SAINT-NABORD;1000;1000;1070;1090;O;;06.23.93.93.56;;
+SAUVEGET;Nadege;2550 rue de xertigny ;88390;GIRANCOURT;1000;1000;1070;1090;O;;06.63.44.72.75;;
+SOUVAY ;Jean christophe;35 chemin de la moutière ;88200;SAINT-ETIENNE-LES-REMIREMONT;1500;0;1070;1090;S;;06.26.11.36.13;;

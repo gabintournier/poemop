@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"DUCHESNE-CONAN";"Christian";"95420";"MAGNY-EN-VEXIN";"20 rue de l'ecole";"";"";"06.63.94.95.74";"";"1210";"1230";"500";"500";"Supérieur"
+"OLIVIER";"Marie ";"78630";"ORGEVAL";"486 rue de Maule";"";"06.66.08.14.43";"06.62.98.72.72";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"GOSSON";"Annie et hervé";"78410";"AUBERGENVILLE";"36 rue des huguenots";"";"06.19.92.45.96";"06.19.92.45.96";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"KRASZEWSKI";"Robert";"78200";"MANTES-LA-JOLIE";"14 rue du clos pasteur";"Le livreur devra avoir un petit bec verseur car 20 cm entre le plafond et la cuve";"";"06.99.32.07.60";"";"1210";"1230";"500";"500";"Ordinaire"
+"CALMELS";"Alain";"78510";"TRIEL-SUR-SEINE";"51 rue de l'hautil";"";"";"06.82.66.58.80";"";"1180";"1200";"1000";"1000";"Ordinaire"
+"HACHELAF";"Amine";"78270";"MOUSSEAUX-SUR-SEINE";"5 grande rue";"A livrer dès que possible. Merci";"";"06.86.15.34.81";"";"1150";"1170";"4000";"3566";"Supérieur"

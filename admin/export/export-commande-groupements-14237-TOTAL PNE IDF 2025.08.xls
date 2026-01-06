@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CAZAUX;Jean-pierre ;56 rue arthur de montalembert;94490;ORMESSON-SUR-MARNE;1300;1020;1040;O;;06.81.15.77.28;06.81.15.77.28;
+DELENCLOS;Philippe  ;24 rue paul vaillant couturier;91270;VIGNEUX-SUR-SEINE;1500;1020;1040;O;;06.03.17.86.86;;
+DURIEUX;Remi;3 rue de la butte ronde ;91590;CERNY;1400;1020;1040;O;;06.70.40.83.84;;
+FAOUZI;Soufiane;83 rue de gravigny;91380;CHILLY-MAZARIN;1000;1020;1040;S;;06.82.26.74.66;;
+LE BRONNEC;Jean pierre;29 rue millet;91140;VILLEBON-SUR-YVETTE;1800;1020;1040;S;;06.30.83.41.31;01.60.10.76.19;
+LOBRY;Herve;8 rue gounod;94500;CHAMPIGNY-SUR-MARNE;1000;1020;1040;O;Petit camion SVP car petite rue !;06.88.85.90.59;;
+MANGANE ;Gilles;29 rue pierre curie ;95210;SAINT-GRATIEN;1000;1020;1040;O;;06.81.44.24.86;06.82.98.49.46;
+PERROS;Laurent;282 rue la bruyère;95120;ERMONT;1000;1020;1040;S;;06.60.73.33.87;;
+SORN;Denis;10 bis avenue general de gaulle;91450;SOISY-SUR-SEINE;1500;1020;1040;S;Bonjour. J'habite au fond d'une allée. Il y a un porche donc il faudrait un petit camion. J'ai déjà commandé auparavant. Merci;07.66.04.78.94;;
+STATUCKI;Jerome;8 passage madeleine;92320;CHATILLON;1000;1020;1040;O;Petit camion souhaitable car voie privée exiguë ;06.13.13.33.09;06.13.13.33.09;

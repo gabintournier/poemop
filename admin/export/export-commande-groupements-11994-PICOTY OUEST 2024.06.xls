@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ADAM;Virginie;20 chemin de touraine;49140;VILLEVEQUE;1000;1129;1129;S;Prévoir petit camion merci;06.81.51.64.33;06.13.90.07.27;
+ALBERT;Claude;La haloppay;49520;LE BOURG-D'IRE;500;1129;1129;S;;02.41.61.90.96;06.72.15.69.61;
+CADEAU;Fabrice;22, la fresnaye;49250;SAINT-MATHURIN-SUR-LOIRE;2000;1129;1129;S;Livraison sur deux adresses très proches;06.67.24.17.65;;
+FERNANDEZ;Stephanie;16 rue des ecoles;49320;COUTURES;1200;1129;1129;O;;06.06.46.39.05;;
+ISAMBART ;Yoann;4 rue de la pomme d argent;49220;GREZ-NEUVILLE;1200;1129;1129;O;;06.13.83.24.66;;
+PASQUIER;Nicolas;5 bd roland de roncevaux;49240;AVRILLE;1300;1129;1129;O;Livraison tôt le matin ou le vendredi après-midi ;02.41.88.65.58;06.15.30.51.85;
+PEAUD;Clémence;5 rue de la haye joulain, le plessis-macé;49770;LE PLESSIS-MACE;1200;1129;1129;S;Il se peut que nous n'ayons pas besoin de 1200l exactement, il est difficile d'estimer la place libre dans notre cuve;06.71.49.22.65;;
+ROZE;Olivier;1 place du pilori;49190;ROCHEFORT-SUR-LOIRE;1000;1129;1129;O;;06.60.62.21.01;;

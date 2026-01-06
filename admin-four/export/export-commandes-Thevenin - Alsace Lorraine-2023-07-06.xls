@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"HACHET";"Apoline";"68910";"LABAROCHE";"181 le cras";"";"06.32.42.47.50";"";"";"1122";"1142";"500";"Ordinaire"
+"SCANDELLA";"Jean-michel";"68910";"LABAROCHE";"645 les evaux";"Petit camion merci";"06.20.23.01.64";"";"";"1072";"1092";"1400";"Ordinaire"
+"SPECKLIN";"Dominique";"68127";"OBERHERGHEIM";"7 rue martin drolling, oberhergheim, france";"";"06.70.74.07.41";"";"";"1072";"1092";"1000";"Supérieur"
+"SCANDELLA";"Claude";"68910";"LABAROCHE";"166 la chapelle";"";"06.83.02.99.60";"";"";"1072";"1092";"1400";"Ordinaire"
+"EICHE";"Marcel";"68910";"LABAROCHE";"151    la chapelle";"";"06.17.63.16.59";"";"";"1072";"1092";"1500";"Supérieur"

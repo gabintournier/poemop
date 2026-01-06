@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"GOAVEC";"Jean-yves";"84170";"MONTEUX";"10 ,clos les pascales chemin des marjoraines";"";"06.83.35.71.14";"06.81.19.07.81";"";"1234";"1264";"500";"500";"Ordinaire"
+"GALLO";"Vincent";"84860";"CADEROUSSE";"1845 route des princes d'orange";"";"06.45.02.28.50";"06.45.02.28.50";"";"1184";"1214";"1100";"1101";"Ordinaire"
+"MOZZO";"Jacky";"84600";"VALREAS";"69 b route de vinsobres";"";"06.82.91.22.35";"06.80.23.16.99";"";"1234";"1264";"500";"500";"Ordinaire"
+"PEYRON";"Jean luc";"84490";"SAINT-SATURNIN-LES-APT";"Quartier garbis";"";"";"06.98.46.38.61";"";"1184";"1214";"1000";"1000";"Supérieur"

@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"LAVAULT";"Sophie";"79100";"MAUZE-THOUARSAIS";"23 rue du bois baudron";"";"";"06.11.30.45.01";"";"1340";"1360";"1000";"1000";"Supérieur"
+"DEMERON";"Simone";"18270";"SIDIAILLES";"46 villers , route de culan";"";"02.48.56.66.40";"06.14.15.79.41";"";"1340";"1360";"1000";"1099";"Ordinaire"
+"BAMBA ";"Isibatou ";"79410";"SAINT-REMY";"6 rue de la pompe";"";"07.55.81.01.66";"07.55.81.01.66";"";"1350";"1370";"500";"500";"Ordinaire"
+"MASSIE";"Gerard";"86000";"POITIERS";"2 allée du verger de grimoire";"";"06.63.11.97.34";"06.63.11.97.34";"";"1350";"1370";"500";"500";"Ordinaire"
+"CAMARA";"Théoxane";"86000";"POITIERS";"86 rue du haut des sables";"";"";"06.07.75.07.21";"";"1350";"1370";"500";"500";"Ordinaire"
+"PAGE";"Romain";"86550";"MIGNALOUX-BEAUVOIR";"825 route de chauvigny";"Ma commande est assez urgente si possible. La cuve se situe derrière la maison. Le camion peut reculer dans la propriété où il y a un grand portail d'accès (3m). Merci, Bonne journée";"06.79.93.42.49";"";"";"1350";"1370";"500";"500";"Ordinaire"
+"LAURIOUX ";"Fabrice ";"86200";"CHALAIS";"22 rue du collège mazault ";"Petit camion, ou alors au moins 30 mètres de tuyau car difficile pour entrer";"06.83.31.85.14";"";"";"1340";"1360";"1000";"1000";"Ordinaire"
+"TETON";"Olivier";"86250";"LA CHAPELLE-BATON";"127 fontmorant";"";"06.74.28.11.72";"06.74.28.11.72";"";"1350";"1370";"500";"500";"Ordinaire"
+"DEFAYE";"Aymeric";"18230";"SAINT-DOULCHARD";"10 chemin des poupées";"Livraison pour le vendredi 3 novembre 2023 (de préférence après-midi) svp";"";"06.50.51.69.01";"Annulation";"1340";"1360";"1000";"0";"Ordinaire"

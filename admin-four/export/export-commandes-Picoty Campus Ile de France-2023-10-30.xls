@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"TOMASINI";"Patricia";"60600";"BREUIL-LE-VERT";"15 rue des grez";"";"";"06.74.03.23.65";"";"1380";"1400";"500";"500";"Ordinaire"
+"SIMOES ";"Malika ";"60560";"ORRY-LA-VILLE";"19 rue d'herivaux ";"";"06.86.00.92.95";"06.03.99.69.04";"";"1290";"1310";"1000";"1001";"Ordinaire"
+"SAINT-POL";"Thierry";"60150";"THOUROTTE";"5 avenue de caumont";"";"";"06.49.23.69.57";"";"1290";"1310";"1000";"1000";"Ordinaire"

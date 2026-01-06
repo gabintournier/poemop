@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MORCILLO";"Antonino ";"41500";"MER";"17 rue de villexanton";"chèque énergie de 100 €";"02.54.81.38.49";"";"";"1280";"1300";"500";"501";"Ordinaire"
+"MONTERET ";"Magalie ";"41240";"OUZOUER-LE-MARCHE";"4 rue charles péguy ";"";"06.14.37.61.40";"";"";"1280";"1300";"800";"800";"Ordinaire"
+"PEDRONO";"Jerome";"45510";"VANNES-SUR-COSSON";"420 chemin des limousins";"";"";"06.61.63.00.30";"";"1260";"1280";"1000";"0";"Supérieur"
+"GRENTE";"Bernard";"41120";"LES MONTILS";"30 rue de bel air";"";"02.54.44.15.29";"06.64.10.48.92";"";"1260";"1280";"1000";"1000";"Ordinaire"
+"ZIEGLER";"Virginie ";"41150";"ONZAIN";"22 rue de la ragadiniere";"";"";"06.21.60.29.36";"";"1280";"1300";"500";"500";"Ordinaire"
+"GIUDICELLI";"Michelle";"41150";"CHOUZY-SUR-CISSE";"Bel air - 4 chemin de bellevue";"";"02.54.20.43.14";"06.70.79.55.46";"";"1260";"1280";"1500";"1498";"Supérieur"

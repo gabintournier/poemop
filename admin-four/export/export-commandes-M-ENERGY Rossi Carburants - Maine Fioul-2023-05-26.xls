@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MESSAGER";"Baptiste";"72700";"ROUILLON";"103 route du folleray";"Petit camion";"";"06.79.72.09.38";"";"1060";"1085";"1500";"1416";"Ordinaire"
+"GLASER";"Elie";"72380";"SAINTE-SABINE-SUR-LONGEVE";"127 etangs de rouperroux";"";"02.43.25.23.37";"06.32.39.49.84";"Pas de réponse du client";"1060";"1085";"1000";"0";"Ordinaire"
+"BRETON";"Evelyne";"72230";"ARNAGE";"103 route du gué gilet";"";"06.30.63.93.96";"";"";"1070";"1095";"500";"500";"Ordinaire"
+"COUTY";"Olivier";"72240";"SAINT-SYMPHORIEN";"9 rue des 3 croix";"";"06.28.23.62.22";"06.28.33.52.59";"";"1060";"1085";"1000";"1000";"Supérieur"
+"WROBEL";"Alain";"72550";"CHAUFOUR-NOTRE-DAME";"La maison neuve, 1330 route la pervanche";"petit camion";"06.08.04.74.90";"02.43.88.85.80";"";"1070";"1095";"500";"500";"Supérieur"

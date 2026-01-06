@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+GROSDEMANGE;Fabienne;1 chemin de beauséjour;01200;BELLEGARDE-SUR-VALSERINE;4000;1190;1210;O;commande urgente;06.74.18.25.08;;
+GARCIA;Paul;2 rue paul cabaud;74000;ANNECY;1000;1210;1230;O;;06.21.79.16.33;;
+LEBOEUF;Lindsay;190 route de la chambotte;73310;CHINDRIEUX;650;1240;1260;O;;06.79.86.51.87;;
+TARTAVEL-JEANOT;Sylvie;299 rue de la chapelle;01300;CHAZEY-BONS;500;1240;1260;O;;06.25.86.23.75;06.25.86.23.75;
+IVARS;Luc;1495 route de chessy;74540;MURES;600;1240;1260;S;;06.59.55.30.74;;
+CARDA;Gilles;337 route des jacquins;73170;BILLIEME;1500;1210;1230;S;;06.02.37.69.24;04.79.36.88.86;
+COURTOIS;Alain   ;1421 route du chainet;74540;VIUZ-LA-CHIESAZ;2000;1200;1220;O;;06.07.87.73.49;;
+DABBAOUI;Anna;294 chemin des lanches;74210;DOUSSARD;1000;1210;1230;O;;06.52.89.70.62;;

@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"HADDADI";"Malika ";"27930";"SAINT-VIGOR";"10 route de jouy";"Livraison de préférence en matinée ";"02.32.34.64.96";"06.89.42.94.41";"";"1220";"1230";"500";"Ordinaire"
+"LOCONTE";"Samuel";"27240";"SYLVAINS-LES-MOULINS";"6 rue des ecoles";"";"";"07.69.63.65.01";"";"1220";"1230";"600";"Supérieur"
+"CRON";"Rémy";"27950";"SAINT-MARCEL";"14, rue des moulins";"";"";"02.32.51.63.99";"";"1180";"1190";"2000";"Supérieur"

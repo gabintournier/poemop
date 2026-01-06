@@ -1,0 +1,18 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+GOURTAY;Louis;3 rue de la croix d'égly;91290;ARPAJON;1500;1140;1160;O;Très tôt le matin ;06.61.75.30.26;;
+SOTO;Philippe;1 rue des bons soins ;78270;BLARU;1000;1140;1160;S;;06.72.79.72.75;;
+PILLET;Frédérique;22 bis chemin des sablons;78160;MARLY-LE-ROI;700;1180;1200;O;commande urgente ;01.39.16.26.88;06.62.78.74.17;
+BLANC;Eric ;76 avenue quesnay;93190;LIVRY-GARGAN;500;1180;1200;S;;06.08.93.54.62;;
+FUENTES;Sandra;7 rue du bel air;94500;CHAMPIGNY-SUR-MARNE;1000;1140;1160;O;;06.23.82.22.96;;
+BOURLON-NENEZ;Nathalie;32  rue de favreuse;91430;VAUHALLAN;2000;1120;1140;S;;06.20.59.51.68;;
+LE BRONNEC;Jean pierre;29 rue millet;91140;VILLEBON-SUR-YVETTE;1300;1140;1160;S;;06.30.83.41.31;01.60.10.76.19;
+RODRIGO;Francisco;5 chemin du chêne rond,;95130;LE PLESSIS-BOUCHARD;500;1180;1200;S;;07.77.37.09.04;01.34.13.80.40;
+FENAILLON ;Jean-claude ;7 ter grande rue ;78980;SAINT-ILLIERS-LA-VILLE;1000;1140;1160;O;Portail bleu. Réglé en deux chèques ;06.16.51.40.33;01.34.76.00.37;
+ROUSSE;Michel;61 bis avenue fernand léger;91390;MORSANG-SUR-ORGE;2000;1120;1140;S;;06.81.95.92.18;06.81.95.92.18;
+LE PIPEC ;Evelyne;15 rue du marché ;91630;MAROLLES-EN-HUREPOIX;500;1180;1200;O;Commande urgente, merci!;06.99.81.91.43;;
+TOUS;Jean-louis;33 rue des trianons;92500;RUEIL-MALMAISON;1000;1140;1160;S;;06.46.22.05.94;;
+JAMAR;Maurice      ;07 allée du capitaine remy;91330;YERRES;1000;1140;1160;O;;07.66.14.58.56;06.34.37.14.19;
+MEURIER;Francois;85 boulevard aristide briand;94500;CHAMPIGNY-SUR-MARNE;1000;1140;1160;O;;06.80.13.33.07;06.61.83.99.95;
+VALLI;Yvonne;38, rue des essarts;78490;LES MESNULS;1000;1140;1160;O;livraison souhaitée le vendredi 12/01 ou le  jeudi 11 /01 l'après -midi ;06.82.35.66.57;01.34.86.12.03;
+FERRARI ;Gilbert ;17 rue pierre loti ;95110;SANNOIS;1000;1140;1160;S;;07.69.81.31.58;;
+DUC;Gilles;16 résidence de la clairière;78830;BULLION;1000;1140;1160;O;;06.40.89.03.03;01.30.41.47.77;

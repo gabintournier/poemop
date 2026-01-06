@@ -1,0 +1,12 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BECART;Jean marie;15 rue louis pasteur;59188;SAINT-AUBERT;1000;1070;1095;O;;06.41.93.48.17;03.27.37.18.70;
+CASTEL;Corinne;51 rue paul eluard;62210;AVION;1000;1070;1095;O;;07.87.68.78.95;;
+DELATTRE;Jean sebastien;14 place jean jaures;59277;RIEUX-EN-CAMBRESIS;700;1070;1095;S;Livraison souhaitée le mercredi matin ou le vendredi matin. Merci ;06.71.79.99.92;;
+DUBUS;Bernard;10 rue des warequais;59144;WARGNIES-LE-PETIT;500;1070;1095;S;;06.27.26.49.69;;
+FAVOREL;Pascale;43 rue théodore blot;02170;LE NOUVION-EN-THIERACHE;500;1070;1095;S;;06.04.14.29.77;;
+GIACHETTI;Jean-claude;287 rue jean baptiste lebas;59552;LAMBRES-LEZ-DOUAI;2000;1070;1095;S;;06.82.22.02.87;;
+LENGLET;Denis  ;1001 rue de pourtales;59280;BOIS-GRENIER;500;1070;1095;O;;06.49.42.65.37;;
+LERCHE;Regis;2 rue jean moulin;59188;SAINT-VAAST-EN-CAMBRESIS;1700;1070;1095;O;;06.81.24.16.13;07.82.53.07.50;
+MALEWICZ;Michel ;57 rue du général de gaulle;62110;HENIN-BEAUMONT;500;1070;1095;O;;06.32.60.75.25;;
+VANHOED;Florent;875 route nationale;59281;RUMILLY-EN-CAMBRESIS;1000;1070;1095;S;;06.75.32.67.04;;
+VAUTHEROT;Dominique;79 rue alphonse dussart;59158;THUN-SAINT-AMAND;1000;1070;1095;O;Me prévenir lors de la livraison pour l'ouverture du portail. Merci. ;06.22.95.82.88;;

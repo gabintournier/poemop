@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"TONG";"Frederique";"94350";"VILLIERS-SUR-MARNE";"16 avenue du marechal de lattre de tassigny";"";"06.75.65.85.98";"01.49.41.15.20";"";"1140";"1160";"2000";"2000";"Ordinaire"
+"CHAPUIS";"Cedric";"94100";"SAINT-MAUR-DES-FOSSES";"25 bis rue alfred de musset ";"";"";"06.69.54.55.90";"";"1160";"1180";"500";"500";"Ordinaire"
+"KHATTARI";"Nathalie";"91120";"PALAISEAU";"108 bd de lozere";"Livraison si possible le 24 mai. ";"01.60.10.58.07";"06.99.11.45.40";"";"1140";"1160";"1000";"1000";"Ordinaire"
+"GUIMIOT";"Christine";"91700";"SAINTE-GENEVIEVE-DES-BOIS";"2 allée michel berger";"";"06.77.30.92.34";"01.69.04.88.40";"";"1160";"1180";"600";"600";"Supérieur"
+"LA ROSA";"Vito";"91420";"MORANGIS";"Impasse des primevères ";"nous pouvons réceptionner la commande le samedi matin 18 ou 25 mai. ";"";"06.60.24.37.39";"";"1140";"1160";"2000";"2000";"Ordinaire"

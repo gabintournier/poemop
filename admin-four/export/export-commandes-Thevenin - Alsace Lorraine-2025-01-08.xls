@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"Didier";"Michel";"88120";"Vagney";"5,Rte Lambert Roche";"";"06.83.90.75.85";"03.29.61.27.70";"";"1082";"1102";"1000";"Supérieur"
+"XOLIN";"Gerard";"88120";"ROCHESSON";"12 impasse du bouchot";"Bonjour, Intéressé par une commande dans les prochaines semaines. Peut-être éviter de se garer dans la cour sur les pavés avec un gros camion.";"";"06.74.84.96.80";"";"1082";"1102";"1200";"Ordinaire"
+"RENARD";"Alicia ";"88360";"RUPT-SUR-MOSELLE";"11 rue de bélué ";"";"";"06.46.14.37.43";"";"1132";"1152";"500";"Ordinaire"

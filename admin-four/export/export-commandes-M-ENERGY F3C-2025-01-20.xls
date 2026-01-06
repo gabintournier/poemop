@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BURNIER";"Pierre";"91390";"MORSANG-SUR-ORGE";"13 rue de la remise";"";"06.77.72.73.95";"06.62.21.33.71";"";"1173";"1198";"800";"800";"Ordinaire"
+"EL ATTARE";"Abdelmajid";"91310";"LEUVILLE-SUR-ORGE";"14 rue jean renoir";"";"06.83.22.91.79";"01.60.84.57.31";"";"1155";"1180";"1000";"1000";"Ordinaire"
+"ALVES";"Michel";"91550";"PARAY-VIEILLE-POSTE";"28 avenue d'alsace lorraine";"";"06.63.99.48.87";"09.83.27.73.74";"";"1155";"1180";"1100";"1100";"Supérieur"
+"LEBAS BRESSON";"Nicolas sophie";"91630";"MAROLLES-EN-HUREPOIX";"1 chemin du chateau";"";"";"06.64.94.78.68";"";"1173";"1198";"500";"500";"Ordinaire"
+"VINCOT";"Yves";"94130";"NOGENT-SUR-MARNE";"15 rue des defenseurs de verdun";"";"06.80.41.48.98";"01.48.71.01.82";"";"1155";"1180";"1000";"1000";"Supérieur"
+"GIARD";"Olivier";"91360";"EPINAY-SUR-ORGE";"49 rue du mauregard";"";"09.53.75.71.69";"06.70.63.14.98";"";"1155";"1180";"1500";"1111";"Ordinaire"
+"RICARD";"Paul";"94800";"VILLEJUIF";"2 rue du parc des petits ormes";"";"";"06.15.11.36.17";"";"1155";"1180";"1000";"1000";"Ordinaire"
+"SCI FANYE";"Ysabelle adoui";"94210";"SAINT-MAUR-DES-FOSSES";"47 avenue du 11 novembre";"";"";"06.87.71.61.22";"";"1149";"1174";"2000";"2000";"Ordinaire"
+"GAVAUDAN";"Nadine  ";"91100";"CORBEIL-ESSONNES";"36 chemin des mozards";"";"";"06.74.51.63.02";"";"1173";"1198";"500";"500";"Ordinaire"

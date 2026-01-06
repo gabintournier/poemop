@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"TRINCLET";"Armand alexandre";"54970";"LANDRES";"9 lotissement des ormes";"";"06.02.42.43.53";"06.37.43.26.36";"";"1219";"1249";"700";"700";"Ordinaire"
+"JACQUOT";"Daniel";"55600";"ECOUVIEZ";"8 b rue du fayel";"De préférence Petit camion pour la facilité de livraison.Merci.";"03.29.80.08.14";"06.80.66.99.32";"";"1219";"1249";"900";"900";"Ordinaire"
+"DE SOUSA";"Daniel";"55400";"SAINT-JEAN-LES-BUZY";"10 rue herbeumoulin ";"";"06.08.40.24.45";"06.85.54.00.51";"";"1219";"1249";"500";"500";"Ordinaire"
+"CHIOMENTO";"Bruno";"55150";"MERLES-SUR-LOISON";"12 rue de la maragole";"";"03.29.88.03.12";"06.51.82.62.19";"";"1219";"1249";"500";"500";"Supérieur"
+"BAY";"Pierre";"54700";"LESMENILS";"139 rue capitaine cochin";"";"03.83.81.24.37";"07.86.05.46.63";"";"1189";"1219";"1000";"1000";"Ordinaire"
+"DAVID";"Delphine";"55230";"SPINCOURT";"1 rue du faubourg ";"";"03.55.13.41.50";"06.83.14.04.78";"";"1189";"1219";"1000";"1000";"Ordinaire"
+"RICHARD";"Benoît ";"54560";"SERROUVILLE";"22 rue du bachaud";"1000 litres pour lui + 500 litres pour Anthony RICHARD au 21 rue de la Poste 54560 Serrouville Tél: 06.31.99.88.73";"";"06.77.20.82.03";"";"1189";"1219";"1500";"1001";"Ordinaire"
+"MIOTTO ";"Cédric ";"55210";"VIGNEULLES-LES-HATTONCHATEL";"17 rue miss skinner ";"";"";"06.33.27.69.15";"";"1219";"1249";"500";"501";"Ordinaire"
+"ANSAY";"Yannick";"55600";"ECOUVIEZ";"Lotissement gerawe 5 ";"";"";"+32497080190";"";"1219";"1249";"500";"501";"Ordinaire"

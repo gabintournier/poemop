@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Date;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BROWN;Eric;42 boulevard de l'ouest ;93340;LE RAINCY;;1000;1000;1069;1089;O;;06.89.50.34.94;;
+FITOUSSI;Laure;2 bis avenue de saintonge;93220;GAGNY;;1000;0;1069;1089;S;;06.12.83.59.85;;
+HEN;Christophe;23 rue de l'épi d'or;93330;NEUILLY-SUR-MARNE;;1400;0;1069;1089;S;;06.87.76.08.84;;
+SOIFER;Mireille;111 rue du bras saint arnoult;93460;GOURNAY-SUR-MARNE;;2100;1758;1065;1085;S;;01.49.31.05.12;06.19.61.50.06;

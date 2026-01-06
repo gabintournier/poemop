@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"GASCHET";"Alain";"16430";"CHAMPNIERS";"129 rue jean louis guez de balzac la chignolle";"";"";"06.01.95.86.40";"";"1319";"1344";"500";"Ordinaire"
+"DE LA BARDONNIE";"Jean  ";"16430";"VINDELLE";"2, rue du champ de foire";"";"";"06.42.84.39.42";"hors secteur ";"1259";"1284";"1000";"Supérieur"
+"DEKLERC";"Nadine";"16290";"HIERSAC";"31 rue d'angouleme";"";"";"07.88.06.92.08";"";"1319";"1344";"600";"Ordinaire"
+"PREVOST";"Jacqueline";"16140";"AMBERAC";"Rue du fer à cheval";"";"06.72.72.86.07";"05.45.21.13.62";"test";"1259";"1284";"1000";"Ordinaire"

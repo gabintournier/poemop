@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"MARCHAND";"Geoffrey ";"37320";"SAINT-BRANCHS";"15 villeprée";"06.58.49.31.69";"06.58.49.31.69";"";"700";"651"
+"FAGHEL";"Jeremy";"37110";"AUTRECHE";"La prairie";"02.47.56.00.22";"06.13.39.24.62";"";"500";"500"
+"BONTEMPS";"Joelle";"37270";"MONTLOUIS-SUR-LOIRE";"34 rue jacques marie rougé";"06.68.85.20.45";"06.68.85.20.45";"LIVRAISON PREVUE LE 05/02/25";"1000";"1050"
+"BIARD";"Bruno";"37600";"BEAULIEU-LES-LOCHES";"5 rue du stade";"09.51.62.17.04";"06.19.06.05.36";"LIVRAISON PREVUE LE 06/02/25";"500";"500"
+"LORIEUX";"Michel";"37130";"SAINT-PATRICE";"25 chemin des forges";"";"06.12.51.43.88";"";"500";"500"
+"FORIN";"Michel";"37550";"SAINT-AVERTIN";"150 rue dd grandmont";"02.47.28.13.89";"07.86.32.18.30";"";"1300";"1400"
+"PELLE";"Jean-pierre";"37150";"FRANCUEIL";"3 rue george sand";"";"07.66.12.84.96";"LIVRAISON PREVUE LE 12/02/25";"1000";"0"
+"LAILLER";"Sol";"37460";"GENILLE";"Rue imbert ";"";"06.83.02.66.99";"";"600";"600"
+"YOSHY";"Guillaume ";"37510";"SAINT-GENOUPH";"6 rue du bourg";"";"06.83.62.02.80";"";"500";"500"

@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHOLET;Christian;4 rue du château;70400;SAULNOT;1000;1094;1114;O;;06.18.46.50.49;;
+FOUILLET;Alexis;223 rue du coucou;70200;ARPENANS;500;1144;1164;S;;06.07.73.01.63;;
+GUTLEBEN;Francois;4 rue des vergers;90340;NOVILLARD;1000;1094;1114;O;;06.82.18.72.99;06.82.18.72.99;
+MANG;Jean claude;49 rue des vosges ;90110;ROMAGNY-SOUS-ROUGEMONT;1000;1094;1114;O;;06.61.16.02.32;;
+SCHLIER;Rene;12 bis  rue des combes;90100;FECHE-L'EGLISE;1000;1094;1114;O;;06.76.61.62.78;06.82.03.53.44;

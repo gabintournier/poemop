@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"JEANNIN";"Claude";"91630";"LEUDEVILLE";"18, chemin du parc";"";"06.02.27.99.48";"01.64.56.19.38";"";"984";"1004";"1300";"1542";"Supérieur"
+"AZOUZ";"Kamel";"91460";"MARCOUSSIS";"17 chemin du Moulin";"";"06.75.29.51.83";"01.69.63.73.29";"";"984";"1004";"1000";"1000";"Ordinaire"
+"SARUBBI";"Edoardo";"94130";"NOGENT-SUR-MARNE";"39 ter, avenue du val de beauté";"";"09.53.44.66.70";"06.08.61.04.23";"";"984";"1004";"1000";"1000";"Supérieur"
+"CROUZET";"Nicolas";"91190";"GIF-SUR-YVETTE";"52 rue gustave vatonne";"";"06.70.73.32.36";"09.67.41.69.45";"";"984";"1004";"1500";"1500";"Supérieur"
+"TESSIER";"Paul ";"91210";"DRAVEIL";"27 rue lamartine";"";"06.07.03.70.19";"06.07.03.69.10";"";"984";"1004";"1000";"1000";"Ordinaire"
+"FONSECA";"Dilia";"94420";"LE PLESSIS-TREVISE";"7 avenue du parc de la lande";"";"";"06.26.02.58.68";"";"984";"1004";"1000";"1000";"Ordinaire"
+"CHAPUIS";"Cedric";"94100";"SAINT-MAUR-DES-FOSSES";"25 bis rue alfred de musset ";"";"";"06.69.54.55.90";"";"1024";"1044";"500";"500";"Ordinaire"
+"LECUYER";"Guy";"91290";"ARPAJON";"6 impasse du jeu de boules ";"";"";"06.07.83.02.78";"";"1024";"1044";"500";"500";"Supérieur"
+"MAHE";"Cyrille";"91210";"DRAVEIL";"109 rue pierre brossolette";"";"";"06.09.25.26.53";"";"974";"994";"2000";"2000";"Ordinaire"
+"RUBIANO";"Oscar";"94400";"VITRY-SUR-SEINE";"9 rue des marais";"";"06.28.34.16.73";"06.60.18.16.61";"";"984";"1004";"1000";"1000";"Ordinaire"

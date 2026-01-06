@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"VERGNEAUX ";"Bastien";"90150";"MENONCOURT";"11 rue des bochets";"";"";"06.58.37.58.16";"";"1048";"1068";"1000";"999";"Ordinaire"
+"PRIQUELER";"Hervé";"90110";"ROMAGNY-SOUS-ROUGEMONT";"12 rue des vosges";"";"03.84.27.69.74";"06.08.78.08.06";"Livraison faite livré 1001";"1048";"1068";"1000";"1001";"Supérieur"
+"DOLAT";"Jean pierre";"90150";"FONTAINE";"56 rue du tilleul";"";"03.84.27.66.56";"06.32.46.20.71";"Nous l'avons contacté plusieurs fois, nous demandant à chaque le prix et nous disant je sais pas je vous tiens au courant. 
+Jamais de retour  de confirmation, nous annulons la commande ";"1098";"1118";"500";"0";"Ordinaire"
+"SCHWALM";"Roland";"90400";"VEZELOIS";"1085 rue de brebotte";"bonjour , je souhaiterais être livré à partir du 30/11 . Je rentre le 29 en fin de journée ... Merci";"";"06.66.29.28.28";"livraison faite livré 501";"1098";"1118";"500";"501";"Ordinaire"
+"DEGARDIN";"Pierre";"90150";"REPPE";"2 rue la vie du ban";"";"+0950026125";"06.79.76.27.27";"livraison faite livré 1000 L";"1048";"1068";"1000";"1000";"Ordinaire"

@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"RIGONNAUD";"Philippe  ";"91400";"ORSAY";"25  avenue de montjay";"";"06.52.78.48.40";"01.69.07.11.90";"";"1200";"1220";"1000";"1000";"Supérieur"
+"LEHONG";"Henri";"91760";"ITTEVILLE";"2 avenue joffre";"";"";"06.32.46.11.11";"";"1260";"1280";"500";"500";"Ordinaire"
+"BELLI";"Christiane";"91160";"longjumeau";"161 route de corbeil";"";"06.77.64.12.95";"01.69.09.90.16";"";"1260";"1280";"500";"500";"Ordinaire"
+"ESTEVES";"Ismael";"91230";"MONTGERON";"11 rue du gue";"";"";"06.51.20.36.56";"";"1200";"1220";"1000";"1000";"Supérieur"
+"HAMLAT";"Alexandre";"91700";"SAINTE-GENEVIEVE-DES-BOIS";"33 rue pascal";"urgent";"06.45.30.61.16";"07.50.94.02.52";"le client à été livré par quelqu'un d'autre .";"1260";"1280";"500";"0";"Ordinaire"
+"BURNIER";"Pierre";"91390";"MORSANG-SUR-ORGE";"13 rue de la remise";"";"06.77.72.73.95";"06.62.21.33.71";"";"1260";"1280";"500";"500";"Supérieur"
+"BELLANGER";"Dominique";"91140";"VILLEJUST";"10 grande rue fretay";"";"07.88.04.84.48";"06.98.99.47.95";"";"1200";"1220";"1000";"1000";"Ordinaire"
+"CARLIER";"Dominique";"94490";"ORMESSON-SUR-MARNE";"61 rue des martyrs de chateaubriant";"";"";"06.60.04.44.76";"";"1200";"1220";"1100";"1100";"Supérieur"

@@ -1,0 +1,7 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BROU;Laurent;10 rue du fort;60170;BAILLY;1000;1110;1125;O;;06.52.96.92.82;03.60.45.16.29;
+PIHAN;Samuel;78 rue de la gare;60390;AUNEUIL;1500;1110;1125;O;;06.63.74.95.53;06.09.24.03.37;
+RUMIGNY ;Maxime ;61 rue principale ;60113;BRAISNES-SUR-ARONDE;2000;1098;1113;S;;06.05.26.48.47;;
+TOURELLE;Michel ;456 rue de compiegne;60490;RESSONS-SUR-MATZ;1500;1110;1125;S;à livrer à partir du 10 juin (car de retour de Bretagne, pas disponilble avant);03.44.42.53.23;06.83.16.79.27;
+VERBRUGGHE;Yannick;5 rue des coterets;60170;BAILLY;1000;1110;1125;O;;06.22.32.18.78;;
+VERVEL;Claude;7 rue de gournay;60113;MONCHY-HUMIERES;1000;1110;1125;O;;06.07.76.49.59;;

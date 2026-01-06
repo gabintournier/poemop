@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"LACAZE";"Ludivine";"54740";"BRALLEVILLE";"7 rue de tantimont";"";"06.08.94.53.03";"";"";"1080";"1100";"1000";"Ordinaire"
+"DONDORFFE";"Diane";"54116";"TANTONVILLE";"11 rue du 6 septembre";"Livraison par derriere la maison (en face du 3 rue de tinlot)";"06.30.47.06.65";"";"";"1080";"1100";"1500";"Ordinaire"
+"LHOTE";"Aurelie  ";"54380";"AUTREVILLE-SUR-MOSELLE";"3 rue de la cote";"";"06.87.44.87.35";"06.87.44.87.35";"";"1080";"1100";"1000";"Ordinaire"
+"BENHAMOU";"Virginie";"54380";"SAIZERAIS";"89 allée des magnolias";"";"06.78.08.42.09";"06.78.08.42.09";"";"1130";"1150";"500";"Supérieur"
+"BECKER";"Jean-Philippe";"54280";"SEICHAMPS";"10, rte de Voirincourt";"";"06.13.89.38.10";"";"";"1070";"1090";"2000";"Ordinaire"
+"SCI";"Chloal";"54290";"BAYON";"10 avenue de la gare";"";"";"06.17.09.00.27";"";"1080";"1100";"1700";"Ordinaire"
+"PELISSIER";"Laurent";"54820";"MARBACHE";"3 bis chemin de saizerelle";"";"";"06.61.33.15.78";"";"1080";"1100";"1000";"Ordinaire"

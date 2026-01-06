@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BOUILLET;Zoé;360 rue de charbonniere le plateau d'assy;74190;PASSY;3000;0;1105;1125;O;Si possible une livraison à partir de début septembre. Paiement en 3x CB;06.16.04.53.65;;
+bressand;ch;965 route de bellevarde;74310;Les Houches;1500;0;1115;1135;O;tuyau de 60m pour atteindre la cuve. Petit camion pour la route de Bellevarde aux Houches.;06.80.87.60.79;;
+BRETHOUS;Laurence;113 chemin de la bathia;74800;CORNIER;1000;0;1115;1135;S;;06.72.51.25.03;;
+CHIAPPANI;Mylene;980 rte santadrionne la corbière;74420;SAINT-ANDRE-DE-BOEGE;3000;0;1105;1125;S;;06.87.37.58.40;06.42.67.50.02;
+DELVA;Jean baptiste;139 chemin du bois de lévaud 74 380 cranves-sales france;74380;CRANVES-SALES;1000;0;1115;1135;O;;06.66.44.26.70;;
+DIEN;Magali ;142 avenue henri ducoudray;74190;PASSY;600;0;1165;1185;O;;06.62.29.49.35;;
+MEYER;Martine;67 impasse de platé;74310;SERVOZ;1400;0;1115;1135;S;Livraison seulement le mercredi!;06.98.64.81.82;;
+NAEGELEN;Daniel;669 route de passy;74310;SERVOZ;1500;0;1115;1135;S;;06.40.23.43.95;06.45.10.83.81;
+SCHILDKNECHT;Lionel;75 chemin des echartaz;74190;PASSY;1000;0;1115;1135;S;;06.78.03.73.90;04.50.53.39.82;

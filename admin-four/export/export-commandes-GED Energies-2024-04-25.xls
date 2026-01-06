@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"PELLEGER";"Anthony";"08300";"RETHEL";"22 rue hildevert thomé ";"";"";"06.29.16.13.64";"";"1170";"1200";"1000";"1022";"Ordinaire"
+"JOUNIAUX";"Eric";"08400";"VOUZIERS";"13 rue du nan";"";"";"06.76.55.30.52";"";"1200";"1230";"500";"500";"Ordinaire"
+"LATSCH";"Christine";"08190";"AVAUX";"3 rue st remy";"";"06.18.95.66.15";"03.24.38.90.37";"";"1200";"1230";"500";"500";"Ordinaire"
+"LATSCH";"Paula";"08190";"ROIZY";"9 grande rue";"";"06.18.95.66.15";"03.24.38.90.37";"";"1200";"1230";"800";"800";"Ordinaire"
+"CARTIER ";"Jennifer";"08190";"ASFELD";"1 rue jean-baptiste clement ";"";"06.27.09.27.76";"06.34.02.54.84";"";"1200";"1230";"700";"700";"Supérieur"

@@ -1,0 +1,15 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ANDRE;Delaittre;3 rue alfred de vigny gousseauville;76117;INCHEVILLE;1300;1070;1100;O;;06.51.97.79.82;;
+AVRIL;Florence;39 avenue jean jaurès ;76300;SOTTEVILLE-LES-ROUEN;1500;1070;1100;O;;06.88.27.24.59;;
+BERTRAND DEFORGE;Sandrine;03 rue nungesser et coli;76800;SAINT-ETIENNE-DU-ROUVRAY;1000;1070;1100;O;;02.35.66.10.58;06.17.64.64.92;
+BOYCE;Ben;5 avenue du val coquet;76910;CRIEL-SUR-MER;1000;1070;1100;O;;06.08.32.82.90;;
+CARON;Bruno;10 résidence les prairies 2;76550;TOURVILLE-SUR-ARQUES;1000;1070;1100;O;;06.02.50.49.78;02.35.84.67.34;
+DAUZIN;Peggy  ;30 résidence les clairs logis;76113;SAHURS;2010;1060;1070;O;;06.08.49.20.10;;
+DOUBLET;Maryse;32 rue berthet burlet;76590;LONGUEVILLE-SUR-SCIE;1000;1070;1100;O;;06.32.86.21.40;;
+HORVILLE;Nathalie;534 rue de la hêtraie;76160;LA VIEUX-RUE;700;1100;1110;S;Commande non urgente;07.87.34.31.03;;
+LECLERC;Emmanuel;5 ter avenue lagarrigue;76530;GRAND-COURONNE;1000;1070;1100;O;Maison entre pharmacie et garage ;06.60.73.06.40;;
+LEVASSEUR;Bertrand;471 route de saint aubin;76750;VIEUX-MANOIR;1500;1070;1100;S;Bonjour Livraison sur la maison du fond dans la propriété. Chemin exigu merci de préciser livraison petit ou moyen camion si le fournisseur n'est pas déjà passé. Sinon me contacter avant . 06.01.77.14.78;06.01.77.14.78;;
+OZOUF;Alain;49 rue michel anguier;76120;LE GRAND-QUEVILLY;1500;1070;1100;S;;06.03.76.16.84;06.09.89.39.74;
+OZOUF;Alain;49 rue michel anguier;76120;LE GRAND-QUEVILLY;1500;1070;1100;S;;;06.03.76.16.84;
+PIONNIER;Benjamin;112 rue de la foret;76380;MONTIGNY;1000;1070;1100;O;;06.60.96.07.62;;
+STAB;Bruno;1056 chemin du nouveau monde;76440;SOMMERY;1000;1070;1100;O;;06.85.21.40.20;;

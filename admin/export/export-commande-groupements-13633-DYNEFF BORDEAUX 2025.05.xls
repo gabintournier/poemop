@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DAVAL;Gerard;1 impasse la brandette;33340;GAILLAN-EN-MEDOC;500;1010;1010;S;;06.21.46.45.52;;
+GRUSZKA;Didier;6 rue jean-baptiste lebas;33140;VILLENAVE-D'ORNON;1900;1000;1000;S;;06.64.56.20.64;06.80.50.83.74;
+LACOMBE;Jean michel;1915 route du bas;33210;SAINT-PIERRE-DE-MONS;2000;990;990;S;;06.81.78.77.43;06.16.16.44.48;
+LEGLISE;Jean;327 route du bearnais;33210;SAINT-PIERRE-DE-MONS;1000;1000;1000;O;;06.17.87.61.98;;

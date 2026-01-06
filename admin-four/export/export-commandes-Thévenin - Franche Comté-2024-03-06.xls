@@ -1,0 +1,7 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"SCHUWER";"Colette";"25000";"BESANCON";"28 chemin du fort de bregille";"Commande non urgente ";"";"07.81.12.28.14";"";"1120";"1140";"1000";"1100";"Ordinaire"
+"RENGGLI";"Christophe";"25320";"montferrand le chateau";"3 bis rue de besancon";"";"";"06.88.48.83.84";"";"1120";"1140";"1000";"1000";"Ordinaire"
+"EPENOY";"Christian  ";"25410";"POUILLEY-FRANCAIS";"2 rue de la fontaine";"";"03.81.82.07.64";"06.72.80.97.25";"";"1145";"1151";"800";"1000";"Supérieur"
+"HERNU";"Bernadette ";"39290";"MONTMIREY-LA-VILLE";"1 treije des vignerons";"";"06.77.39.70.71";"06.77.39.70.72";"";"1120";"1140";"1500";"1500";"Ordinaire"
+"KOLLY";"Benoit";"25620";"L'HOPITAL-DU-GROSBOIS";"17 grande rue";"";"";"06.78.19.89.99";"";"1145";"1151";"500";"500";"Ordinaire"
+"CERIEIRO ";"Angélique ";"25660";"MONTFAUCON";"3 bis chemin des pâturages ";"";"06.73.06.20.44";"06.08.33.21.78";"";"1109";"1115";"3000";"2000";"Supérieur"

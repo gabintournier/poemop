@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"AGUILLAUME";"Stéphane";"68240";"KAYSERSBERG";"4 rue du burbach";"";"";"06.67.31.20.98";"";"1105";"1125";"700";"Ordinaire"
+"SENGLER";"Francis";"68750";"BERGHEIM";"44, rue du vieil hôpital oui, 44, rue du vieil hôpital";"";"";"07.88.59.32.21";"";"1055";"1075";"1000";"Ordinaire"
+"HOPPE";"Claude";"68250";"ROUFFACH";"1 rue de westhalten";"";"07.61.04.84.20";"07.61.04.84.20";"";"1050";"1070";"2000";"Supérieur"
+"RUSCH ";"Remy";"68127";"OBERENTZEN";"112 rue de la krutenau";"";"";"03.89.49.49.34";"";"1055";"1075";"1200";"Ordinaire"

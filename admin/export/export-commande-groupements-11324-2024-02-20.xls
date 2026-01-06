@@ -1,0 +1,8 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Mail;Commentaire Fournisseur;Tel1;Tel2;
+CESTRE;Thierry ;7 rue irma;92160;ANTONY;1000;1216;1236;O;tcestre@gmail.com;Commande urgente, car la cuve est pratiquement vide;07.83.87.00.14;01.46.66.27.77;
+CHEREAULT;Marie-laure;2 rue de rambouillet;78125;EMANCE;1000;1216;1236;S;marie-laure@chereault.com;;06.09.99.63.57;;
+DUPLANT;Monique;8 av du commerce;78000;Versailles;1500;1216;1236;O;mduplant@yahoo.fr;;06.86.55.63.77;;
+BRUMENT;Francis;5 rue jean giono;78370;PLAISIR;2000;1208;1228;O;brument.francis@free.fr;;01.30.81.63.03;07.83.95.58.78;
+HERBEL-MIGE;Frédérique;8 rue de baudreuil;92190;MEUDON;1500;1216;1236;O;hermibell@hotmail.fr;;06.64.68.87.14;;
+LE TEXIER ;Paulette;526 rue du vieux pressoir ;78830;BULLION;2000;1208;1228;O;blandine.letexier.jault@gmail.com;commande urgente;06.72.99.73.26;;
+BAIGNE;Ingrid;18 rue gustave courbet;78500;SARTROUVILLE;1000;1216;1236;S;tadine22@gmail.com;;06.85.93.36.98;;

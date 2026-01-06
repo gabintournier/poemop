@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CUISINIER;Fabrice;8 rue de bellenville;62149;ANNEQUIN;500;0;1095;O;;07.88.78.69.17;;
+FOURCROY;Martine;2 impasse de crocq;62560;COYECQUES;500;0;1095;O;;06.19.28.72.26;;
+LAMBERT;Yves;6 rue neuve;62116;PUISIEUX;500;0;1095;S;Nous ne sommes disponibles pour la livraison que le mercredi (jour de repos hebdomadaire). Nous sommes disponibles également ce mercredi 20 novembre. Merci de nous prévenir au 06 18 17 50 73;06.29.88.00.84;06.18.17.50.73;
+NAPORA;Kévin;4 rue d'hézecques;62310;LUGY;1000;0;1084;S;;06.14.87.57.24;;

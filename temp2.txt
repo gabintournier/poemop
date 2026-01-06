@@ -1,0 +1,195 @@
+﻿/* Tarteaucitron overrides (banner-focused) */
+
+/* Banner buttons: transparent, rounded, white text */
+#tarteaucitronAlertBig #tarteaucitronCloseAlert,
+#tarteaucitronAlertBig .tarteaucitronAllow,
+#tarteaucitronAlertBig #tarteaucitronDenyAll,
+#tarteaucitronAlertBig .tarteaucitronDeny,
+#tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronAlertBig #tarteaucitronPrivacyUrl,
+#tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog {
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border: 2px solid rgba(255,255,255,0.9) !important;
+  border-radius: 999px !important;
+  padding: 8px 14px !important;
+  box-shadow: none !important;
+}
+
+/* Specific borders */
+/* Accept (CloseAlert/Allow): white border (default from base) */
+/* Refuse: red border */
+#tarteaucitronAlertBig #tarteaucitronDenyAll,
+#tarteaucitronAlertBig .tarteaucitronDeny {
+  border-color: #e53935 !important;
+}
+/* Personnaliser: bordure orange (normal, hover, focus) */
+#tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronAlertBig #tarteaucitronPersonalize:hover,
+#tarteaucitronAlertBig #tarteaucitronPersonalize:focus {
+  border: 2px solid #ef8351 !important;
+}
+
+/* Hover overlay for all banner buttons */
+#tarteaucitronAlertBig #tarteaucitronCloseAlert:hover,
+#tarteaucitronAlertBig .tarteaucitronAllow:hover,
+#tarteaucitronAlertBig #tarteaucitronDenyAll:hover,
+#tarteaucitronAlertBig .tarteaucitronDeny:hover,
+#tarteaucitronAlertBig #tarteaucitronPersonalize:hover,
+#tarteaucitronAlertBig #tarteaucitronPrivacyUrl:hover,
+#tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog:hover {
+  background-color: rgba(255,255,255,0.12) !important;
+}
+
+/* =====================
+   Final strong overrides
+   (higher specificity to win against base CSS)
+   ===================== */
+/* No fill for Accept/Personalize (normal/hover/focus) */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2:focus {
+  background-color: transparent !important;
+}
+
+/* Borders: Accept (white), Refuse (red), Personalize (orange) */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:focus {
+  border: 2px solid #ffffff !important;
+}
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronDenyAll,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronDenyAll:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronDenyAll:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronDeny,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronDeny:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronDeny:focus {
+  border: 2px solid #e53935 !important;
+}
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2:focus {
+  border: 2px solid #ef8351 !important;
+}
+
+/* Privacy dialog button text in black (keep its shape) */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog:focus {
+  background: rgba(0, 0, 0, .25);
+}
+
+/* ===== Strong mapping using actual markup seen on dev ===== */
+/* Accept button currently renders as: id="tarteaucitronPersonalize2" with class "tarteaucitronAllow" */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2.tarteaucitronAllow,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2.tarteaucitronAllow:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2.tarteaucitronAllow:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig button.tarteaucitronAllow[aria-label*="Tout accepter"],
+#tarteaucitronRoot #tarteaucitronAlertBig button.tarteaucitronAllow[title*="Tout accepter"] {
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
+}
+
+/* Personnaliser border must be orange even if IDs are swapped */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize:focus,
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2[aria-label*="Personnaliser"],
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronPersonalize2[title*="Personnaliser"] {
+  background: transparent !important;
+  color: #ffffff !important;
+  border: 2px solid #ef8351 !important;
+}
+
+/* ===== Attribute-based mapping (handles swapped IDs) ===== */
+/* Force Personnaliser (even if ID is tarteaucitronCloseAlert) to orange border */
+#tarteaucitronRoot #tarteaucitronAlertBig button[aria-label*="Personnaliser"],
+#tarteaucitronRoot #tarteaucitronAlertBig button[title*="Personnaliser"],
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert[aria-label*="Personnaliser"],
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert[title*="Personnaliser"] {
+  background: transparent !important;
+  border: 2px solid #ef8351 !important;
+  color: #ffffff !important;
+}
+
+/* Force Tout accepter to white border (by label/title) */
+#tarteaucitronRoot #tarteaucitronAlertBig button[aria-label*="Tout accepter"],
+#tarteaucitronRoot #tarteaucitronAlertBig button[title*="Tout accepter"] {
+  background: transparent !important;
+  border: 2px solid #ffffff !important;
+  color: #ffffff !important;
+}
+
+/* Force white border for the true Accept button even if it uses #tarteaucitronCloseAlert id
+   but is NOT the Personnaliser action */
+#tarteaucitronRoot #tarteaucitronAlertBig #tarteaucitronCloseAlert:not([aria-label*="Personnaliser"]):not([title*="Personnaliser"]),
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:hover,
+#tarteaucitronRoot #tarteaucitronAlertBig .tarteaucitronAllow:focus {
+  background: transparent !important;
+  border: 2px solid #ffffff !important;
+  color: #ffffff !important;
+}
+
+/* Remove pseudo icons (avoid squares) */
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronAllow::before,
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronDeny::before,
+#tarteaucitron .tarteaucitronAllow::before,
+#tarteaucitron .tarteaucitronDeny::before,
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronAllow::after,
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronDeny::after,
+#tarteaucitron .tarteaucitronAllow::after,
+#tarteaucitron .tarteaucitronDeny::after,
+#tarteaucitronAlertBig .tarteaucitronAllow::before,
+#tarteaucitronAlertBig .tarteaucitronDeny::before,
+#tarteaucitronAlertBig .tarteaucitronAllow::after,
+#tarteaucitronAlertBig .tarteaucitronDeny::after,
+#tarteaucitronAlertBig #tarteaucitronCloseAlert::before,
+#tarteaucitronAlertBig #tarteaucitronCloseAlert::after,
+#tarteaucitronAlertBig #tarteaucitronPersonalize::before,
+#tarteaucitronAlertBig #tarteaucitronPersonalize::after {
+  content: none !important;
+  background: none !important;
+  display: none !important;
+}
+
+/* Hide check/cross icon nodes */
+#tarteaucitron .tarteaucitronCheck,
+#tarteaucitron .tarteaucitronCross,
+#tarteaucitronAlertBig .tarteaucitronCheck,
+#tarteaucitronAlertBig .tarteaucitronCross {
+  display: none !important;
+  width: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Panel: Save button in orange */
+#tarteaucitron #tarteaucitronSaveButton {
+  background-color: #ef8351 !important;
+  color: #ffffff !important;
+  border-color: #ef8351 !important;
+  border-radius: 999px !important;
+  padding: 10px 16px !important;
+  font-weight: 700 !important;
+}
+#tarteaucitron #tarteaucitronSaveButton:hover {
+  background-color: #e36f3a !important;
+}
+

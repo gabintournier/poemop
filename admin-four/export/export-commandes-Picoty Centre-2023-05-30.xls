@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"RUER";"Pierre";"79230";"FORS";"35 route de la justice, les sanguinières";"";"06.89.01.68.11";"";"";"1070";"1090";"1100";"910";"Ordinaire"
+"BOUCHON";"Marie";"79110";"CREZIERES";"2 rue de la vallée lieu dit ouismes";"";"06.74.71.72.60";"";"";"1070";"1090";"1000";"705";"Supérieur"
+"JOUSLIN";"Geoffroy";"86800";"SAVIGNY-LEVESCAULT";"Lieu-dit treillet 120 chemin de treillet";"";"06.34.31.08.95";"";"";"1070";"1090";"1500";"1500";"Ordinaire"
+"BOULANGER";"Emmanuel";"86100";"CHATELLERAULT";"68 rue joseph mergau";"";"";"06.89.99.93.62";"";"1070";"1090";"1000";"1000";"Ordinaire"
+"BARREAULT";"Regis";"86530";"NAINTRE";"12 rue de la tour";"";"09.53.85.08.57";"06.83.12.34.88";"";"1070";"1090";"1000";"1001";"Supérieur"
+"PASQUET";"Lionel";"86210";"BONNEUIL-MATOURS";"2 b lieu dit augeron ";"Le camion doit entrer en marche arrière";"";"06.98.06.93.56";"";"1070";"1090";"1000";"1000";"Supérieur"
+"HAUTECOUVERTURE";"Catherine";"86170";"CHAMPIGNY-LE-SEC";"4 les rochelles ";"La cuve se trouve derrière la maison,si je suis pas là le chèque sera à côté";"06.69.39.62.73";"06.69.39.62.73";"";"1090";"1110";"500";"500";"Ordinaire"
+"BARBOT";"Jean-jacques";"86170";"AVANTON";"14 rue d anjou";"";"06.58.21.98.55";"05.49.56.61.23";"";"1090";"1110";"750";"750";"Supérieur"
+"BRIFFAUX";"Marc";"86420";"PRINCAY";"2 lieu dit la boussaye";"";"06.41.33.03.14";"05.49.22.63.95";"";"1070";"1090";"1150";"1152";"Supérieur"
+"LAROCHE";"Sandrine";"86600";"SAINT-SAUVANT";"10 rue belleroche";"";"06.29.15.45.04";"06.29.15.45.04";"";"1090";"1110";"800";"734";"Ordinaire"

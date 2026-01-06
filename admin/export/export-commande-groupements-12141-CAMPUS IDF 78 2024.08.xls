@@ -1,0 +1,15 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Date;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AGROUR;Dris;36 rue de buchelay;78710;ROSNY-SUR-SEINE;;500;0;1119;1139;O;;06.25.95.54.68;;
+BAIGNE;Ingrid;18 rue gustave courbet;78500;SARTROUVILLE;;1000;1000;1069;1089;S;;06.85.93.36.98;;
+BOESAART;Elisabeth;287 chemin du pipeu;78830;BULLION;;2000;2000;1065;1085;S;;01.30.41.32.29;06.71.95.98.69;
+BONIN;Sophie;8 chemin des 4 arpents;78330;FONTENAY-LE-FLEURY;;2000;2000;1065;1085;S;;06.81.73.60.95;;
+BRUN;Anaïs;8 rue thiers;78200;MANTES-LA-JOLIE;;1000;1000;1069;1089;O;l'accès peut être un peu compliqué. Il faut prévoir un petit camion si possible. ;06.58.92.42.45;;
+CALMELS;Alain;51 rue de l'hautil;78510;TRIEL-SUR-SEINE;;1000;0;1069;1089;O;;06.82.66.58.80;;
+DIENNE;Philippe;20 rue du general leclerc;78510;TRIEL-SUR-SEINE;;2000;2000;1065;1085;S;;06.13.08.83.73;06.28.92.37.59;
+ELMAR;Sam;9 rue emile zola ;78190;TRAPPES;;1000;1000;1069;1089;S;Petit camion;06.95.28.53.38;;
+GOSSON;Annie et hervé;36 rue des huguenots;78410;AUBERGENVILLE;;1000;1000;1069;1089;O;;06.19.92.45.96;06.19.92.45.96;
+KAGAN BARON;Yoann;48 cité de la clairière;78830;BULLION;;1500;1500;1069;1089;O;Nous souhaitons payer par CB lors de la livraison;06.71.80.66.61;;
+MANOLITSAS;Eugénie   ;27 rue des cavées;78810;FEUCHEROLLES;;1000;1000;1069;1089;S;;06.62.26.58.71;06.62.26.58.71;
+SIX;Amaury;13 rue pasteur;78800;HOUILLES;;1000;0;1069;1089;O;;06.35.52.55.84;;
+THIRIOT;Francois;12 rue de la vallée rogère;78580;BAZEMONT;;1000;1000;1069;1089;O;;06.79.54.93.36;06.79.54.93.36;
+XUDA;Da;56 boulevard emile zola;78800;HOUILLES;;1500;1500;1069;1089;O;;06.64.32.82.81;06.40.66.91.11;

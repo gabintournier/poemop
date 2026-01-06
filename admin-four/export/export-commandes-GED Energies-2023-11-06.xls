@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BRETON";"Yvon";"08400";"VANDY";"4 rue hagneau";"";"06.19.29.08.44";"";"";"1300";"1320";"1000";"1000";"Ordinaire"
+"SZKUDLABSKI";"François         ";"08300";"RETHEL";"4 rue du 152ème régiment d'infanterie";"";"";"06.16.84.08.80";"";"1300";"1320";"1300";"1301";"Ordinaire"
+"CARTIER ";"Jennifer";"08190";"ASFELD";"1 rue jean-baptiste clement ";"commande urgente";"06.27.09.27.76";"06.34.02.54.84";"";"1350";"1370";"500";"500";"Supérieur"

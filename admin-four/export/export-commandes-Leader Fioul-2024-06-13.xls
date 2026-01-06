@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"THISSEN";"Tobias";"68490";"CHALAMPE";"2 square de mulhouse";"";"+447799564566";"09.55.52.42.62";"";"1099";"1129";"500";"500";"Ordinaire"
+"PETER";"Eric";"68740";"RUMERSHEIM-LE-HAUT";"2 rue de l école ";"";"06.68.80.05.11";"06.68.80.05.09";"";"1079";"1109";"1200";"1096";"Ordinaire"
+"HEINTZ";"Dominique";"68190";"RAEDERSHEIM";"21 rue des pres";"";"";"06.01.90.55.49";"";"1079";"1109";"1000";"1000";"Ordinaire"
+"REBMANN";"Odile";"68740";"BLODELSHEIM";"1 rue alma";"";"";"06.98.95.55.88";"";"1079";"1109";"2000";"2000";"Ordinaire"
+"BRESCH";"Claude ";"68740";"BLODELSHEIM";"15 Rue des tuiles";"bien avertir avant du jour de livraison ";"";"06.36.68.66.05";"";"1079";"1109";"1000";"896";"Supérieur"
+"THOMAS";"Sylvie";"68600";"VOGELGRUN";"1, rue des blés ";"";"";"06.78.38.13.03";"";"1079";"1109";"1000";"1000";"Supérieur"
+"OUATGAMMI ";"Hicham ";"68320";"URSCHENHEIM";"27 grand rue ";"";"";"06.51.25.34.21";"";"1079";"1109";"1800";"1689";"Ordinaire"
+"HELMLINGER";"Elisabeth";"68600";"HEITEREN";"6 e route de strasbourg";"";"07.83.58.86.39";"03.89.72.73.38";"";"1079";"1109";"1000";"1000";"Supérieur"
+"SCHMITT";"Julie";"68127";"SAINTE-CROIX-EN-PLAINE";"3, 1ere impasse";"";"";"06.74.86.08.15";"";"1079";"1109";"1300";"1300";"Ordinaire"
+"IRAN";"Laetitia";"68490";"CHALAMPE";"8 square du capitaine theobald";"";"";"06.98.66.60.62";"";"1079";"1109";"1245";"0";"Ordinaire"

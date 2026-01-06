@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Mail;Commentaire Fournisseur;Tel1;Tel2;
+LAFFRAY;Philippe;21 rue des vignes;78660;PRUNAY-EN-YVELINES;2000;1173;1193;S;p.laffray@hotmail.fr;;06.71.01.40.95;;
+LARRIERE;Bertrand;8 rue henri virlogeux;78120;SONCHAMP;2500;1173;1193;O;nblarriere@free.fr;;06.60.08.28.96;;
+DELAS;Jean-pierre;35 rue du belvedere;78750;MAREIL-MARLY;1000;1181;1201;O;jean-pierre.delas@wanadoo.fr;;06.07.34.95.92;;
+BERTRAND;Roger;7, rue du midi;92160;ANTONY;1000;1181;1201;S;rbertrand@free.fr;;06.83.51.27.67;;
+VALIERE;Béatrice;3 rue quinault;78100;SAINT-GERMAIN-EN-LAYE;2000;1173;1193;S;beatval@hotmail.fr;;06.11.71.75.25;;
+LEVE;Alexandre ;11 rue de la borne ;78690;SAINT-REMY-L'HONORE;2000;1173;1193;S;leve.alexandre25@gmail.com;;06.08.02.91.37;;
+TRAN;André ;10 rue des ecouvilliers ;78700;CONFLANS-SAINTE-HONORINE;2000;1173;1193;O;tranandre@yahoo.com;;06.63.76.91.16;;
+BARGAIN;Yann;36, rue du vieux pressoir;78830;BULLION;1000;1181;1201;O;y.bargain@bbox.fr;;06.60.62.37.13;;
+THOMAS;Christian;20 rue victor duret;92420;VAUCRESSON;2000;1173;1193;S;christian.f.thomas@free.fr;La livraison nécessite un tuyau de 50m (allée bitumée étroite)  Le débit doit être réduit sous peine de refoulement  Nous préférons être livré le matin si possible.;06.04.46.98.74;06.24.53.86.44;
+ROBLES;Jessica;72 côte de beulle;78580;MAULE;1000;1181;1201;S;jsscrbls@gmail.com;Commande urgente. Il faudra prévoir un tuyau d'au minimum 10 mètres de longueur afin d'atteindre la cuve.;06.23.85.55.32;;

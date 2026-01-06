@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+FOLLEA ;Vincent ;15 ;21500;SAVOISY;500;1187;1212;O;;06.48.25.81.27;;
+GRIVEY;Aurelien;19 chemin de la combe saint joseph;21000;DIJON;500;1187;1212;S;;06.76.71.73.27;;
+GUYENOT;Jean-françois;3 impasse des tilleuls;21410;MALAIN;1000;1187;1212;O;;07.78.20.14.51;07.78.88.08.01;
+GUYENOT;Marie-thérèse;15 rue brillat savarin;21000;DIJON;2000;1187;1212;O;;07.78.20.14.51;;

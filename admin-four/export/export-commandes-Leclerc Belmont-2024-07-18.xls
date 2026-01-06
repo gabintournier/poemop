@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BALLY";"Julien ";"88470";"SAINT-MICHEL-SUR-MEURTHE";"14,lotissement le fourneau ";"";"";"06.10.99.30.21";"";"1129";"1147";"2000";"1691";"Ordinaire"
+"MAURICE";"Laetitia";"88400";"XONRUPT-LONGEMER";"182 route du trou de terre";"";"06.33.29.11.88";"06.33.29.11.88";"";"1129";"1147";"1000";"1000";"Supérieur"
+"THIRION";"Chantal";"88100";"SAINT-DIE-DES-VOSGES";"49 route du camp celtique";"Petit camion.";"";"06.07.81.83.27";"";"1129";"1147";"500";"500";"Ordinaire"
+"FRANOUX";"Valérie ";"88550";"POUXEUX";"352 la malaide ";"";"";"07.82.29.93.63";"";"1129";"1147";"500";"500";"Supérieur"
+"MARTIN";"Josiane";"88100";"NAYEMONT-LES-FOSSES";"316 route de saint-dié";"";"";"06.63.96.27.73";"";"1129";"1147";"750";"750";"Supérieur"
+"GROSJEAN";"Marie";"88400";"GERARDMER";"9,chemin des alisiers";"";"";"06.07.80.34.98";"";"1129";"1147";"2000";"2000";"Ordinaire"
+"BLIND";"Steve";"88600";"BRUYERES";"34 avenue de lattre de tassigny ";"";"06.38.38.66.93";"06.38.38.66.93";"";"1129";"1147";"1000";"1000";"Ordinaire"
+"PONSAINT ";"Sonny";"88430";"GERBEPAL";"37 les trexons ";"";"";"07.61.06.05.39";"A annulé";"1129";"1147";"1000";"0";"Ordinaire"

@@ -1,0 +1,4 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MANZONI";"Jean-pierre";"39600";"VILLERS-FARLAY";"53 rue louis pasteur";"";"03.84.37.63.78";"07.68.53.70.19";"";"1200";"1220";"1000";"1000";"Supérieur"
+"WIDMER";"Gerard";"39600";"VADANS";"14 rue de saint maurice";"";"03.84.66.17.26";"06.33.64.31.40";"";"1230";"1250";"600";"601";"Supérieur"
+"ASSATHIANY";"Laurent";"39600";"SAINT-CYR-MONTMALIN";"4 rue du bois";"";"03.84.37.58.07";"06.08.43.32.72";"";"1230";"1250";"800";"683";"Ordinaire"

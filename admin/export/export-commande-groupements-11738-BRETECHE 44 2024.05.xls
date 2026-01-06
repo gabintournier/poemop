@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AZNAR;Pierre;38 avenue de la forêt;44250;SAINT-BREVIN-LES-PINS;1500;1165;1195;O;;06.51.45.37.40;06.88.33.45.98;
+GRAPIN;Daniel;20 bis l'ile gouère;44160;PONTCHATEAU;1001;1165;1195;S;il serait préférable un petit camion Merci;06.61.94.05.68;;
+LE DORZE;Sylvie;2 rue de la grande aire;44580;BOURGNEUF-EN-RETZ;1100;1165;1195;O;;02.40.21.44.53;06.04.46.12.21;
+MARCHAND;Renaud;1 rue de la boule d'or;44150;SAINT-HERBLON;1000;1165;1195;S;;06.13.84.26.63;;
+MENARD;Nicole;94 avenue ferdiand de lesseps;44600;SAINT-NAZAIRE;1000;1165;1195;O;;02.40.53.79.06;06.38.22.72.44;
+MOINARD;Olivier;N°1 lieu dit les ragonnieres;44330;LA CHAPELLE-HEULIN;1500;1165;1195;S;;06.02.38.84.69;06.12.41.74.30;
+PELTIER;Virginie;210 rue de la table ronde;44240;LA CHAPELLE-SUR-ERDRE;1000;1165;1195;O;;06.81.74.80.52;;
+RAFFRAY;Angélique;N°6 la fevrie;44690;MAISDON-SUR-SEVRE;500;1195;1225;O;;06.22.72.08.07;;
+TIRILLY;Pierre simon ;30, la poirie;44360;CORDEMAIS;1500;1165;1195;O;;06.83.93.00.31;06.83.93.00.31;

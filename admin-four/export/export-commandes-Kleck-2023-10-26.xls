@@ -1,0 +1,16 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"FERY";"Christophe";"55600";"THONNE-LA-LONG";"2, chemin de gerouville";"";"";"06.70.96.88.86";"";"1286";"1300";"1500";"1480";"Ordinaire"
+"RICHARD";"Benoît ";"54560";"SERROUVILLE";"22 rue du bachaud";"Livraison le mercredi ou le samedi
+Merci";"";"06.77.20.82.03";"";"1286";"1300";"1000";"1000";"Supérieur"
+"DEMEUSE";"Alain";"54260";"FRESNOIS-LA-MONTAGNE";"6, rue du 23 aout";"";"06.82.19.63.51";"06.81.28.73.23";"";"1286";"1300";"1000";"1000";"Ordinaire"
+"MESIERES";"Marie";"54150";"LANTEFONTAINE";"23 rue de metz";"";"";"06.74.43.35.58";"";"1286";"1300";"1000";"1001";"Supérieur"
+"LAVAUX ";"Pierre";"54400";"COSNES-ET-ROMAIN";"19 rue du roussillon ";"";"06.08.30.84.97";"06.58.52.40.14";"";"1340";"1360";"500";"500";"Supérieur"
+"TROGNON";"Alain";"54800";"JARNY";"14 rue du bois du four";"commande urgente";"";"06.13.27.17.54";"";"1286";"1300";"1000";"1000";"Supérieur"
+"VAN DELFT";"Marc andré ";"54800";"VILLE-SUR-YRON";"2 la cour au pont";"";"06.35.24.42.76";"06.40.52.96.07";"";"1286";"1300";"1000";"1000";"Ordinaire"
+"RICHARD ";"Ilham  ";"54800";"DONCOURT-LES-CONFLANS";"Ferme st etienne ";"";"";"06.45.27.51.42";"";"1286";"1300";"1500";"1482";"Ordinaire"
+"BECKER";"Alain";"54760";"FAULX";"19 route de bratte";"";"06.19.65.24.94";"06.19.65.24.94";"";"1286";"1300";"1000";"649";"Ordinaire"
+"DECKER DUGRAIN";"Jacqueline";"57130";"REZONVILLE";"15 rue croisette";"";"07.49.30.55.71";"06.14.29.18.45";"";"1286";"1300";"1100";"1099";"Supérieur"
+"LEGUIL";"Sophie";"57480";"SIERCK-LES-BAINS";"5 ecart du koenigsberg";"Petit camion nécessaire (portail classé monument historique assez bas et pas très large) - ou stationnement facile à environ 40m de la cuve.";"+352661621445";"07.67.99.50.05";"";"1286";"1300";"3000";"3000";"Supérieur"
+"DIJOUX";"Alexander";"57670";"INSMING";"3a rue des vergers";"";"";"06.68.46.36.81";"";"1340";"1360";"500";"649";"Ordinaire"
+"KHIAR";"Khedidja";"57650";"FONTOY";"22 rue du couvent";"";"03.82.85.87.38";"07.66.26.85.81";"";"1286";"1300";"1000";"1000";"Ordinaire"
+"DE OLIVEIRA";"Manuel ";"54260";"SAINT-JEAN-LES-LONGUYON";"7 rue du 1er bcp";"";"03.82.23.47.88";"06.38.47.57.46";"";"1340";"1360";"500";"500";"Supérieur"

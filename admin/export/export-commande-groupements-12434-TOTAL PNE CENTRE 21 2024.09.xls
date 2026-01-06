@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AFFENTRANGER;Didier;4bis rue pasteur pavillon;21300;CHENOVE;1000;1100;1130;S;;07.78.51.75.08;;
+FOCARDI;Hubert;13 rue jean jaures;21300;CHENOVE;800;1100;1130;O;;06.22.79.46.42;;
+GUYENOT;Jean-françois;3 impasse des tilleuls;21410;MALAIN;1000;1100;1130;O;;07.78.20.14.51;07.78.88.08.01;
+LE GOUAR;Virginie;17 rue lamartine;21600;LONGVIC;500;1100;1130;O;;06.89.18.43.61;;
+THEVENOT;Eric;5 impasse de la tannerie;21370;PRENOIS;500;1100;1130;S;;03.80.35.37.90;06.20.02.65.22;

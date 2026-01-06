@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BARBOT;Jean-jacques;14 rue d anjou;86170;AVANTON;500;1171;1186;S;;05.49.56.61.23;06.58.21.98.55;
+ESQUIROL;Jean-claude;5 rue du 19 mars 1962;86330;SAINT-CLAIR;1000;1171;1186;O;;06.85.94.82.64;;
+MOTTET;Alain;9 rue de la sauvetière;86490;BEAUMONT;1000;1171;1186;O;;06.85.96.01.66;;
+PIROTTE;Thomas;50 route de montamisé;86130;SAINT-GEORGES-LES-BAILLARGEAUX;650;1171;1186;S;;06.43.21.98.18;;
+TALLON;Jean-marie;51 route de poitiers;86170;CISSE;1000;1171;1186;S;;06.19.98.89.36;05.49.44.00.60;

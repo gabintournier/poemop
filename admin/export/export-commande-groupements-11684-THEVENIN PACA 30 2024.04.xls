@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHARAVEL;Pierre;1247 rue des trois ponts;30000;NIMES;1100;1091;1121;O;Petit camion;06.83.87.76.41;;
+FRIKACH ;Hayate;1 route de comps ;30300;BEAUCAIRE;600;1115;1145;O;;06.09.96.17.80;;
+LESPAGNOL ;Nathalie;20 rue commandant raynal;30000;NIMES;600;1115;1145;S;;06.84.35.63.73;;
+RIVIERE;Patrick;6 impasse de la cruviere sud meynes;30840;MEYNES;700;1115;1145;O;;06.85.74.64.52;06.85.74.64.52;

@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"CEGARRA";"Charlotte";"95410";"Groslay";"27 rue de l'isle";"";"06.10.18.79.88";"";"900";"900"
+"KLEIN";"Jozef";"95390";"SAINT-PRIX";"2, avenue héloïse";"";"06.12.34.99.60";"COMMANDE ANNULÉE CAR CLIENT ABSENT LORS DE LA LIVRAISON";"2500";"0"
+"PICHARD";"Laurence";"91470";"LIMOURS";"10 bd gal leclerc";"01.64.91.59.59";"06.12.90.60.44";"";"1500";"1500"
+"FEUGAROL";"Raphaël";"78830";"BULLION";"477 rue du vieux pressoir";"";"06.68.98.63.56";"COMMANDE ANNULÉE PAR LA CLIENTE SANS MOTIF";"1000";"0"
+"LAURENT";"Valentin";"78110";"LE VESINET";"53 route de la plaine";"06.26.69.02.65";"06.18.37.03.10";"";"1000";"1001"
+"VERHULST";"Eric";"95500";"LE THILLAY";"1 route de gonesse";"";"06.58.96.36.33";"";"1000";"1000"
+"PORTIER";"Marie-anne";"93800";"EPINAY-SUR-SEINE";"26 rue georges picot";"";"06.62.45.76.67";"";"1200";"1199"
+"MANGANE";"Sabine";"95390";"SAINT-PRIX";"29 rue de reinebourg";"";"06.17.23.68.02";"";"500";"500"
+"YE ";"Xiaobo";"93700";"DRANCY";"37 rue marie louise";"06.51.78.54.17";"07.67.92.86.58";"";"1000";"740"
+"SEBBAGH";"Rahma";"92700";"COLOMBES";"48 rue jeanne gleuzer ";"";"06.63.67.40.75";"";"1300";"1300"

@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+KOENIG;Daniel;73 rue gounod;68400;RIEDISHEIM;2000;1025;1045;S;;06.82.66.43.68;;
+SCHORR;Joseph;24 avenue pasteur;68800;THANN;1020;1030;1050;S;;06.81.98.95.38;03.89.37.84.71;
+VOEGTLIN;Sci;19 rue des jardins;68130;ASPACH;1000;1030;1050;S;;06.19.91.24.59;;
+WEIBEL;Maurice;29 rue de l'asile;68700;CERNAY;1000;1030;1050;O;;06.20.26.00.02;03.89.75.41.81;

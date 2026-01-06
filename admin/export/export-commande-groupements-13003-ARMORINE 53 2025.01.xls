@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CURE;Alain ;18 rue de beausoleil ;53210;ARGENTRE;1000;1160;1190;O;;06.51.88.95.12;02.43.58.10.01;
+GAUTHIER;Nelly  ;2 rue jean graffin;53410;LA BRULATTE;1000;1160;1190;S;;06.24.01.19.14;;
+MARREAU;Jonathan   ;16 rue du pré lucé;53260;PARNE-SUR-ROC;500;1238;1268;O;;06.07.66.10.65;06.07.66.10.65;
+THEBAULT;Aurélien ;5 route de laval;53380;LA CROIXILLE;1500;1160;1190;O;Commande urgente svp;06.19.63.44.14;;
+URVOY;Jean-yves;Froid-fonds;53170;RUILLE-FROID-FONDS;2100;1143;1173;S;;07.81.14.98.73;06.41.69.22.08;

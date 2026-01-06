@@ -1,0 +1,156 @@
+/* Poemop theme for tarteaucitron bottom consent bar */
+
+/* Big alert (bottom banner) */
+#tarteaucitronRoot #tarteaucitronAlertBig {
+  background-color: #0f393a !important;
+  color: #ffffff !important;
+  border-radius: 14px 14px 0 0;
+  box-shadow: 0 -12px 30px rgba(0, 0, 0, 0.25);
+  padding: 16px 20px !important;
+}
+
+#tarteaucitronAlertBig a,
+#tarteaucitronAlertBig strong,
+#tarteaucitronAlertBig p,
+#tarteaucitronAlertBig span {
+  color: #ffffff !important;
+}
+
+/* Text tweaks */
+#tarteaucitronAlertBig #tarteaucitronDisclaimerAlert {
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+/* Banner background and text */
+/* Remove previous generic selectors (not used by current version) */
+
+/* Buttons */
+/* Base button look */
+#tarteaucitronAlertBig button,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrl,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrlDialog {
+  border-radius: 999px !important;
+  padding: 10px 16px !important;
+  font-weight: 600 !important;
+  border: 2px solid rgba(255,255,255,0.9) !important;
+  transition: transform .12s ease, box-shadow .2s ease, background-color .2s ease, color .2s ease;
+  box-shadow: 0 2px 0 rgba(0,0,0,.15);
+}
+
+
+/* Secondary (Tout refuser / Personnaliser) */
+#tarteaucitronAlertBig .tarteaucitronDeny,
+#tarteaucitronAlertBig #tarteaucitronDenyAll,
+#tarteaucitronAlertBig #tarteaucitronPersonalize,
+#tarteaucitronAlertBig .tarteaucitronCta,
+#tarteaucitronAlertBig .tarteaucitronClosePanel {
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border-color: rgba(255,255,255,0.9) !important;
+}
+
+/* Spécifique: Tout refuser en rouge (bordure + hover) */
+#tarteaucitronAlertBig #tarteaucitronDenyAll,
+#tarteaucitronAlertBig .tarteaucitronDeny {
+  border-color: #e53935 !important; /* rouge */
+  color: #ffffff !important;
+}
+#tarteaucitronAlertBig #tarteaucitronDenyAll:hover,
+#tarteaucitronAlertBig .tarteaucitronDeny:hover {
+  background-color: rgba(229,57,53,0.18) !important;
+}
+
+/* Hover/focus states */
+#tarteaucitronAlertBig button:hover,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrl:hover,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrlDialog:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(0,0,0,.25);
+}
+
+#tarteaucitronAlertBig button:focus,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrl:focus,
+#tarteaucitronAlertBig a#tarteaucitronPrivacyUrlDialog:focus {
+  outline: 3px solid rgba(255,255,255,.6) !important;
+  outline-offset: 2px;
+}
+
+
+/* Layout: keep buttons readable on small screens */
+@media (max-width: 640px) {
+  #tarteaucitronRoot #tarteaucitronAlertBig {
+    padding: 14px 12px !important;
+  }
+  #tarteaucitronAlertBig button,
+  #tarteaucitronAlertBig a#tarteaucitronPrivacyUrl,
+  #tarteaucitronAlertBig a#tarteaucitronPrivacyUrlDialog {
+    width: 100%;
+    margin: 4px 0 !important;
+  }
+}
+
+/* Ensure links remain visible */
+#tarteaucitronRoot .tarteaucitron-alert a:hover,
+#tarteaucitronRoot .tarteaucitron-alert a:focus {
+  opacity: 0.9;
+}
+
+/* -------- Panel (Personnaliser) - remplacer le bleu par le vert Poemop -------- */
+/* Couleur par défaut du texte dans le panneau */
+
+/* En-têtes et blocs sombres du panneau */
+#tarteaucitron #tarteaucitronServices .tarteaucitronTitle,
+#tarteaucitron #tarteaucitronServices .tarteaucitronTitle button,
+#tarteaucitron #tarteaucitronInfo,
+#tarteaucitron #tarteaucitronServices .tarteaucitronDetails,
+#tarteaucitron #tarteaucitronServices .tarteaucitronMainLine {
+  background-color: #0f393a !important;
+  border-color: #0f393a !important;
+  color: #ffffff !important;
+}
+
+/* Texte à l’intérieur des lignes principales en blanc pour le contraste */
+#tarteaucitron #tarteaucitronServices .tarteaucitronMainLine *,
+#tarteaucitron #tarteaucitronServices .tarteaucitronTitle *,
+#tarteaucitron #tarteaucitronInfo *,
+#tarteaucitron #tarteaucitronServices .tarteaucitronDetails * {
+  color: #ffffff !important;
+}
+
+/* Boutons Autoriser / Interdire dans la liste des services */
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronAllow {
+  background-color: #0f393a !important;
+  color: #ffffff !important; /* texte bouton blanc */
+  border-color: #0f393a !important;
+}
+
+#tarteaucitron #tarteaucitronServices .tarteaucitronLine .tarteaucitronAsk .tarteaucitronDeny {
+  background-color: transparent !important;
+  color: #e53935 !important; /* texte rouge pour cohérence bouton outline */
+  border-color: #e53935 !important; /* rouge pour tout refuser */
+}
+/* Personnaliser (outline blanc dans le bandeau) */
+#tarteaucitronAlertBig #tarteaucitronPersonalize {
+  background-color: transparent !important;
+  color: #ffffff !important;
+  border-color: rgba(255,255,255,0.9) !important;
+}
+
+/* Icône “Masquer le bandeau”: pas de texte visible, seulement une croix */
+#tarteaucitronAlertBig .tarteaucitronClosePanel {
+  position: relative;
+  color: transparent !important; /* masque le texte */
+}
+#tarteaucitronAlertBig .tarteaucitronClosePanel::after {
+  content: "\00D7"; /* × */
+  color: #ffffff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -55%);
+  font-size: 18px;
+}
+
+/* Politique de confidentialit� en blanc (texte + contour) */
+

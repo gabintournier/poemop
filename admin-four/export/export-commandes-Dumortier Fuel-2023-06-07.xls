@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"CAMUS";"Christian";"69520";"GRIGNY";"106  rue andré sabatier";"Petit camion";"06.60.99.25.62";"06.60.99.25.62";"";"985";"995";"2000";"2000";"Ordinaire"
+"GUETAT";"Christophe ";"69570";"DARDILLY";"47 avenue de verdun";"";"06.87.25.09.02";"06.87.25.09.02";"";"999";"1009";"1000";"1000";"Ordinaire"
+"JACQUIER";" dominique ";"69290";"GREZIEU-LA-VARENNE";"13a route neuve du col de la luere";"Pour la livraison, indiquer sur l'adresse GPS le n° 26 Route Neuve du Col de la Luére..... J'habite en face du n° 26. Merci.";"06.58.38.37.08";"06.58.38.37.08";"";"999";"1009";"1000";"1000";"Ordinaire"
+"PASSOT";"Pascale ";"69390";"CHARLY";"313 ch des ferratieres ";"sonner à l’interphone";"04.72.30.40.95";"06.14.81.24.79";"";"999";"1009";"1000";"1000";"Ordinaire"
+"GRUFFAT";"Albert";"69210";"LENTILLY";"270 chemin du bois seigneur";"";"06.12.47.64.23";"06.12.47.64.23";"";"999";"1009";"1000";"1000";"Supérieur"
+"BOSC";"Odile ";"69690";"BESSENAY";"13 rue chanel";"";"06.60.30.05.75";"";"";"999";"1009";"1300";"1262";"Ordinaire"
+"LE DOZE";"Sabine";"69450";"SAINT-CYR-AU-MONT-D'OR";"25 bis chemin des greffières";"";"06.79.84.10.42";"06.79.84.10.42";"";"999";"1009";"1000";"1000";"Ordinaire"

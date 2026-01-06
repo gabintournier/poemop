@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"ZANINI";"Bruno";"91790";"BOISSY-SOUS-SAINT-YON";"65 avenue de paris";" même camion qui fait les livraison habituel à mon Domicile.";"";"06.08.33.52.17";"";"1050";"1070";"1000";"1000";"Supérieur"
+"LIMMOIS";"Willy";"91390";"MORSANG-SUR-ORGE";"10 rue du progrès";"";"";"06.60.21.03.84";"";"1040";"1060";"2000";"2001";"Supérieur"
+"BEULE";"Magalie";"91340";"OLLAINVILLE";"16 bis rue de la source";"";"";"06.24.00.21.99";"";"1050";"1070";"1200";"1201";"Ordinaire"
+"PODENCE";"Georges";"91830";"AUVERNAUX";"15 rue de melun";"";"";"06.22.50.34.08";"Client non livré";"1050";"1070";"1400";"0";"Supérieur"

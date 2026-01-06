@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"LEBAS BRESSON";"Nicolas sophie";"91630";"MAROLLES-EN-HUREPOIX";"1 chemin du chateau";"";"";"06.64.94.78.68";"";"1190";"1210";"500";"500";"Ordinaire"
+"VINCOT";"Yves";"94130";"NOGENT-SUR-MARNE";"15 rue des defenseurs de verdun";"";"06.80.41.48.98";"01.48.71.01.82";"";"1150";"1170";"1000";"1000";"Supérieur"
+"CHARON";"Danyelle";"91600";"SAVIGNY-SUR-ORGE";"25 rue des perdrix";"";"06.81.57.67.95";"01.69.96.05.35";"";"1150";"1170";"1000";"1000";"Ordinaire"
+"BURNIER";"Pierre";"91390";"MORSANG-SUR-ORGE";"13 rue de la remise";"";"06.77.72.73.95";"06.62.21.33.71";"";"1190";"1210";"500";"500";"Supérieur"
+"RUBIANO";"Oscar";"94400";"VITRY-SUR-SEINE";"9 rue des marais";"";"06.28.34.16.73";"06.60.18.16.61";"";"1190";"1210";"500";"500";"Ordinaire"

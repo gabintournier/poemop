@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BRETON;Yvon;4 rue hagneau;08400;VANDY;1000;1160;1180;O;;06.19.29.08.44;;
+CAUDRON;Jacques;2 rue du nan;08400;VOUZIERS;1200;1160;1180;S;;06.14.07.31.66;03.24.71.87.86;
+JACQUEMIN;Maëlle;12 rue berthelot;08400;SAVIGNY-SUR-AISNE;500;1190;1210;O;;06.15.14.15.10;06.15.14.15.10;
+YBERT;Jean;11 rue du nan;08400;VOUZIERS;1000;1160;1180;S;;06.86.21.94.20;03.24.71.88.24;

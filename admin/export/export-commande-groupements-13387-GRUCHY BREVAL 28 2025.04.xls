@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ARNAUD;Daniel;6 rue des passerelles;28210;VILLEMEUX-SUR-EURE;800;1020;1040;S;;06.81.21.91.29;02.36.30.07.77;
+CATEL;Mickael;282 rue du haut arbre;28260;LA CHAUSSEE-D'IVRY;2000;980;1000;O;;06.61.53.35.08;;
+JAN;Mathieu ;13 rue de l'église;28410;MARCHEZAIS;1000;990;1010;S;;06.33.28.32.25;06.22.16.64.73;
+LECLAIR;Ludovic;3 rue de la colombe;28500;VERNOUILLET;1600;990;1010;S;;06.70.18.30.87;02.37.42.52.03;

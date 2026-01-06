@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BOICHARD;Joseph;22 route royale;25720;LARNOD;500;1020;1040;O;;03.81.57.27.06;;
+DAVID;Christian;21 chemin des combes;25870;PALISE;600;1020;1040;O;;06.78.94.35.81;;
+FERANDELLE;Camille;7 rue des cerisiers;25620;LE GRATTERIS;1500;970;990;O;;06.48.10.27.83;;
+KOLLY;Benoit;17 grande rue;25620;L'HOPITAL-DU-GROSBOIS;500;1020;1040;O;;06.78.19.89.99;;
+MOUREY;Christine;2 chemin du tacot;25290;EPEUGNEY;1000;970;990;O;;06.32.18.57.38;;
+PERRIER;Séverine;3 impasse des charmilles;25410;BERTHELANGE;1200;970;990;S;;09.84.52.51.50;06.18.71.04.41;
+SCHUWER;Christiane  ;1 rue des sources;25000;BESANCON;1100;970;990;O;;07.81.12.28.14;;
+TRUCHE;Françoise;14 route de chassagne;25290;ORNANS;1000;970;990;O;;06.85.39.13.47;;
+VIEILLE;Benoit;20 rue principale;25440;ECHAY;1000;970;990;O;;06.81.81.42.69;07.81.63.88.72;

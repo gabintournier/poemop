@@ -1,0 +1,12 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"KOENIG";"Daniel";"68400";"RIEDISHEIM";"73 rue gounod";"Pourriez-vous me livrer pas avant le jeudi 21.09.2023. Merci pour votre soutien.";"";"06.82.66.43.68";"";"1227";"1247";"2000";"2500";"Supérieur"
+"NOLENTI";"Christine";"68270";"RUELISHEIM";"50, rue de l'ill";"";"06.16.26.43.96";"06.87.23.13.40";"";"1237";"1257";"1200";"1200";"Ordinaire"
+"HENDERSON";"Anaïs";"68520";"SCHWEIGHOUSE-THANN";"2 rue des vosges";"Prévoir au minimum 20m de tuyau 
+Si possible livraison avant le 15/09 car départ en vacances";"06.85.82.07.03";"06.70.07.40.53";"";"1237";"1257";"1500";"1500";"Ordinaire"
+"MORTELETTE";"Roger";"68270";"RUELISHEIM";"3 rue des mimosas";"";"06.03.60.55.56";"06.52.39.68.08";"";"1237";"1257";"1000";"1000";"Ordinaire"
+"GRIMM";"Patrick ";"68840";"PULVERSHEIM";"7 rue du vieil armand";"";"";"03.89.48.09.20";"";"1237";"1257";"1000";"1000";"Ordinaire"
+"CHAMBOISSIER";"Frederic";"68850";"STAFFELFELDEN";"2 place malbrough";"";"";"06.26.17.51.95";"";"1237";"1257";"1500";"1368";"Ordinaire"
+"HARTMANN";"Florence";"68390";"SAUSHEIM";"17 rue du muguet";"";"07.56.43.95.28";"07.67.77.25.74";"";"1237";"1257";"1500";"1501";"Ordinaire"
+"LOYSON";"Karine";"68310";"WITTELSHEIM";"8 rue du canard sauvage";"livraison avant le 12 septembre Merci";"06.72.38.09.72";"06.72.38.09.72";"";"1287";"1307";"500";"500";"Ordinaire"
+"ROYAL";"Jonathan  ";"68130";"ALTKIRCH";"14 lotissement panorama";"";"";"06.73.67.14.00";"";"1237";"1257";"1500";"1000";"Supérieur"
+"SCHNOEBELEN";"Catherine";"68390";"SAUSHEIM";"7 rue de l'école";"";"07.77.00.05.53";"06.72.78.72.82";"";"1237";"1257";"1500";"1501";"Ordinaire"

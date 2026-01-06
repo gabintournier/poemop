@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"COIRIE";"Anne";"86160";"CHAMPAGNE-SAINT-HILAIRE";"6 allée des moulins";"";"06.79.55.76.96";"";"";"1370";"1400";"500";"500";"Ordinaire"
+"BRUNET";"Didier";"86490";"BEAUMONT";"10 rue des roches";"Livraison possible le lundi et mercredi.";"06.15.92.80.57";"06.73.37.59.25";"";"1360";"1390";"1200";"1200";"Supérieur"
+"MASSIE";"Gerard";"86000";"POITIERS";"2 allée du verger de grimoire";"";"06.63.11.97.34";"06.63.11.97.34";"";"1370";"1400";"600";"700";"Ordinaire"
+"DESOUCHES";"Catherine";"86490";"COLOMBIERS";"27 la davaillerie";"Téléphoner au 0750228239 ou 0616929652 avant livraison Merci";"06.16.02.06.52";"07.50.22.82.39";"";"1370";"1400";"500";"500";"Supérieur"
+"OLRY";"Christine";"86300";"CHAUVIGNY";"56 rue de la vichoune";"Juste prévenir un peu avant la livraison s'il vous plaît.";"07.50.42.30.37";"06.28.56.94.87";"";"1370";"1400";"600";"600";"Ordinaire"
+"LESSART";"Alexandra";"86380";"VENDEUVRE-DU-POITOU";"102 route de lencloitre - vendeuvre";"";"";"06.61.58.41.08";"";"1370";"1400";"500";"501";"Ordinaire"
+"JOYEUX";"Patrick";"86220";"DANGE-SAINT-ROMAIN";"81 avenue de l'europe";"";"07.87.35.37.10";"06.76.78.44.18";"";"1360";"1390";"1000";"616";"Ordinaire"
+"STEBLESKI";"Josette";"86140";"SAINT-GENEST-D'AMBIERE";"2 grand rue";"";"06.89.97.29.46";"";"";"1360";"1390";"1000";"1001";"Supérieur"
+"LEGER";"Béatrice";"86340";"LA VILLEDIEU-DU-CLAIN";"9 rue nationale";"livraison le lundi ou le mercredi.
+merci";"06.27.31.97.27";"";"";"1360";"1390";"1500";"1500";"Supérieur"

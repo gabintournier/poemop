@@ -1,0 +1,12 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"ANDREZ ";"Jeremy  ";"57130";"GRAVELOTTE";"35 rue dars ";"Commande pour la première semaine de septembre svp";"";"06.61.48.45.54";"";"1333";"1340";"500";"0";"Ordinaire"
+"LAMBERT";"Célia";"55160";"MANHEULLES";"25 rue du général margueritte";"";"06.26.92.09.40";"";"";"1293";"1300";"1500";"1501";"Ordinaire"
+"RIDREMONT";"Marie-claude";"55600";"ECOUVIEZ";"21 avenue victor hugo";"";"06.49.35.89.37";"06.49.35.89.37";"";"1333";"1340";"750";"710";"Supérieur"
+"SCHWENGBER";"Sarah";"54860";"HAUCOURT-MOULAINE";"2 allée du gard";"";"";"06.69.94.15.24";"";"1293";"1300";"1000";"999";"Ordinaire"
+"KEDDOUR";"Nacéra ";"54560";"AUDUN-LE-ROMAN";"10 rue guyot";"";"";"06.18.45.91.21";"";"1333";"1340";"700";"700";"Supérieur"
+"LOCUTY";"Stephane";"54190";"VILLERUPT";"2 rue pierre de ronsard";"";"";"06.76.71.99.63";"";"1293";"1300";"1000";"1000";"Ordinaire"
+"DOMANGE";"Christophe";"55600";"VERNEUIL-GRAND";"1 bis rue du clamard";"";"";"06.42.18.56.72";"";"1293";"1300";"1000";"1000";"Ordinaire"
+"GRODIDIER";"Sandra";"54610";"ABAUCOURT SUR SEILLE";"10 rue de nomeny";"commande pour Grodidier Marie-Claude 6 rue de la Seille 54610 ABAUCOURT 03.83.31.48.16";"07.87.60.27.73";"07.87.60.27.73";"";"1333";"1340";"500";"500";"Supérieur"
+"FLEUTOT";"DENIS";"54720";"CUTRY";"22 RUE DE CHENIERES";"";"06.85.53.88.30";"03.82.23.96.17";"";"1333";"1340";"500";"500";"Ordinaire"
+"VANGELISTI";"Pierre";"54800";"JARNY";"9 rue sainte barbe";"";"";"06.40.15.38.95";"";"1333";"1340";"500";"500";"Ordinaire"
+"MERABTI";"Madjer";"54730";"GORCY";"20 rue des tilleuls ";"je rentre le 1 sept j'aimerai être livré la semaine du 4/09 Merci";"";"06.88.09.57.39";"";"1293";"1300";"1200";"1201";"Ordinaire"

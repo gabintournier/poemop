@@ -1,0 +1,17 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+ALTSCHUH;Bernard;8 rue de dettwiller;67200;STRASBOURG;4000;1012;1032;S;;06.42.77.03.28;;
+BOISSEAU;Jean-michel;32 rue de kirrwiller;67330;OBERMODERN-ZUTZENDORF;1450;1022;1042;S;;07.67.11.78.09;;
+burckhardt;Philippe;31 rue de Hoenheim;67207;Niederhausbergen;2000;1017;1037;O;;03.88.56.03.72;06.87.41.10.11;
+BURTSCHER;Thomas;5 rue pasteur;67760;GAMBSHEIM;2000;1017;1037;O;;06.20.82.46.60;;
+CHARLIER;Chloée;3 impasse du forgeron;67310;COSSWILLER;1000;1022;1042;O;;06.35.93.67.26;;
+GAMELIN;Jean-louis;39 a route de boersch;67210;OBERNAI;2000;1017;1037;S;;03.88.95.04.81;06.10.07.67.93;
+GRALL;Nathalie;18 rue d'eckbolsheim;67380;LINGOLSHEIM;1700;1022;1042;O;;06.23.44.58.99;;
+GRAVELAIS;Jean-marc;12 rue albert schweitzer;67170;GEUDERTHEIM;2200;1017;1037;S;;06.62.31.11.16;06.66.84.07.77;
+HEILIGENSTEIN;Carole ;7 rue monseigneur ruch;67200;STRASBOURG;2000;1017;1037;O;;06.14.95.06.36;03.88.30.41.70;
+IDOUX;Sarah;7 rue de l ecole ;67210;BERNARDSWILLER;1000;1022;1042;O;;06.51.71.76.31;;
+MEMHELD;Ginette;27 rue d'erstein;67150;GERSTHEIM;3000;1012;1032;O;Livraisons : - 1500 l au 27 rue d'Erstein à GERSTHEIM et à 3 minutes 1500 l au 7 rue des Primevères à GERSTHEIM. SVP veuillez d'abord passer au 27 rue d'Erstein;06.71.58.11.24;03.88.98.43.09;
+REIBEL;Christiane;39 rue du 1er décembre;67230;HUTTENHEIM;1300;1022;1042;O;;07.83.29.83.93;03.88.74.37.22;
+REISZ;Jean-daniel;25 rue des trois pics ;67190;Mutzig;1000;1022;1042;O;;06.71.01.71.24;;
+ROSENZWEIG;Stephan;7 rue du général de gaulle;67640;FEGERSHEIM;1000;1022;1042;O;;03.90.29.80.62;06.74.49.71.69;
+SIFFERT;Isabelle;2 rue himmelsleiter;67730;LA VANCELLE;2000;1017;1037;S;;06.65.56.84.18;;
+ZAEGEL;Thomas;41 rue du maréchal leclerc;67118;GEISPOLSHEIM;1900;1022;1042;O;;06.08.78.21.73;03.88.68.97.02;

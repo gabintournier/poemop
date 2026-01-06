@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"WAGNER";"CHRISTOPHE";"87320";"BUSSIERE POITEVINE";"3 PLACE DE MOTHERN";"";"06.77.06.22.70";"";"1000";"1000"
+"BERTHIER";"Marie";"23400";"AURIAT";"5 route de la mairie";"";"07.71.15.88.23";"";"1000";"1001"
+"DAVID";"Samantha";"87230";"CHAMPSAC";"9 place de l'eglise";"";"09.72.88.65.40";"Non livré car elle a commandé sur un autre site";"1000";"0"
+"PAULIN";"Lydie";"87170";"ISLE";"38 avenue des pâquerettes ";"";"06.45.84.27.11";"";"1000";"1000"
+"ASTIER";"Hervé";"87150";"ORADOUR-SUR-VAYRES";"11 rue des ages";"06.24.16.04.09";"06.84.41.44.30";"";"500";"500"
+"DE POURTALES";"Laure";"87240";"AMBAZAC";"1025 route de montmery ";"06.60.54.44.10";"06.74.20.92.51";"";"1000";"674"
+"ASTIER";"André ";"87150";"ORADOUR-SUR-VAYRES";"1 les petites bregères";"05.55.78.14.28";"06.95.76.98.18";"";"1000";"1001"

@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"BAY";"Pierre";"54700";"LESMENILS";"139 rue capitaine cochin";"";"03.83.81.24.37";"07.86.05.46.63";"";"1062";"1082";"1000";"Ordinaire"
+"ROTA ";"Aline";"54610";"CLEMERY";"66 rue de bénicourt";"Notre cuve est enterrée sur le côté de la maison, il faut au moins 12m de tuyaux.";"";"06.89.10.82.25";"";"1062";"1082";"1500";"Ordinaire"
+"HEILIGENSTEIN";"Eric";"54760";"BEY-SUR-SEILLE";"17 rue principale";"commande urgente";"";"06.01.21.25.82";"";"1062";"1082";"1000";"Supérieur"
+"ADAM";"Maryline";"54300";"CROISMARE";"13 rue des frères marchand";"";"";"06.34.15.97.39";"";"1112";"1132";"700";"Ordinaire"

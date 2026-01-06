@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"PIGACHE";"Jean-étienne";"41150";"MONTEAUX";"6 chemin des vignes ";"06.38.87.54.79";"02.54.70.29.31";"";"1000";"1000"
+"LAGEAT";"Jean claude ";"41400";"MONTRICHARD";"8, rue du clos raimbault";"06.16.63.39.30";"02.54.32.18.43";"Annulée par le client";"500";"0"
+"CARROY";"Carroy";"41400";"PONTLEVOY";"601 route de la garette";"";"06.30.89.64.90";"";"800";"800"
+"POULLEAU ";"Annabelle";"41100";"SAINT-OUEN";"15 rue condorcet";"06.61.34.04.53";"06.61.34.04.53";"";"800";"1000"

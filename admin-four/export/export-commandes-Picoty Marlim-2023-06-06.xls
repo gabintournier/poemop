@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"LETANG";"Camille";"87500";"SAINT-YRIEIX-LA-PERCHE";"21 rue du champ de tir";"";"06.21.15.20.34";"";"";"1115";"1135";"1250";"Ordinaire"
+"MARIAUD";"Pierre";"87510";"SAINT-GENCE";"2 rue frédéric mistral";"";"06.81.70.34.06";"05.87.19.46.32";"";"1115";"1135";"1000";"Ordinaire"
+"ROMAIN";"Olivier";"87510";"NIEUL";"26 st martin du fault";"Petit camion pour se rapprocher des cuves (ou sinon, long tuyau ;-)";"06.76.49.69.81";"05.55.08.42.90";"";"1115";"1135";"1800";"Ordinaire"
+"FIRMIN";"Charlotte  ";"87570";"RILHAC-RANCON";"3 rue rabelais ";"";"07.82.85.12.38";"";"";"1112";"1132";"2000";"Ordinaire"
+"NAUDIN";"Linda";"87640";"RAZES";"Razès (87640)";"";"06.80.35.74.54";"06.80.35.74.54";"";"1120";"1140";"700";"Ordinaire"
+"HYDROTEC";"Christophe ";"87340";"LA JONCHERE-SAINT-MAURICE";"8 rue du presbytere";"";"06.74.89.82.24";"05.55.39.85.24";"";"1115";"1135";"1500";"Ordinaire"
+"BRESSON";"Guy";"87500";"LADIGNAC-LE-LONG";"12 rue charles de gaulle";"";"06.70.24.18.58";"06.70.24.18.58";"";"1115";"1135";"1000";"Ordinaire"
+"GODE";"Vincent";"87270";"COUZEIX";"334 rue de saint gence";"";"06.28.35.43.04";"";"";"1115";"1135";"1000";"Ordinaire"

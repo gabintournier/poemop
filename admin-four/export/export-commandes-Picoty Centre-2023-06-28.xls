@@ -1,0 +1,14 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"DEBLAISE";"Christophe";"86140";"SAINT-GENEST-D'AMBIERE";"16 route des templiers";"";"06.30.22.77.51";"06.30.22.77.51";"";"1110";"1130";"900";"900";"Ordinaire"
+"BOISANGER";"Noël  ";"86500";"MONTMORILLON";"2 rue baden powell";"Livraison a partir de jeudi 6 juillet";"07.52.05.77.52";"07.52.05.77.52";"";"1110";"1130";"900";"900";"Ordinaire"
+"CANTORI";"Annie";"86220";"VAUX-SUR-VIENNE";"11 lot de la croix de pierre";"";"07.83.56.14.86";"05.49.86.78.39";"";"1070";"1090";"1200";"1460";"Ordinaire"
+"COMMUNEAU";"Aymeric";"86800";"SAINT-JULIEN-L'ARS";"17 chemin de communaux";"Prévoir un petit camion et au moins 70m de tuyau.";"";"06.22.74.57.81";"";"1070";"1090";"1000";"1000";"Supérieur"
+"VEGGIAN";"Pierre-emmanuel";"86100";"CHATELLERAULT";"42, rue rené tognard";"";"06.17.65.15.29";"05.49.19.47.89";"";"1070";"1090";"1000";"1000";"Ordinaire"
+"RIBEIRINHO";"Antonio";"86100";"CHATELLERAULT";"10 chemin du vergé";"";"";"06.07.95.07.01";"";"1110";"1130";"500";"500";"Ordinaire"
+"PAK";"Estelle";"86530";"NAINTRE";"9 rue george sand";"";"06.66.49.14.21";"";"";"1110";"1130";"950";"950";"Ordinaire"
+"BERCIER";"James";"86700";"ANCHE";"6 route de la gare de villenon";"";"";"06.09.72.09.62";"";"1070";"1090";"1000";"2000";"Ordinaire"
+"DUTEAU-CHETIF ";"Aurelie";"86310";"SAINT-GERMAIN";"17 rue marc massy ";"Merci de nous prévenir suffisamment à l'avance afin que l'on puisse s'organiser. En vous remerciant.";"06.61.63.85.50";"";"";"1060";"1080";"2000";"1725";"Ordinaire"
+"AUZANNEAU";"Dalila";"86320";"LUSSAC-LES-CHATEAUX";"19 rue louis pasteur";"Livraison que l'après midi à partir de 15 heure 30.
+Merci d'avance";"06.66.97.48.34";"";"";"1070";"1090";"1400";"1400";"Ordinaire"
+"PITORT";"Dany";"86230";"LEIGNE-SUR-USSEAU";"2 château gontier";"quantité approximative";"06.13.19.83.08";"06.13.19.83.08";"";"1070";"1090";"1000";"1131";"Supérieur"
+"MEYNARD";"Claudine ";"86270";"COUSSAY-LES-BOIS";"24 route de oyré ";"";"06.01.97.22.28";"";"";"1070";"1090";"1000";"1000";"Supérieur"

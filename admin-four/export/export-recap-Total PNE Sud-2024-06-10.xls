@@ -1,0 +1,11 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"NAVARRO";"Pascal";"60350";"BERNEUIL-SUR-AISNE";"14 rue raymond faroux";"06.80.64.59.92";"03.44.85.75.80";"";"1000";"1000"
+"GERMAIN";"Sylvain";"60120";"ESQUENNOY";"15 Bis route de Paillart";"06.99.27.24.17";"03.44.80.85.04";"";"500";"500"
+"MIGNOT";"Patrick";"60350";"CROUTOY";"1 rue du 9 juin 1940";"06.35.24.05.30";"03.44.42.19.06";"";"1000";"1000"
+"FIDELAK";"Henri";"60134";"VILLERS-SAINT-SEPULCRE";"32, rue de hez";"06.12.83.27.70";"03.44.13.26.08";"";"1000";"1100"
+"NUNES";"Joseph  ";"60150";"VILLERS-SUR-COUDUN";"21 allée de l'olinval";"06.66.91.25.67";"06.49.09.37.82";"";"1300";"1300"
+"MANSARD ";"Stéphane ";"60490";"BIERMONT";"4 rue des vignes ";"06.79.01.97.52";"06.02.33.25.77";"";"1000";"1000"
+"MANSARD ";"Stéphane ";"60490";"BIERMONT";"4 rue des vignes ";"06.79.01.07.52";"06.02.33.25.77";"le client a reçu une seule livraison de 1000 let non deux";"1000";"0"
+"PLET";"Marc-antoine";"60850";"SAINT-PIERRE-ES-CHAMPS";"59 rue du but david";"";"06.87.20.00.01";"";"1000";"1000"
+"MOREL";"Franck";"60120";"BONNEUIL-LES-EAUX";"3 bis rue du mont soyer";"";"06.13.06.00.66";"";"1500";"1359"
+"HARRISSART ";"Roseline ";"60190";"ROUVILLERS";"12 rue du moulin";"";"06.66.07.64.46";"";"1000";"1000"

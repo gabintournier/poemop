@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"RUSCH ";"Remy";"68127";"OBERENTZEN";"112 rue de la krutenau";"";"";"03.89.49.49.34";"";"1178";"1198";"2000";"Ordinaire"
+"SPECKLIN";"Dominique";"68127";"OBERHERGHEIM";"7 rue martin drolling";"";"";"06.70.74.07.41";"";"1183";"1203";"1000";"Supérieur"
+"MAROTINE";"Jean-luc";"68000";"COLMAR";"54 rue du muscat";"";"";"06.61.09.16.42";"";"1183";"1203";"1000";"Ordinaire"
+"KLEE";"Alain";"68590";"THANNENKIRCH";"2 chemin du lecotte";"";"03.69.45.93.39";"06.36.28.40.05";"";"1183";"1203";"1200";"Ordinaire"
+"HACHET";"Apoline";"68370";"ORBEY";"107b rue charles de gaulle ";"Livraison possible uniquement à partir du lundi 26 février.
+Il n'y aura personne dans le logement avant.
+Merci ";"";"06.32.42.47.50";"";"1233";"1253";"500";"Ordinaire"
+"RICHTER";"Christian";"68910";"LABAROCHE";"339a les plains champs";"Petit camion";"";"06.69.93.35.27";"";"1183";"1203";"1000";"Supérieur"

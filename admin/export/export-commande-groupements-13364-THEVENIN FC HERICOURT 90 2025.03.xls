@@ -1,0 +1,4 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DANIEL;Marie france;Rue de l ancienne eglise;90130;MONTREUX-CHATEAU;1000;1029;1049;O;;03.84.23.37.03;;
+LALANDE;Jacques;16 rue des vosges;90350;EVETTE-SALBERT;1000;1029;1049;S;;06.99.90.31.23;06.76.03.57.92;
+LALANDE;Nicole;16 rue des vosges;90350;EVETTE-SALBERT;1000;1029;1049;S;pouvons nous être livré après le 09 avril svp ?;06.76.03.57.92;06.99.90.31.23;

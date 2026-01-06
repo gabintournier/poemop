@@ -1,0 +1,7 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CHARLEY ;Aude;1 rue d'arras;80260;RUBEMPRE;2000;1090;1110;S;;06.07.91.42.86;;
+DE POURCQ;Jérôme ;37 rue de la bassure;80540;BOUGAINVILLE;1000;1100;1130;S;Est ce possible d être livré au plus tard le vendredi 23 aout svp ?;06.75.89.73.74;;
+DESCOUTURES;Margot;44 rue emile bazin;80800;AUBIGNY;500;1130;1160;O;;06.67.38.29.13;;
+GREDE;Joel    ;22 rue de fieffes ;80670;BONNEVILLE;1500;1100;1130;O;;06.34.20.74.29;;
+ISRAEL;Herve;3 rue des soupirs;80132;CAOURS;1000;1100;1130;O;;06.74.90.89.58;;
+MACCREZ;Pascal;63 rue canteraine;80100;ABBEVILLE;1000;1100;1130;O;;06.78.54.82.80;;

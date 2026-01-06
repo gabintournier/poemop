@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MOULARD";"Joffrey";"37270";"MONTLOUIS-SUR-LOIRE";"10 rue jacques marie rougé";"";"";"07.60.58.82.23";"";"1080";"1110";"1000";"1000";"Ordinaire"
+"GUILLOT";"Patrick";"37530";"NAZELLES-NEGRON";"47 vallée de vaugadeland";"";"06.68.92.26.35";"02.47.23.97.52";"";"1070";"1100";"2500";"2500";"Ordinaire"
+"LESAGE";"Philippe";"37550";"SAINT-AVERTIN";"36 rue de bel air";"";"02.47.28.34.12";"06.28.01.57.30";"";"1080";"1110";"1000";"999";"Supérieur"
+"DESCHARLES";"Fabrice";"37360";"BEAUMONT-LA-RONCE";"8, rue des prés";"absent à partir de lundi 28 juillet jusqu'au 10/08 - disponible à partir du 11/08";"";"06.24.38.49.21";"";"1080";"1110";"1300";"1300";"Ordinaire"
+"SIMKHOVITCH";"Andre ";"37150";"LUZILLE";"2 la rabottiere";"";"";"02.47.30.28.66";"";"1080";"1110";"1000";"1000";"Ordinaire"
+"BLEUZEN";"Gaëlla";"37550";"SAINT-AVERTIN";"27 rue de bel air";"";"06.23.16.59.39";"06.45.64.22.50";"";"1080";"1110";"1800";"1800";"Supérieur"
+"BUTON AUVRAY";"Monique";"37500";"SAINT-BENOIT-LA-FORET";"4 route de parenterie";"Comme l'an dernier fin Aout 2024, il y a deux cuves à fioul à remplir dans la même cour une pour BUTON Nathalie au 6 route de la Parenterie 37500 St Benoit la Foret environ 1300 l l'autre pour BUTON AUVRAY Monique 4 route de la Parenterie 37500 St Benoit la Foret environ 1400l Est il possible de livrer à partir de la semaine 34 ";"06.60.89.18.69";"06.68.44.00.27";"";"1070";"1100";"2700";"2462";"Ordinaire"
+"JOSEPH";"Serge";"37270";"SAINT-MARTIN-LE-BEAU";"5 rue jean moulin";"";"06.21.35.88.73";"02.34.74.32.57";"PAS DE DATE DE LIVRAISON PREVUE POUR LE MOMENT";"1080";"1110";"1500";"0";"Ordinaire"
+"MALO";"Victorien";"37210";"VERNOU-SUR-BRENNE";"1 bis route de la fontaine bondrée ";"";"07.50.66.64.48";"";"";"1080";"1110";"1000";"1000";"Supérieur"

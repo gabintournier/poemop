@@ -1,0 +1,11 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+MORAL;Antoine;125 rue des iris;42720;POUILLY-SOUS-CHARLIEU;1000;1150;1165;O;;06.86.64.11.50;06.21.98.52.47;
+PUYDEBOIS;Nadine;Colombier le haut;71460;BISSY-SOUS-UXELLES;1000;1150;1165;S;;03.85.50.14.26;06.14.16.26.70;
+MESSE;Jean;14 rue du puits;26120;MONTELIER;1000;1150;1165;O;;06.61.11.06.24;;
+MICHEL;Fabien   ;46 chemin de barberet;69700;GIVORS;700;1200;1215;O;;06.14.70.31.80;;
+ACHENZA;Laurent;3 rue des amours ;42410;CHAVANAY;500;1200;1215;O;;06.95.30.87.98;;
+LACHENAIT;Nathalie;16 rue gambetta;69150;DECINES-CHARPIEU;1000;1150;1165;O;;06.89.84.28.15;06.89.84.28.15;
+CHOLLET;René;20 rue des monts de la madeleine;42155;POUILLY-LES-NONAINS;1000;1150;1165;S;;06.43.52.63.19;04.77.66.96.20;
+BARTHELEMY ;François;1346 route d'amanzé;71800;VAREILLES;500;1200;1215;S;;03.85.28.28.41;07.60.30.04.54;
+DEMENUS;Jean pierre;255 chemin de laye;26320;SAINT-MARCEL-LES-VALENCE;1000;1150;1165;O;Commande urgente (la chaudière est à l'arrêt depuis ce week-end). Règlement en plusieurs fois. ;06.59.25.81.90;06.76.68.98.01;
+SARKISSIAN;Jean jacques;20 rue de l'egalite;69150;DECINES-CHARPIEU;1000;1150;1165;S;M'appeler avant livraison;06.81.16.02.91;;

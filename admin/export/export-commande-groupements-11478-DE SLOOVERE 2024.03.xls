@@ -1,0 +1,8 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BERTON;André;42 rue henri lestienne;59800;LILLE;1000;1180;1205;O;;03.20.31.50.17;06.15.36.72.95;
+CAILLEUX;Laurence;6 route de tournai;59310;NOMAIN;1000;1180;1205;O;;06.84.76.40.83;;
+CROQUET;Remi;38 rue baptiste;59440;MARBAIX;500;1180;1205;O;;06.76.88.09.11;;
+GERMAIN ;Martine;8 rue lambert;02120;BERNOT;500;1180;1205;O;Absente vendredi 29 mars. Livraison de preference mardi 2 avril ou jeudi 28 mars;06.43.59.97.19;;
+LAJUS ;Nat ;16 rue du château ;62160;AIX-NOULETTE;500;1180;1205;S;;06.82.42.88.28;06.71.11.07.20;
+LEFEBVRE;Arthur;10 rue alfred desplanques;59200;TOURCOING;1000;1180;1205;S;;07.86.71.63.78;;
+MIECAZE;Philippe;30 rue du professeur langevin;59170;CROIX;1000;1180;1205;O;;06.19.78.81.39;09.51.95.75.67;

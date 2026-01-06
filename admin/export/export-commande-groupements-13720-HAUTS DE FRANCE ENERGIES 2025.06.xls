@@ -1,0 +1,13 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CARDON;Hubert;5 bis rue du bois thomas;02100;OMISSY;1000;1000;1020;O;;06.15.02.93.61;07.82.04.54.26;
+CHENU;Claude;4 rue de la moncelle;02000;MONS EN LAONNOIS;500;1020;1040;S;;03.23.24.13.40;06.14.17.85.59;
+COUTELOT;Stéphane;10 rue de pargnan;02160;OEUILLY;1500;1000;1020;S;Distance de livraison supérieure à 30m entre le camion (depuis la rue) et la vanne de chargement (extérieur maison);06.84.73.98.69;;
+DANJOU;Sophie;5grande rue;02690;URVILLERS;1000;1000;1020;S;;06.81.38.32.77;;
+DESANLIS;Antony;12 rue de la gare;02190;AMIFONTAINE;1000;1000;1020;S;;06.08.56.25.39;;
+DROUX;François;3 rue andré galiègue;02840;VESLUD;1000;1000;1020;O;;06.78.47.18.93;;
+GEORGET;Grégory;10 rue emptinne;02870;VIVAISE;1500;1000;1020;O;;06.89.45.75.21;;
+LUTROT;Thierry;31 rue des tilleuls;02190;PIGNICOURT;1200;1000;1020;S;accès facile camion 24 tonnes maxi ;06.08.42.40.71;;
+MOREAUX ;Jean-charles ;99 chemin de la vigne ;02140;HARY;1000;1000;1020;O;;06.26.53.31.04;;
+MOUGINOT;Sylvain;8 rue tain;02160;MUSCOURT;2000;990;1010;S;;06.32.22.43.36;;
+TERLET;Xavier ;6 rue de la fontaine ;02000;CHEVREGNY;700;1020;1040;O;;06.75.65.03.38;;
+WETISCHEK;Laurent;2 rue louis xi;80200;PERONNE;2500;990;1010;O;;06.31.95.36.44;;

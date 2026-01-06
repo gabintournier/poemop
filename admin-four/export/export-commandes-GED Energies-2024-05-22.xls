@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"YBERT";"Jean";"08400";"VOUZIERS";"11 rue du nan";"";"03.24.71.88.24";"06.86.21.94.20";"";"1160";"1180";"1000";"941";"Supérieur"
+"JACQUEMIN";"Maëlle";"08400";"SAVIGNY-SUR-AISNE";"12 rue berthelot";"";"06.15.14.15.10";"06.15.14.15.10";"";"1190";"1210";"500";"500";"Ordinaire"
+"BRETON";"Yvon";"08400";"VANDY";"4 rue hagneau";"";"";"06.19.29.08.44";"";"1160";"1180";"1000";"1000";"Ordinaire"
+"CAUDRON";"Jacques";"08400";"VOUZIERS";"2 rue du nan";"";"03.24.71.87.86";"06.14.07.31.66";"";"1160";"1180";"1200";"1200";"Supérieur"

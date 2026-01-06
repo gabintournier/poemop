@@ -1,0 +1,10 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BASQUE;Benoit;18 hameau de charmoy;77890;ARVILLE;800;1250;1290;O;Merci de me contacter préalablement au 06 86 45 17 82 pour planifier la date de livraison.;01.64.78.91.06;06.86.45.17.82;
+RAGOT;Catherine;10 rue des fleurs;77166;GRISY-SUISNES;500;1250;1290;S;;06.13.85.90.13;;
+TORRENTS;Jacques;20 rue des faubourgs;77370;LA CROIX-EN-BRIE;2000;1200;1222;O;souhaite un règlement en 3 fois;01.64.08.77.97;07.81.48.77.45;
+SOLMON;Jeannine    ;16 rue traversières;77460;CHAINTREAUX;1100;1210;1230;S;;06.14.89.22.05;01.64.28.91.54;
+CORNUS;Stéphane    ;1 rue de brie;77520;MEIGNEUX;1000;1210;1230;S;;06.60.17.68.14;;
+BAILLY;Oceane;3 chemin de russelet ;77730;MERY-SUR-MARNE;1000;1210;1230;O;j'aimerais pouvoir régler en plusieurs fois.;06.60.20.89.60;;
+AUGUSTIN;Pierre-emmanuel;8 place de l'église;77890;BEAUMONT-DU-GATINAIS;1100;1210;1230;O;Livraison a partir du 9 février - souhaite régler en 4 fois;06.31.85.37.53;;
+GRILLERS;Martine;Rue de l'église;77320;MONTDAUPHIN;3000;1190;1210;O;;06.71.38.48.68;01.64.03.78.35;
+NUOVO;Sandra;6 rue du belvedere;77370;LA CROIX-EN-BRIE;500;1250;1290;S;;06.33.27.18.49;;

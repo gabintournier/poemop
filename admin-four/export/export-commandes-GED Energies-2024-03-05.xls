@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"SZKUDLABSKI";"François         ";"08300";"RETHEL";"4 rue du 152ème régiment d'infanterie";"";"";"06.16.84.08.80";"";"1210";"1240";"1000";"1000";"Ordinaire"
+"CONSTANT";"Vincent";"08270";"WAGNON";"2rue pré seigneur";"";"06.72.82.00.64";"06.72.82.00.64";"";"1210";"1240";"1000";"1000";"Ordinaire"
+"BARBIEUX";"Monika";"08400";"MONTHOIS";"13  rue jacques d'allamont";"";"03.24.30.43.59";"07.80.49.82.52";"";"1250";"1280";"500";"500";"Supérieur"
+"VANEGUE";"Dominique";"08400";"LONGWE";"5 rue de l'église";"";"09.65.28.69.49";"07.80.47.71.26";"";"1250";"1280";"500";"481";"Supérieur"

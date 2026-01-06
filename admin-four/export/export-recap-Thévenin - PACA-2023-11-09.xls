@@ -1,0 +1,9 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Tel 1;Tel 2;Commentaire;Qté;Qté Livrée
+"DIDIER";"Ju";"83160";"LA VALETTE-DU-VAR";"338 avenue aristide briand";"";"06.63.55.97.63";"";"1000";"1000"
+"SALAVERRIA";"Marco";"83200";"TOULON";"25, rue jean baptiste vin";"";"07.88.81.15.44";"Le client n'a  finalement pas eu besoin de commander ( produit restant)";"500";"0"
+"BLANCHARD";"Pierre";"83230";"BORMES-LES-MIMOSAS";"60 route du cap  domaine du cap benat";"";"06.08.88.23.67";"";"1000";"1000"
+"DOURIN";"Bernard";"83330";"LE BEAUSSET";"378 chemin du gros bois";"";"06.68.17.04.81";"Le véhicule de livraison ne passait pas ";"500";"0"
+"CHARNOZ";"Eric";"83130";"LA GARDE";"709 chemin de barbaroux";"06.22.80.57.85";"06.60.86.67.17";"";"1000";"1000"
+"TISSERAND";"Patrice";"83500";"LA SEYNE-SUR-MER";"1447 route de janas, villa 30 les mas de janas";"";"06.24.30.61.44";"";"1500";"1451"
+"BERGEL";"Francis";"83500";"LA SEYNE-SUR-MER";"Chemin de fabre à gavet 25 lot. du rouquier";"04.94.30.28.32";"06.09.98.53.64";"";"1500";"1494"
+"DURANTAY";"Laurence";"83660";"CARNOULES";"177 rue du san giorgio";"06.75.70.01.96";"06.33.60.29.13";"cliente indisponible pendant les jours de livraison proposés";"500";"0"

@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"BORDINI";"Sylvie";"68370";"ORBEY";"17 rue du 16 decembre";"";"";"06.58.90.13.58";"";"1303";"1333";"1000";"Supérieur"
+"DIDIER";"Stephane";"68370";"ORBEY";"7 rue lefebure";"";"06.80.58.60.38";"06.80.58.60.38";"";"1303";"1333";"1000";"Supérieur"
+"PALMIERI";"Marie-claire";"68420";"HATTSTATT";"1, rue du fossé";"";"03.89.49.12.76";"06.73.82.46.48";"";"1303";"1333";"1000";"Supérieur"
+"MICLO";"Edith";"68370";"ORBEY";"5 rue lefébure";"";"06.83.67.15.49";"06.21.21.40.98";"";"1297";"1327";"2500";"Ordinaire"

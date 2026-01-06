@@ -1,0 +1,5 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"BEYNIER";"Laurent";"43270";"CEAUX-D'ALLEGRE";"Lieu dit langlade";"";"04.71.00.21.88";"06.72.45.16.52";"";"1150";"1160";"1000";"999";"Supérieur"
+"GABON";"Philippe";"43220";"DUNIERES";"3, lotissement la côte";"";"06.13.14.04.38";"06.20.79.84.06";"";"1200";"1210";"500";"500";"Ordinaire"
+"CHAMBON";"Isabelle";"07310";"BOREE";"Prévenchères / 416 route de molines ";"Contacter par tél 0628273097 pour précision livraison et prise des clés. ";"";"06.28.27.30.97";"";"1200";"1210";"500";"500";"Supérieur"
+"PELLISSIER";"William";"43200";"SAINT-MAURICE-DE-LIGNON";"135 allée des genets ";"";"";"06.88.22.79.86";"";"1130";"1140";"3500";"3500";"Ordinaire"

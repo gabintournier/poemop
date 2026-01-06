@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Livré;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BRET;Guillaume;20 rue principale epinant;52140;VAL-DE-MEUSE;1500;1500;1120;1140;O;Livraison le matin à 8h dans la mesure du possible. merci;06.34.15.06.82;;
+BURGKAM ;Manu    ;8 rue curie ;52600;TORCENAY;1000;1000;1120;1140;S;;06.12.97.69.58;;
+CADET;Celine;13 impasse des patouillets;52310;BOLOGNE;1000;888;1120;1140;S;;06.86.57.42.74;;
+HELBECQUE ;Damien;11 rue de la voire;52220;ROBERT-MAGNY;1000;1000;1120;1140;S;;06.65.68.29.84;03.51.58.21.18;
+MENUT;Celine;27 rue paul cornuot;52000;NEUILLY-SUR-SUIZE;1200;1299;1120;1140;O;;06.35.32.67.99;;
+OUDIN;Julie;90 route de louvemont;52130;ALLICHAMPS;1500;0;1120;1140;S;;07.87.96.68.82;06.77.85.42.30;
+TAILLANDIER;JAMES;42 AVENUE DE LORRAINE;52300;JOINVILLE;500;500;1120;1140;S;;07.82.52.08.75;06.67.21.66.82;
+VOGT;Aurélien;22 rue fer à cheval;52000;CHAUMONT;1000;1001;1120;1140;S;;07.72.26.15.67;;

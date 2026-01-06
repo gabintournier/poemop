@@ -1,0 +1,10 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"DALLONGEVILLE";"Aurore";"68500";"Issenheim";"35 rue de cernay";"";"";"06.73.01.27.04";"";"1042";"1062";"2000";"Ordinaire"
+"GRIMM";"Patrick ";"68840";"PULVERSHEIM";"7 rue du vieil armand";"";"";"03.89.48.09.20";"";"1047";"1067";"1000";"Ordinaire"
+"YALDIZ";"Filiz";"68390";"SAUSHEIM";"4 rue françois riedweg";"Livraison le lundi après-midi ou mercredi après-midi si possible. Bien cordialement ";"";"07.83.31.29.97";"";"1097";"1117";"500";"Ordinaire"
+"WERNER";"Marcel";"68260";"KINGERSHEIM";"13 rue de la largue";"";"06.65.72.72.34";"06.67.15.60.78";"";"1047";"1067";"1500";"Ordinaire"
+"KASSER";"Denis";"68500";"MERXHEIM";"6 rue bellevue";"";"";"06.72.17.65.95";"";"1047";"1067";"1500";"Supérieur"
+"JUNCKER";"Alain";"68500";"ISSENHEIM";"68, rue de la forêt ";"";"06.13.14.23.91";"06.13.14.23.91";"";"1047";"1067";"1500";"Ordinaire"
+"MEY";"Benedicte";"68890";"MEYENHEIM";"12 rivage de l'ill";"";"06.70.40.82.33";"06.70.40.82.33";"";"1047";"1067";"1000";"Ordinaire"
+"HENDERSON";"Anaïs";"68520";"SCHWEIGHOUSE-THANN";"2 rue des vosges";"";"06.85.82.07.03";"06.70.07.40.53";"";"1047";"1067";"1000";"Ordinaire"
+"BABULA";"Pierre";"68500";"ORSCHWIHR";"17 rue des primevère ";"";"";"07.86.27.31.48";"";"1047";"1067";"1200";"Supérieur"

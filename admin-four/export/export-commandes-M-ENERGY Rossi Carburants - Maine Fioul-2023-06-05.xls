@@ -1,0 +1,12 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MOREL";"N.";"41600";"CHAON";"8, rue de la gaucherie";"";"";"06.09.13.49.85";"";"1068";"1093";"500";"500";"Ordinaire"
+"AVRIL";"Isabelle";"41600";"CHAUMONT-SUR-THARONNE";"La farge ";"";"";"06.76.43.90.63";"Demande d'annulation de la part de la cliente";"1068";"1093";"500";"0";"Ordinaire"
+"GRIBONVALD";"Julien";"41600";"LAMOTTE-BEUVRON";"78 rue ernest gaugiran";"Rien n'est urgent, livraison le mardi ou mercredi.";"";"06.89.23.51.44";"";"1056";"1081";"1500";"1200";"Supérieur"
+"TISSIER";"Patrick";"41600";"LAMOTTE-BEUVRON";"14 rue de la république";"";"";"06.87.63.12.75";"";"1056";"1081";"1500";"1500";"Supérieur"
+"DUCIMETIERE";"Réjane";"41800";"LAVARDIN";"3 l arche - les vallées";"";"02.54.89.30.29";"06.65.70.64.09";"";"1068";"1093";"500";"500";"Supérieur"
+"CHATEL";"Marie-christine";"41800";"MONTOIRE-SUR-LE-LOIR";"16 rue jean jaurès";"";"06.22.19.26.62";"";"";"1056";"1081";"1000";"1000";"Supérieur"
+"JOLY";"Stephane";"41350";"VINEUIL";"8 rue des 4 vents";"";"06.63.17.84.10";"";"";"1056";"1081";"1300";"1271";"Ordinaire"
+"LECOMTE";"Laure ";"41360";"EPUISAY";"9 rue des mimosas ";"a un chèque énergie ; souhaite régler en plusieurs fois";"06.78.26.67.34";"";"";"1068";"1093";"500";"534";"Ordinaire"
+"CHASSIER ";"Vincent  ";"41190";"CHAMBON-SUR-CISSE";"13 chemin des courtaudieres ";"";"06.22.50.22.81";"";"";"1068";"1093";"700";"700";"Ordinaire"
+"CHARBONNIER";"Gilles";"41120";"MONTHOU-SUR-BIEVRE";"33 bis rue du chatelet";"";"06.99.21.17.99";"02.54.44.14.78";"";"1056";"1081";"1500";"1500";"Ordinaire"
+"LOTHE";"Dominique";"41130";"GIEVRES";"19,rue de l'eglise";"";"06.52.81.09.07";"";"";"1056";"1081";"1000";"1000";"Supérieur"

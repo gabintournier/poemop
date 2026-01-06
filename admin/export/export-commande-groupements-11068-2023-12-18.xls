@@ -1,0 +1,6 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+DIDIER;Michel ;12 rue des 4 fils doumer;70300;LUXEUIL-LES-BAINS;500;1160;1180;O;;06.18.56.10.97;06.87.33.71.44;
+LAVISSE;Patrick;12 rue des tilleuls;25660;SAONE;500;1160;1180;O;;06.88.61.94.53;;
+RICHARD;Sebastien  ;14 rue du chalet;25140;CHARQUEMONT;600;1160;1180;O;;06.16.03.63.35;06.16.03.63.35;
+BARDEY;Sabine;4 rue de la gare;70500;JUSSEY;1000;1130;1140;S;;06.88.24.35.05;;
+LE BRETTON;Jean-marie;5 rue gustave courbet;70000;VELLE-LE-CHATEL;1000;1130;1140;S;;06.74.90.80.97;03.84.78.88.46;

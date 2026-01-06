@@ -1,0 +1,18 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"DAMMAN";"Brigitte ";"78440";"LAINVILLE-EN-VEXIN";"2 chemin des aulnaies";"MODE DE LIVRAISON : PETIT CAMION merci";"";"06.11.40.88.75";"";"1040";"1050";"1500";"1500";"Ordinaire"
+"SCHNEIDER";"Nicolas";"78270";"LOMMOYE";"7 rue jean jaurès ";"";"";"06.69.58.48.10";"";"1040";"1050";"1100";"1100";"Supérieur"
+"LELEUX";"Gery";"78910";"OSMOY";"24 chemin du pre clos ";"";"06.31.78.66.13";"06.31.78.15.91";"";"1040";"1050";"1500";"1500";"Supérieur"
+"RASO";"Philippe";"78520";"follainville";"1 rue wilson";"";"";"06.33.21.72.84";"";"1040";"1050";"1500";"1500";"Ordinaire"
+"DUBOIS";"Daniel";"78490";"GROSROUVRE";"29, route du buisson";"";"06.11.88.75.45";"06.07.34.89.64";"";"1040";"1050";"1000";"1000";"Ordinaire"
+"AVIGNON";"Laurence";"95450";"SERAINCOURT";"157 rue normande";"Pour la livraison veuillez noter que je suis absente du 29 août au 2 septembre inclus.
+Merci";"";"06.73.18.70.92";"";"1040";"1050";"1000";"1000";"Ordinaire"
+"DELOUZILLIERE";"Alain";"78940";"LA QUEUE-LES-YVELINES";"18t rue du clos colin";"";"01.34.86.45.66";"06.60.35.24.13";"";"1040";"1050";"1500";"1393";"Ordinaire"
+"BRUMENT";"Francis";"78370";"PLAISIR";"5 rue jean giono";"";"01.30.81.63.03";"07.83.95.58.78";"";"1030";"1040";"2000";"1461";"Ordinaire"
+"TABOURDEAU ";"Damien ";"78440";"GARGENVILLE";"6 avenue jean jaurès ";"serait-il possible de me livrer la commande entre le 26 et le 29 août ?";"";"07.84.01.35.37";"";"1070";"1080";"500";"500";"Ordinaire"
+"LEVE";"Alexandre ";"78690";"SAINT-REMY-L'HONORE";"11 rue de la borne ";"";"";"06.08.02.91.37";"";"1040";"1050";"1500";"1445";"Supérieur"
+"JOURDAN";"Solen";"78810";"FEUCHEROLLES";"34 bis rue de poissy";"";"06.12.19.64.55";"06.12.19.64.55";"";"1030";"1040";"2000";"2000";"Supérieur"
+"DUBOURDONNAY";"Maud";"95450";"AVERNES";"7 rue de l audience";"";"";"06.63.20.77.69";"";"1070";"1080";"500";"500";"Ordinaire"
+"FENAILLON ";"Jean-claude ";"78980";"SAINT-ILLIERS-LA-VILLE";"7 ter grande rue ";"Portail bleu ";"01.34.76.00.37";"06.16.51.40.33";"";"1070";"1080";"500";"500";"Ordinaire"
+"MORIN";"Sylvie";"78370";"PLAISIR";"Edmond rostand";"Commande urgente . Merci ";"";"06.81.43.09.99";"";"1030";"1040";"2000";"2000";"Ordinaire"
+"DUCHESNE-CONAN";"Christian";"95420";"MAGNY-EN-VEXIN";"20 rue de l'ecole";"";"";"06.63.94.95.74";"";"1040";"1050";"1400";"1400";"Supérieur"
+"LE GUEN";"Damien";"78580";"MAULE";"31 boulevard des fossés";"";"";"06.68.14.01.52";"";"1070";"1080";"650";"650";"Supérieur"

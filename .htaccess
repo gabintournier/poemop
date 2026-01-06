@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# Redirection spécifique avant tout
+RewriteRule ^contact\.html$ /contacter_poemop.php [R=301,L]
+
+# Rewrite perso
+RewriteRule ^commande-groupee-de-fioul-domestique-([a-z\-]+)-([0-9]+)-departement.html$ commandes_groupees_fioul_departement.php?dep=$2 [L]
+
+# Forcer le 404 pour les autres fichiers inexistants
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* - [R=404,L]
+
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php

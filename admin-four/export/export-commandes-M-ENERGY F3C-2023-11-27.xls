@@ -1,0 +1,8 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"KASSAP-RIEFENSTAHL";"Roseline";"94500";"CHAMPIGNY-SUR-MARNE";"44 avenue marie";"";"";"06.24.79.42.20";"";"1150";"1170";"1000";"1001";"Ordinaire"
+"BREUIL";"Philippe";"91120";"PALAISEAU";"201 rue marceau";"";"06.64.12.54.97";"06.64.12.54.97";"";"1150";"1170";"1000";"1000";"Ordinaire"
+"CAPITAO";"Pedro  ";"91380";"CHILLY-MAZARIN";"15 rue medicis";"";"06.62.50.08.55";"";"";"1150";"1170";"1000";"1000";"Ordinaire"
+"BOUCHARD";"Nicolas     ";"91240";"SAINT-MICHEL-SUR-ORGE";"13 rue leo lagrange";"";"06.80.21.85.31";"";"";"1150";"1170";"1600";"1425";"Ordinaire"
+"SZTURYCZ";"Yves";"91570";"BIEVRES";"20 allée des marronniers, 20";"";"";"06.01.77.73.56";"";"1130";"1150";"2000";"0";"Ordinaire"
+"CHAPUIS";"Cedric";"94100";"SAINT-MAUR-DES-FOSSES";"25 bis rue alfred de musset ";"";"";"06.69.54.55.90";"";"1170";"1190";"500";"500";"Ordinaire"
+"LECONTE";"Frédéric";"77410";"CHARNY";"10 rue vigne croix";"";"";"06.88.90.94.91";"";"1150";"1170";"1000";"0";"Ordinaire"

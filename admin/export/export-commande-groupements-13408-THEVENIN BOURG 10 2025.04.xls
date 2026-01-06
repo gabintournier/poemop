@@ -1,0 +1,13 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BERGOSSI;Isabelle;34 rue de jouee;10190;VAUCHASSIS;1200;1085;1085;S;;06.18.29.07.22;03.25.75.83.11;
+BRODEAU;Isabelle;16 rue des berdins;10440;LA RIVIERE-DE-CORPS;500;1135;1135;S;;06.59.19.32.57;06.59.19.32.57;
+CRELIER;Laetitia;1 imp des marches courlanges;10280;SAINT-MESMIN;1000;1085;1085;S;;03.25.81.64.95;06.49.42.40.75;
+DA COSTA;Joao manuel;11 impasse des maisons neuves;10140;LA VILLENEUVE-AU-CHENE;1200;1085;1085;S;;09.54.06.20.57;;
+EEKEN;Florine ;6 rue nouvelle ;10280;SAINT-MESMIN;1000;1085;1085;S;;06.11.81.28.43;06.34.53.34.58;
+GOUPIL;Jacqueline;8 rue pingron;10210;CHESLEY;500;1135;1135;S;;06.71.25.00.98;;
+HAGENBACH;Stephanie;14 rue des vignes;10150;VAILLY;1200;1085;1085;O;;06.89.94.32.17;;
+KENNEL;Amandine;21 rue de la libération;10180;SAINT-LYE;1200;1085;1085;S;Pouvez-vous livrer le 22 avril de préférence ou le 18? Merci ;06.40.67.61.72;06.15.27.20.99;
+LEVY;Claude;Saint julien les villas;10800;SAINT-JULIEN-LES-VILLAS;3500;1085;1085;S;;06.85.41.60.88;;
+RENAULT;Didier ;28 rue de thurey ;10180;SAINT-BENOIT-SUR-SEINE;1000;1085;1085;S;;06.09.01.32.32;06.20.58.66.60;
+ROUALET;Christiane;84 le grand véon;10000;TROYES;2000;1085;1085;S;;06.29.02.39.15;03.25.80.44.66;
+WUNSCH SUSSELIN;Katia;43 rue marcellin berthelot;10000;TROYES;1000;1085;1085;O;;06.71.60.63.03;;

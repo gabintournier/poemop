@@ -1,0 +1,66 @@
+/* FONT */
+@font-face {
+  font-family: "Goldplay Medium";
+  src: local("Goldplay Medium"), local("Goldplay-Medium"),
+    url("../font/Goldplay-Medium.woff2") format("woff2"),
+    url("../font/Goldplay-Medium.woff") format("woff"),
+    url("../font/Goldplay-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldplay Bold";
+  src: local("Goldplay Bold"), local("Goldplay-Bold"),
+    url("../font/Goldplay-Bold.woff2") format("woff2"),
+    url("../font/Goldplay-Bold.woff") format("woff"),
+    url("../font/Goldplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldplay Alt Black";
+  src: local("Goldplay Alt Black"), local("Goldplay-Alt-Black"),
+    url("../font/GoldplayAlt-Black.woff2") format("woff2"),
+    url("../font/GoldplayAlt-Black.woff") format("woff"),
+    url("../font/GoldplayAlt-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldplay Light";
+  src: local("Goldplay Light"), local("Goldplay-Light"),
+    url("../font/Goldplay-Light.woff2") format("woff2"),
+    url("../font/Goldplay-Light.woff") format("woff"),
+    url("../font/Goldplay-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldplay Alt SemiBold";
+  src: local("Goldplay Alt SemiBold"), local("Goldplay-Alt-SemiBold"),
+    url("../font/GoldplayAlt-SemiBold.woff2") format("woff2"),
+    url("../font/GoldplayAlt-SemiBold.woff") format("woff"),
+    url("../font/GoldplayAlt-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Goldplay Alt Medium";
+  src: local("Goldplay Alt Medium"), local("Goldplay-Alt-Medium"),
+    url("../font/GoldplayAlt-Medium.woff2") format("woff2"),
+    url("../font/GoldplayAlt-Medium.woff") format("woff"),
+    url("../font/GoldplayAlt-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,7 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AUGUSTE;Amélie;48 grande rue;52170;NARCY;600;1062;1079;O;;06.23.45.63.41;;
+BLUM;Jean-lionel;6 route de paris;52000;JONCHERY;1000;1017;1034;S;Il faut contourner la maison pour entrer dans le local où se trouvent les cuves de fioul.;06.61.58.08.97;06.32.04.68.91;
+BURGKAM ;Manu    ;8 rue curie ;52600;TORCENAY;600;1062;1079;S;;06.12.97.69.58;;
+LESOEUR;Christophe;710 rue pierre durand;52200;CHAMPIGNY-LES-LANGRES;1000;1017;1034;S;;06.29.74.11.13;06.16.73.04.88;
+MICHEL;Cynthia ;30 grande rue;52300;DONJEUX;1200;1017;1034;O;;07.87.39.60.17;07.87.39.60.17;
+SACONNEY;Mégane;94 rue de la gare;52600;CULMONT;1200;1017;1034;O;;06.30.04.81.39;06.30.04.81.39;

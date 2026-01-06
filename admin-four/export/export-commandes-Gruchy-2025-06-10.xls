@@ -1,0 +1,13 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"ROULLEAU";"Olivier";"27140";"BAZINCOURT-SUR-EPTE";"11 rue du château saussard, hameau de thierceville";"";"";"06.29.72.20.54";"";"990";"1010";"500";"Supérieur"
+"TRICHET";"Patrick";"27640";"BREUILPONT";"43 rue du mont vallet";"";"";"06.67.95.17.49";"";"990";"1010";"800";"Supérieur"
+"LENAIN";"Christophe";"27370";" SAINT CYR LA CAMPAGNE";"44 rue du champ corneille";"";"";"06.13.86.79.63";"";"960";"980";"1200";"Ordinaire"
+"BOILEAU";"Jacques";"27110";"LE NEUBOURG";"8 b rue du bosc fichet";"";"06.76.87.51.37";"02.32.67.23.34";"Je n'arrive pas à joindre ce client";"960";"980";"1200";"Supérieur"
+"SAINDON";"Christophe ";"27380";"GRAINVILLE";"4 clos de grainville, 27380";"";"";"07.78.25.00.23";"";"990";"1010";"600";"Ordinaire"
+"NORMAND";"Jérôme";"27440";"TOUFFREVILLE";"65 grande rue";"";"09.81.95.39.44";"06.50.58.64.08";"";"990";"1010";"800";"Supérieur"
+"GUEROULT";"Sebastien ";"76520";"FRANQUEVILLE-SAINT-PIERRE";"124 rue du mouchel";"";"";"06.09.39.44.91";"";"960";"980";"1500";"Ordinaire"
+"CHENAY";"/daniele";"27160";"FRANCHEVILLE";"433,rue de la haie des saules";"";"";"06.84.79.08.58";"";"990";"1010";"700";"Supérieur"
+"DE BEAUSSE";"Sophie";"27370";"SAINT-PIERRE-DES-FLEURS";"32 route d'elbeuf";"";"06.24.67.41.50";"09.52.47.68.62";"";"960";"980";"1100";"Ordinaire"
+"THOMAS";"Vincent";"27110";"ECQUETOT";"6 rue de l'ecaudey";"";"";"06.18.19.50.74";"";"960";"980";"1000";"Ordinaire"
+"GUERBETTE ";"Jean claude";"76350";"OISSEL";"14 impasse des platanes ";"";"";"06.99.29.47.40";"";"990";"1010";"500";"Ordinaire"
+"CHEDOZEAU";"Nathalie";"27300";"MENNEVAL";"21 rue du gros orme 27300 menneval";"";"06.35.91.42.80";"02.32.46.02.14";"";"950";"970";"2000";"Ordinaire"

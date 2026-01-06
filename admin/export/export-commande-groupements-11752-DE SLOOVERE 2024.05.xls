@@ -1,0 +1,12 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+CASTEL;Corinne;51 rue paul eluard;62210;AVION;1000;1130;1150;O;;07.87.68.78.95;;
+CROQUET;Remi;38 rue baptiste;59440;MARBAIX;500;1130;1150;O;;06.76.88.09.11;;
+DECAMPS;Andre;18 route de sars poteries;59216;DIMONT;500;1130;1150;O;;06.77.16.64.12;06.77.16.64.12;
+DUBUS;Bernard;10 rue des warequais;59144;WARGNIES-LE-PETIT;750;1130;1150;S;;06.27.26.49.69;;
+LAJUS ;Nat ;16 rue du château ;62160;AIX-NOULETTE;500;1130;1150;S;;06.82.42.88.28;06.71.11.07.20;
+MALEWICZ;Michel ;57 rue du général de gaulle;62110;HENIN-BEAUMONT;500;1130;1150;O;;06.32.60.75.25;07.62.82.17.85;
+MEURIN;Thierry ;29 avenue foch;59370;MONS-EN-BAROEUL;1000;1130;1150;S;adresse: 29 avenue Foch 59370 Mons en Baroeul téléphone: 06 49 28 79 08;06.49.28.79.08;06.49.28.79.08;
+REGENYE;Christine;4 rue jean jaurès;62138;VIOLAINES;500;1130;1150;S;;03.20.29.16.80;06.67.81.83.57;
+SAGAR;Mouldi ;8, allee de l'eau vive;59770;MARLY;1100;1130;1150;S;;03.27.29.71.10;06.01.74.94.59;
+SEGARD;Stéphane ;63 rue st georges;59400;CAMBRAI;2000;1130;1150;S;;06.43.53.23.07;03.27.83.78.91;
+VANHOUCKE;Emmanuel;286 route de neuville;59250;HALLUIN;2000;1130;1150;O;;06.89.74.97.51;;

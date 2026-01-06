@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "194.110.192.244",
+            "port": 3306,
+            "driver": "MariaDB",
+            "password": "Laen#t@4J3vw9cfJ",
+            "database": "devpmp",
+            "username": "devpmp",
+            "name": "DEV POEMOP"
+        }
+    ]
+}

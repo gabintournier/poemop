@@ -1,0 +1,18 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"RAKOTONDRAMANITRA";"Agnes";"54610";"BELLEAU";"27 rue st sulpice";"";"";"06.03.74.87.39";"";"1100";"1150";"500";"500";"Ordinaire"
+"Marinoni";"nicolas";"54560";"Audun Le Roman";"8 rue Guyot";"";"06.78.37.50.24";"";"";"1050";"1070";"1000";"823";"Supérieur"
+"ZAID";"Salime";"54260";"TELLANCOURT";"18 rue du général de gaulle tellancourt ";"";"";"07.62.78.85.56";"";"1050";"1070";"1500";"1500";"Ordinaire"
+"GIRELLI";"Patrice";"55240";"ETON";"37 grande rue";"";"06.16.36.33.66";"03.29.85.43.38";"";"1100";"1150";"800";"679";"Supérieur"
+"FERRARI";"Melissa";"54590";"HUSSIGNY-GODBRANGE";"3 rue ambroise croizat";"";"";"06.80.28.37.60";"";"1100";"1150";"600";"601";"Supérieur"
+"DE MOUZON";"Jean-philippe";"54150";"BRIEY";"7 rue du lavoir";"Petit camion. SVP Merci.";"06.86.17.37.47";"03.82.46.03.91";"";"1050";"1070";"2000";"2000";"Supérieur"
+"MESIERES";"Marie";"54150";"LANTEFONTAINE";"23 rue de metz";"";"";"06.74.43.35.58";"";"1050";"1070";"1000";"1001";"Ordinaire"
+"VIE";"Alexandre";"55160";"TRESAUVAUX";"11 rue de la mairie";"Merci de privilégier une livraison le mercredi ou le samedi. Les autres jours personne n'est au domicile.";"06.42.37.45.37";"";"";"1100";"1150";"500";"500";"Ordinaire"
+"IDEEAU";"Christophe";"54560";"FILLIERES";"12 rue du 154ri";"Livraison a mon domicile personnel et a me facturer directement .
+Herreras Christophe
+12 rue du 154ri
+54560 Fillieres";"06.13.25.04.07";"06.13.25.04.07";"";"1050";"1070";"1200";"1300";"Ordinaire"
+"HERGENHAHN";"Pierre";"54190";"VILLERUPT";"45, rue carnot";"";"";"06.14.26.00.20";"";"1050";"1070";"2000";"0";"Ordinaire"
+"HUMPLER";"Jean marc";"54870";"VILLERS-LA-CHEVRE";"2 rue du bois sigot";"";"06.42.05.80.54";"03.82.44.96.94";"";"1050";"1070";"1000";"1134";"Ordinaire"
+"HALSDORF";"Jean";"54870";"VILLERS-LA-CHEVRE";"3 rue du bois sigot";"veuillez nous livrer après le 5 juin pas dispo avant. Je vous envoie le chèque d‘énergie que on a reçu par l‘état.";"06.44.24.05.47";"";"";"1050";"1070";"1000";"1000";"Ordinaire"
+"FEISTHAUER";"Nicole";"54890";"VANDELAINVILLE";"3 impasse de l'église";"";"06.67.83.11.37";"03.83.81.86.34";"";"1050";"1070";"1000";"2000";"Ordinaire"
+"FERFERA";"Zak";"54590";"HUSSIGNY-GODBRANGE";"17 rue jean jaures ";"";"";"06.43.80.33.10";"";"1050";"1070";"2000";"1300";"Ordinaire"

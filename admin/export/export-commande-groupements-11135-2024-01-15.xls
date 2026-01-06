@@ -1,0 +1,9 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+LE DOZE;Sabine;25 bis chemin des greffières;69450;SAINT-CYR-AU-MONT-D'OR;1000;1137;1147;O;;06.79.84.10.42;06.79.84.10.42;
+DE GATELLIER;Emeric;Dardilly;69570;DARDILLY;1800;1137;1147;O;;06.64.14.55.71;06.64.08.24.44;
+FONTAINE;Rosine;7 rue des pierres blanches;69290;CRAPONNE;1000;1137;1147;S;;06.87.19.85.18;06.08.76.52.90;
+GRUFFAT;Albert;270 chemin du bois seigneur;69210;LENTILLY;1150;1137;1147;S;;06.12.47.64.23;06.12.47.64.23;
+PROUD;André;663 route de sant abdon;69390;CHARLY;2000;1125;1135;O;;06.71.96.82.45;;
+BOUCHU;Marc ;45 rue ricard;69110;SAINTE-FOY-LES-LYON;1000;1137;1147;O;;07.83.29.36.11;;
+JOUSSELME;Gerard;1 place de l'église;69210;SAIN-BEL;1500;1137;1147;O;;06.73.42.32.45;06.73.83.48.89;
+VENET;Patrick;106 impasse des levrieres;69480;ANSE;1200;1137;1147;S;;06.16.97.20.34;;

@@ -1,0 +1,5 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+AGUILLAUME;Stéphane;4 rue du burbach;68240;KAYSERSBERG;700;1105;1125;O;;06.67.31.20.98;;
+HOPPE;Claude;1 rue de westhalten;68250;ROUFFACH;2000;1050;1070;S;;07.61.04.84.20;07.61.04.84.20;
+RUSCH ;Remy;112 rue de la krutenau;68127;OBERENTZEN;1200;1055;1075;O;;03.89.49.49.34;;
+SENGLER;Francis;44 rue du vieil hôpital oui 44 rue du vieil hôpital;68750;BERGHEIM;1000;1055;1075;O;;07.88.59.32.21;;

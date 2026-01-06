@@ -1,0 +1,15 @@
+﻿Nom;Prénom;Adresse;CP;Ville;Qté;Prix O; Prix S;Type Fioul;Commentaire Fournisseur;Tel1;Tel2;
+BAYLE;Nathalie;16 douzieme avenue;60260;LAMORLAYE;3000;1065;1080;S;commande urgente souhait d'une livraison mercredi ou jeudi;06.02.35.30.89;;
+BERGES;Jean-claude;413 avenue de la gare;60320;BETHISY-SAINT-PIERRE;2700;1070;1085;O;Livraison sur 2 sites dans le même village. 1700 L + 1000 L : une commande pour le 413 avenue de la Gare et mon atelier 105 rue Jean Jaurès à Béthisy Saint Pierre ;06.81.97.13.71;;
+BOULBEN;Sandrine;5 rue du moulin;60350;CHELLES;1000;1075;1090;O;;06.30.39.06.64;;
+BROU;Laurent;10 rue du fort;60170;BAILLY;1000;1075;1090;O;;06.52.96.92.82;03.60.45.16.29;
+CAILLY;Gilbert;88 rue maurice choron;60320;BETHISY-SAINT-PIERRE;1500;1075;1090;O;;03.44.39.88.81;06.68.20.41.86;
+COCHET;David ;14 rue du potager du château;60420;Maignelay-Montigny;500;1080;1095;O;;03.44.07.35.35;06.03.31.20.68;
+COURTOIS;Anthony  ;33 rue du vieux moulin ;60950;VER-SUR-LAUNETTE;1400;1075;1090;S;;07.78.82.64.72;;
+HARCHAOUI;Gérard;276 rue de genvry;60400;CRISOLLES;500;1080;1095;O;;06.87.03.71.02;;
+LIEVIN;Claude;51 rue des bois;60710;HOUDANCOURT;1000;1075;1090;O;;06.25.85.17.56;06.25.85.17.56;
+MARQUANT ;Julie ;13 rue du clos lenoir ;60130;AVRECHY;800;1080;1095;O;Pas lundi Mercredi et vendredi avant 8h Mardi et jeudi avant 8h ou après 15h30;06.66.23.15.32;;
+MESLOUB;Ourida;6 rue saint laurent;60440;NANTEUIL-LE-HAUDOUIN;500;1080;1095;S; la commande est urgente merci.;06.63.36.66.93;06.46.15.68.42;
+NUNES;Joseph  ;21 allée de l'olinval;60150;VILLERS-SUR-COUDUN;500;1080;1095;S;;06.49.09.37.82;06.66.91.25.67;
+VERBRUGGHE;Yannick;5 rue des coterets;60170;BAILLY;1000;1075;1090;O;;06.22.32.18.78;;
+ZANELLO;Valerie;18 rue de l'argiliere;60650;SAINT-PAUL;1000;1075;1090;S;;06.79.66.43.58;;

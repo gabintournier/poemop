@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"GIACOMETTI ";"Armand ";"54560";"SERROUVILLE";"18 rue de la poste";"";"";"06.47.54.27.64";"";"1190";"1215";"500";"500";"Ordinaire"
+"PLUMECOCQ";"Nadège";"54800";"PUXIEUX";"19 grande rue";"commande urgente";"";"06.86.17.86.87";"";"1190";"1215";"500";"500";"Supérieur"
+"KEMPF";"Frédérique";"67310";"WESTHOFFEN";"2 place de la synagogue";"";"06.09.01.59.97";"06.68.10.81.80";"zone non livrée";"1160";"1185";"1000";"0";"Ordinaire"
+"FAUCONNIER";"Yves";"55600";"JUVIGNY-SUR-LOISON";"3 rue du puits";"Livraison a partir du 13 mai svp.";"";"07.77.85.57.62";"";"1160";"1185";"1000";"1000";"Supérieur"
+"PELTIER";"Georges";"55600";"ECOUVIEZ";"3 rue de montquintin ";"";"+0032474239112";"+0032474237313";"";"1160";"1185";"1500";"1500";"Ordinaire"

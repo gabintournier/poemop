@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qualité
+"LAUX";"Christelle";"54560";"SANCY";"7 rue du coteau";"";"06.74.57.96.24";"06.74.57.96.11";"";"1145";"1168";"500";"Ordinaire"
+"LAVAUX ";"Pierre";"54400";"COSNES-ET-ROMAIN";"19 rue du roussillon ";"";"06.08.30.84.97";"06.58.52.40.14";"";"1090";"1113";"1100";"Supérieur"
+"FERRARI";"Franck";"54800";"JOUAVILLE";"7 rue du chateau";"";"06.07.31.31.54";"06.07.31.31.54";"";"1090";"1113";"1000";"Ordinaire"
+"THETIOT";"Carine";"54620";"VILLE-AU-MONTOIS";"1 rue des preyons";"";"06.83.63.77.27";"06.83.63.77.27";"";"1090";"1113";"1000";"Ordinaire"
+"MOREAU";"Claude";"54620";"PIERREPONT";"10 rue du faubourg";"";"";"06.88.47.67.02";"";"1090";"1113";"1000";"Ordinaire"

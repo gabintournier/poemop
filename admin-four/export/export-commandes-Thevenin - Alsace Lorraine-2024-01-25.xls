@@ -1,0 +1,6 @@
+﻿Nom;Prenom;CP;Ville;Adresse;Commentaire client;Tel 1;Tel 2;Commentaire;Prix Ord;Prix Sup;Qté;Qté Livrée;Qualité
+"MAIRE";"Dimitri";"68240";"FRELAND";"1 rue des hauts jardins";"";"";"06.88.21.82.31";"";"1205";"1225";"500";"500";"Ordinaire"
+"AGUILLAUME";"Stéphane";"68240";"KAYSERSBERG";"4 rue du burbach";"";"";"06.67.31.20.98";"";"1155";"1175";"1500";"1500";"Supérieur"
+"STOCKY";"Maryvonne";"68240";"FRELAND";"10 rue des violettes";"";"06.75.46.53.44";"07.83.19.96.60";"";"1205";"1225";"500";"500";"Ordinaire"
+"HEINRICH";"Philippe";"68240";"KAYSERSBERG";"1 rue du 18 décembre";"";"06.59.84.24.80";"06.59.84.24.80";"";"1155";"1175";"1000";"1000";"Supérieur"
+"BERTHIER";"Jean-pierre ";"68370";"ORBEY";"45 rue ch.de gaulle";"";"06.27.05.72.47";"03.89.71.26.37";"";"1155";"1175";"1500";"1500";"Ordinaire"
