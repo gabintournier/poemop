@@ -185,7 +185,7 @@ if (isset($message)) {
 				<div class="form-inline" style="margin-top: 5%;">
 					<label class="col-sm-6 col-form-label" for="cmd_qt" style="padding-left:0;">Quantité L</label>
 					<div class="col-sm-4" style="padding:0">
-						<input type="text" name="cmd_qt" value="<?php if (isset($_GET["id_cmd"]) && isset($cmd_details["cmd_qte"])) {
+						<input type="number" name="cmd_qt" value="<?php if (isset($_GET["id_cmd"]) && isset($cmd_details["cmd_qte"])) {
 							echo $cmd_details["cmd_qte"];
 						} ?>" class="form-control" style="width:100%;">
 					</div>

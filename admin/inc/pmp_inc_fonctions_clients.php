@@ -1,6 +1,6 @@
 <?php
-include_once __DIR__ . "/../inc/pmp_inc_fonctions_mail.php";
-include_once __DIR__ . "/../inc/pmp_inc_fonctions.php";
+include_once __DIR__ . "/../../inc/pmp_inc_fonctions_mail.php";
+include_once __DIR__ . "/../../inc/pmp_inc_fonctions.php";
 //Afficher tous les clients sur la page chercher
 function getClientsListe(&$co_pmp)
 {
@@ -553,10 +553,10 @@ if (!empty($_POST["update_client"]) || !empty($_POST["valide_update_client"])) {
 }
 
 if (!empty($_POST["nouveau_client"])) {
-	$actif = $_POST["statut_client"];
-	$cp = $_POST["cp"];
-	$cp_id = $_POST["ville"];
-	$mail = $_POST["mail"];
+	$actif = $_POST["statut_client"] ?? '';
+	$cp = $_POST["cp"] ?? '';
+	$cp_id = $_POST["ville"] ?? '';
+	$mail = $_POST["mail"] ?? '';
 	$traite = isset($_POST["client_traite"]) ? "1" : "0";
 	$com_user = mysqli_real_escape_string($co_pmp, $_POST["four_com"]);
 	$com_crm = mysqli_real_escape_string($co_pmp, $_POST["cm_crm"]);
@@ -565,17 +565,17 @@ if (!empty($_POST["nouveau_client"])) {
 	$date_bloque = date_format(new DateTime($date_b), 'Y-m-d H:i:s');
 
 	$res_ville = getVilleCPId($co_pmp, $cp_id);
-	$ville = $res_ville["ville"];
+	$ville = $res_ville["ville"] ?? '';
 
 	$date_creation_compte = date('Y-m-d H:i:s');
 	$date_creation_compte = mysqli_real_escape_string($co_pmp, $date_creation_compte);
 
-	$nom = formatNom($_POST["nom"]);
-	$prenom = formatPrenom($_POST["prenom"]);
-	$adresse = formatAdresse($_POST['adresse']);
-	$tel_port = formatTel($_POST['tel_1']);
-	$tel_fixe = formatTel($_POST['tel_2']);
-	$tel_3 = formatTel($_POST['tel_3']);
+	$nom = formatNom($_POST["nom"] ?? '');
+	$prenom = formatPrenom($_POST["prenom"] ?? '');
+	$adresse = formatAdresse($_POST['adresse'] ?? '');
+	$tel_port = formatTel($_POST['tel_1'] ?? '');
+	$tel_fixe = formatTel($_POST['tel_2'] ?? '');
+	$tel_3 = formatTel($_POST['tel_3'] ?? '');
 
 	if (strlen($nom) > 0) {
 		$query = "  INSERT INTO jjj_users (name, email, registerDate)
