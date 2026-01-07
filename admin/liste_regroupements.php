@@ -17,10 +17,23 @@
 </style>
 <?php
 session_start();
+if (!function_exists('ensureEtatFourDefaults')) {
+	function ensureEtatFourDefaults()
+	{
+		if (!isset($_SESSION["etat_four"])) {
+			$_SESSION["etat_four"] = '10';
+		}
+		if (!isset($_SESSION["etat_four2"])) {
+			$_SESSION["etat_four2"] = '10';
+		}
+	}
+}
 if (!isset($_SESSION['user'])) {
 	header('Location: /admin/connexion.php');
 	die();
 }
+
+ensureEtatFourDefaults();
 
 $title = 'Liste des regroupements';
 $title_page = 'Liste des regroupements';
@@ -100,6 +113,7 @@ if (!empty($_POST["charger_grp"])) {
 	unset($_SESSION["charger_calculer"]);
 	unset($_SESSION["charger_mois"]);
 	unset($_SESSION["charger_grp"]);
+	ensureEtatFourDefaults();
 	$res = getListeRegroupementsCréer($co_pmp);
 	// if(!empty($_POST["exporter_grp"]))
 	// {
@@ -117,6 +131,7 @@ if (!empty($_POST["charger_grp"])) {
 	unset($_SESSION["charger_calculer"]);
 	unset($_SESSION["charger_grp"]);
 	unset($_SESSION["charger_mois"]);
+	ensureEtatFourDefaults();
 
 	$terminer_grp = "ok";
 	if (!empty($_POST["n_fact"])) {

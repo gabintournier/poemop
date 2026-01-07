@@ -191,8 +191,10 @@ if (!empty($_POST["commandes_termines"])) {
 //Charger les données du bouton "Charger et Calculer"
 function getFiltresGroupementsCalculer(&$co_pmp)
 {
-	$etat1 = $_SESSION["etat_four"];
-	$etat2 = $_SESSION["etat_four2"];
+	$etat1 = isset($_SESSION["etat_four"]) ? $_SESSION["etat_four"] : '10';
+	$etat2 = isset($_SESSION["etat_four2"]) ? $_SESSION["etat_four2"] : '10';
+	$_SESSION["etat_four"] = $etat1;
+	$_SESSION["etat_four2"] = $etat2;
 
 	if (!empty($_SESSION["resp"])) {
 		$resp = $_SESSION["resp"];
@@ -403,8 +405,10 @@ if (!empty($_POST["appliquer_facture"])) {
 //Charger les stats du bas de tableau de 'Charger et calculer'
 function GetStatsGroupement(&$co_pmp, $statut)
 {
-	$etat1 = $_SESSION["etat_four"];
-	$etat2 = $_SESSION["etat_four2"];
+	$etat1 = isset($_SESSION["etat_four"]) ? $_SESSION["etat_four"] : '10';
+	$etat2 = isset($_SESSION["etat_four2"]) ? $_SESSION["etat_four2"] : '10';
+	$_SESSION["etat_four"] = $etat1;
+	$_SESSION["etat_four2"] = $etat2;
 
 	if (!empty($_SESSION["resp"])) {
 		$resp = $_SESSION["resp"];
