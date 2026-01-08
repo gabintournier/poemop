@@ -444,24 +444,20 @@ if (isset($message)) {
 						<div class="col-sm-6">
 							<label for="date_min" class="col-sm-12 col-form-label" style="padding-left:0;">Date entre
 								le</label>
-							<input type="date" name="date_min" class="form-control"
-								value="<?php if (isset($_SESSION["date_min"])) {
-									echo $_SESSION["date_min"];
-								} elseif (isset($dateDeb)) {
-									echo $dateDeb;
-								} ?>"
-								style="width:100%;">
+							<input type="date" name="date_min" class="form-control" value="<?php if (isset($_SESSION["date_min"])) {
+								echo $_SESSION["date_min"];
+							} elseif (isset($dateDeb)) {
+								echo $dateDeb;
+							} ?>" style="width:100%;">
 						</div>
 						<div class="col-sm-6">
 							<label for="date_max" class="col-sm-12 col-form-label" style="padding-left:0;">et le
 								'inclus'</label>
-							<input type="date" name="date_max" class="form-control"
-								value="<?php if (isset($_SESSION["date_max"])) {
-									echo $_SESSION["date_max"];
-								} elseif (isset($dateFin)) {
-									echo $dateFin;
-								} ?>"
-								style="width:100%;">
+							<input type="date" name="date_max" class="form-control" value="<?php if (isset($_SESSION["date_max"])) {
+								echo $_SESSION["date_max"];
+							} elseif (isset($dateFin)) {
+								echo $dateFin;
+							} ?>" style="width:100%;">
 						</div>
 					</div>
 					<div class="row" style="margin-top: 3%;">
@@ -539,11 +535,9 @@ if (isset($message)) {
 					<div class="form-inline" style="margin: 5px 0 0 0;">
 						<label for="n_four" class="col-sm-5 col-form-label" style="padding-left:0;">N° Facture</label>
 						<div class="col-sm-7" style="padding:0">
-							<input type="text" class="form-control" name="n_fact"
-								value="<?php if (isset($_SESSION["n_fact"])) {
-									echo $_SESSION["n_fact"];
-								} ?>"
-								style="width:100%;">
+							<input type="text" class="form-control" name="n_fact" value="<?php if (isset($_SESSION["n_fact"])) {
+								echo $_SESSION["n_fact"];
+							} ?>" style="width:100%;">
 						</div>
 					</div>
 					<div class="form-inline">
